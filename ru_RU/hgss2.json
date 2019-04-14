@@ -1,0 +1,3932 @@
+[
+    {
+        "ability": {
+            "name": "Песнь Лунной Пыли",
+            "text": "Один раз за свой ход, когда ты перемещаешь Джирачи из своей руки в запас, ты можешь бросить монету 3 раза. За каждого выпавшего орла, найди в своих сброшенных картах карту Энергии {P} и присоедини её к Джирачи.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Дыра во Времени",
+                "text": "Выбери Покемонов твоего противника Стадии 1 или 2, их количество не должно превышать число карт Энергии, присоединённых к Джирачи. Сними карту Эволюции высшей Стадии со всех этих Покемонов и верни их в руку противника."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-1",
+        "name": "Джирачи",
+        "number": "1",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50x",
+                "name": "Жесткая Давка",
+                "text": "Сбрось 3 верхние карты из своей колоды. Эта атака наносит 50 пунктов урона за каждую сброшенную карту Энергии."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Магматическая Базука",
+                "text": "Сними 2 единицы Энергии {R}, присоединённых к Магмортару."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Magmar",
+        "hp": 110,
+        "id": "hgss2-2",
+        "name": "Магмортар",
+        "number": "2",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Плеск Волн",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Глубоководный Водоворот",
+                "text": "Положи все карты, которые у тебя на руках, обратно в колоду. Затем возьми 5 карт."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-3",
+        "name": "Манафи",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ментальное Парение",
+            "text": "Если к активному Покемону присоединена Энергия {P}, цена отступления для этого Покемона равна 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Импульсный Взрыв",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Двойной Молот",
+                "text": "Выбери 2 Запасных Покемона противника. Эта атака наносит 40 пунктов вреда каждому из выбранных Покемона. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Metang",
+        "hp": 130,
+        "id": "hgss2-4",
+        "name": "Метагросс",
+        "number": "4",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Магический Транс",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь переместить Энергию {P}, присоединённую к 1 из твоих Покемонов, на другого твоего Покемона. Эту силу нельзя использовать, если на Мисмагиуса действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Психический Импульс",
+                "text": "Наносит 10 пунктов вреда Запасным Покемонам противника, которые имеют фишки вреда. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Misdreavus",
+        "hp": 90,
+        "id": "hgss2-5",
+        "name": "Мисмагиус",
+        "number": "5",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Пушка-Качалка",
+                "text": "Выбери 1 Покемона противника. Эта атака наносит 30 пунктов вреда этому Покемону. (Не применяй Слабость и Устойчивость к Запасным Покемонам).Замени Октиллери на одного из своих Запасных Покемона."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Чернильная Бомба",
+                "text": "Если Защищающийся Покемон пытается атаковать в следующем ходе противника, противник должен подбросить монетку. Если выпала \"решка\", атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Remoraid",
+        "hp": 80,
+        "id": "hgss2-6",
+        "name": "Октиллери",
+        "number": "6",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Прыгающая Жаба",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь выбрать Покемона {W} в твоём запасе и заменить его на твоего активного Покемона. Эту силу нельзя использовать, если на Политоеда действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Большой Хор",
+                "text": "Подбрось монетку для каждого Покемона {W}, который находится в игре. Эта атака наносит 30 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 120,
+        "id": "hgss2-7",
+        "name": "Политоид",
+        "number": "7",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Дуновение Праздника",
+            "text": "Один раз за свой ход, когда ты перемещаешь Шеймина из своей руки в запас, ты можешь переместить любое количество карт Энергии, присоединённых к твоим Покемонам, на любых других твоих Покемонов.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Расцвет Энергии",
+                "text": "Сними 3 фишки вреда со всех своих Покемона, которые имеют любую Энергию."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-8",
+        "name": "Шеймин",
+        "number": "8",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Грохот",
+                "text": "Во время следующего хода противника Защищающийся Покемон не может покинуть поле боя."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20x",
+                "name": "Опрокидывание",
+                "text": "Наносит 20 пунктов вреда за каждую единицу Энергии {F}, присоединённой к Судовуду."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-9",
+        "name": "Судовуду",
+        "number": "9",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Дрожь Земли",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Гига-Осушение",
+                "text": "Сними с Тортерры столько фишек вреда, сколько пунктов вреда нанесено Защищающемуся Покемону."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Grotle",
+        "hp": 140,
+        "id": "hgss2-10",
+        "name": "Тортерра",
+        "number": "10",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Слепящий Свет",
+                "text": "Подбрось монетку. Если выпал \"орёл\", Защищающийся Покемон Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20x",
+                "name": "Психоволны",
+                "text": "Наносит 20 пунктов вреда на каждую единицу Энергии, которая есть у Защищающегося Покемона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Natu",
+        "hp": 90,
+        "id": "hgss2-11",
+        "name": "Ксату",
+        "number": "11",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Парализующий Яд",
+                "text": "Защищающийся Покемон сейчас Отравлен. Подбрось монетку. Если выпал \"орёл\", Защищающийся Покемон также Парализован."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "50x",
+                "name": "Двойная Игла",
+                "text": "Брось монету 2 раза. Эта атака наносит 50 пунктов урона за каждого выпавшего орла."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Kakuna",
+        "hp": 110,
+        "id": "hgss2-12",
+        "name": "Бидрилл",
+        "number": "12",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Вымывание",
+            "text": "В свой ход (перед своей атакой), ты можешь сколько угодно раз переместить Энергию {W}, присоединённую к 1 из твоих запасных Покемонов, на активного Покемона. Эту силу нельзя использовать, если на Бластойза действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Водяная Пушка",
+                "text": "Верни 2 единицы Энергии {W}, присоединённой к Бластойзу, в руку. Выбери 1 Покемона противника. Эта атака наносит 100 пунктов вреда выбранному Покемону. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 130,
+        "id": "hgss2-13",
+        "name": "Бластойз",
+        "number": "13",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Сверхзвук",
+                "text": "Защищающийся Покемон сейчас Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Ураганные Крылья",
+                "text": "Брось монету 4 раза. Эта атака наносит 50 пунктов урона за каждого выпавшего орла."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 110,
+        "id": "hgss2-14",
+        "name": "Кробат",
+        "number": "14",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Повторение Пройденного",
+                "text": "Подбрось 5 монет. Эта атака наносит 20 пунктов вреда за каждого выпавшего \"орла\"."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Атака Крылом",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Spearow",
+        "hp": 80,
+        "id": "hgss2-15",
+        "name": "Фироу",
+        "number": "15",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ускорение Воды",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь присоединить карту Энергии {W} из своей руки к Флоутзелу. Эту силу нельзя использовать, если на Флоутзела действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Водопад",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Buizel",
+        "hp": 80,
+        "id": "hgss2-16",
+        "name": "Флоутзел",
+        "number": "16",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Насос",
+                "text": "Можно нанести 50 пунктов вреда плюс ещё 30 пунктов вреда. При этом возврати карту Энергии, присоединённую к Кингдре, в руку."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Водяная Стрела",
+                "text": "Выбери 1 Покемона противника. Эта атака наносит 30 пунктов вреда этому Покемону. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-17",
+        "name": "Кингдра",
+        "number": "17",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Энергия Отражения",
+                "text": "Перемести карту Энергии, присоединённую к Лантурну, на 1 из своих Запасных Покемона."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Слепящий Свет",
+                "text": "Подбрось монетку. Если выпал \"орёл\", Защищающийся Покемон Сбит с Толку."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 90,
+        "id": "hgss2-18",
+        "name": "Лантурн",
+        "number": "18",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "50",
+                "name": "Мощный Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Накачивание",
+                "text": "В твой следующий ход все атаки Лукарио будут наносить Защищающемуся Покемону на 30 пунктов вреда больше (перед применением Слабости и Устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Riolu",
+        "hp": 90,
+        "id": "hgss2-19",
+        "name": "Лукарио",
+        "number": "19",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Тепловое Ускорение",
+                "text": "Найди в своей колоде сброшенных карт до 3 карт Энергии {R} и присоедини их к 1 из своих Покемона."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Опаляющее Пламя",
+                "text": "Защищающийся Покемон сейчас Обожжён."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vulpix",
+        "hp": 90,
+        "id": "hgss2-20",
+        "name": "Найнтэйлс",
+        "number": "20",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Динамический Удар",
+                "text": "Подбрось монетку. Если выпал \"орёл\", эта атака наносит 60 пунктов вреда плюс ещё 40 пунктов вреда, при этом Защищающийся Покемон Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Паровой Каток",
+                "text": "Наносит 20 пунктов вреда одному из Запасных Покемона противника. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 130,
+        "id": "hgss2-21",
+        "name": "Поливрат",
+        "number": "21",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Пинок ниже пояса",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Бибоп Удар",
+                "text": "Выбери 1 Покемона противника. Подбрасывай монетку, пока не выпадет \"решка\". Эта атака наносит выбранному Покемону 50 пунктов вреда за каждого выпавшего \"орла\". (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Mankey",
+        "hp": 90,
+        "id": "hgss2-22",
+        "name": "Праймейп",
+        "number": "22",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Энергетический Сигнал",
+            "text": "Если в свой ход ты присоединяешь к Розрейду из своей руки карту Энергии {G} или карту Энергии {P}, ты можешь использовать эту силу. Если ты присоединяешь карту Энергии {G}, защищающийся Покемон теперь сбит с толку. Если ты присоединяешь карту Энергии {P}, защищающийся Покемон теперь отравлен. Эту силу нельзя использовать, если на Розрейда действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Сильный Удар",
+                "text": "Наносит 20 пунктов вреда за каждую единицу Энергии, присоединённую к Розрейду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Roselia",
+        "hp": 90,
+        "id": "hgss2-23",
+        "name": "Розрейд",
+        "number": "23",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Защитный Пресс",
+                "text": "В следующий ход противника любой вред, полученный Стиликсом в результате атак, снижается на 20 пунктов (после применения Слабости и Устойчивости)."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80x",
+                "name": "Стальное Колебание",
+                "text": "Подбрось 2 монетки. Эта атака наносит 80 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 120,
+        "id": "hgss2-24",
+        "name": "Стиликс",
+        "number": "24",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Крепкий Храп",
+            "text": "Один раз за свой ход, когда ты перемещаешь Торкола из совей руки в запас, ты можешь бросить монету. Если выпал орёл, защищающийся Покемон теперь обожжён.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Блеск",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-25",
+        "name": "Торкол",
+        "number": "25",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Гиперлуч",
+                "text": "Сбрось карту Энергии, присоединённую к Защищающемуся Покемону."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Сокрушающий Удар Хвостом",
+                "text": "Подбрось монетку. Если выпал \"орёл\", эта атака наносит 40 пунктов вреда и ещё 20 пунктов вреда."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 140,
+        "id": "hgss2-26",
+        "name": "Тиранитар",
+        "number": "26",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Перерубание",
+                "text": "Подбрось монетку. Если выпал \"орёл\", эта атака наносит 50 пунктов вреда и ещё 30 пунктов вреда."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Конфронтация",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 100,
+        "id": "hgss2-27",
+        "name": "Урсаринг",
+        "number": "27",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Солнечное Исцеление",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь снять 1 фишку урона с активного Покемона. Эту силу нельзя использовать, если на Черрима действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Семя-Бомба",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Cherubi",
+        "hp": 80,
+        "id": "hgss2-28",
+        "name": "Черрим",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Возврат",
+                "text": "Набирай карты, пока у тебя в руке не окажется 6 карт."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-29",
+        "name": "Данспарс",
+        "number": "29",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20",
+                "name": "Подлый Взгляд",
+                "text": "Во время следующего хода противника Защищающийся Покемон не может покинуть поле боя."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Zubat",
+        "hp": 80,
+        "id": "hgss2-30",
+        "name": "Голбат",
+        "number": "30",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Сонная Пыльца",
+                "text": "Подбрось монетку. Если выпал \"орёл\", Защищающийся Покемон сейчас Спит."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Бритволист",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Turtwig",
+        "hp": 90,
+        "id": "hgss2-31",
+        "name": "Гротл",
+        "number": "31",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Быстрая Эволюция",
+                "text": "Найди в своей колоде карту, которая эволюционирует из Какуны, и положи её на карту Какуны. (Это засчитывается как эволюционирование Какуны). После этого перетасуй колоду."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Ядовитое Жало",
+                "text": "Защищающийся Покемон сейчас Отравлен."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Weedle",
+        "hp": 80,
+        "id": "hgss2-32",
+        "name": "Какуна",
+        "number": "32",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Подъём Энергии",
+                "text": "Найди в своей колоде сброшенных карт до 2 карт Энергии {P} и присоедини их к своим Покемонам как угодно."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Психо-Удар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Beldum",
+        "hp": 80,
+        "id": "hgss2-33",
+        "name": "Метанг",
+        "number": "33",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Призыв Семьи",
+                "text": "Найди в своей колоде до 2 Базовых Покемонов и положи их себе в запас. После этого перетасуй колоду."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10+",
+                "name": "Парная Команда",
+                "text": "Если в Запасе есть Пласл, эта атака наносит 10 пунктов вреда и ещё 20 пунктов вреда."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-34",
+        "name": "Майнун",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Бонус Сияния",
+                "text": "Сбрось карту Энергии {R} из руки. Затем возьми 3 карты."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Горение",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-35",
+        "name": "Намел",
+        "number": "35",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Сбор",
+                "text": "Возьми 2 карты."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Громовой Разряд",
+                "text": "Брось монету. Если выпала решка, Пласл наносит 10 пунктов урона самому себе."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-36",
+        "name": "Пласл",
+        "number": "36",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Лёгкий Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Гипновзрыв",
+                "text": "Защищающийся Покемон сейчас Спит."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Poliwag",
+        "hp": 80,
+        "id": "hgss2-37",
+        "name": "Поливирл",
+        "number": "37",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Взрывной Газ",
+            "text": "Если к Пьюпитару присоединена Энергия, цена отступления для Пьюпитара равна 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Ярость",
+                "text": "Наносит 20 пунктов вреда плюс ещё 10 пунктов вреда за каждую фишку вреда у Пьюпитара."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 70,
+        "id": "hgss2-38",
+        "name": "Пьюпитар",
+        "number": "38",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Молот",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Скоростная Атака",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 80,
+        "id": "hgss2-39",
+        "name": "Пьюпитар",
+        "number": "39",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Плавник-бритва",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Мутная Вода",
+                "text": "Наносит 10 пунктов вреда одному из Запасных Покемона противника. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Horsea",
+        "hp": 80,
+        "id": "hgss2-40",
+        "name": "Сидра",
+        "number": "40",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Малиновый Бык",
+                "text": "Подбрось 3 монетки. Эта атака наносит 30 пунктов вреда за каждого выпавшего \"орла\". Торос Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Пинок Наотмашь",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-41",
+        "name": "Таурос",
+        "number": "41",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Сёрф",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Водяная Стрела",
+                "text": "Выбери 1 Покемона твоего противника. Эта атака наносит 20 пунктов урона тому Покемону. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Squirtle",
+        "hp": 80,
+        "id": "hgss2-42",
+        "name": "Вартортл",
+        "number": "42",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Сшибающий Хвост",
+                "text": "Подбрось монетку. Если выпала \"решка\", атака не имеет последствий."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Язык Хвоста",
+                "text": "Перемести карту Энергии, присоединённую к Защищающемуся Покемону, на другого Покемона противника."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-43",
+        "name": "Эйпом",
+        "number": "43",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Реакция",
+                "text": "Можно обменять Белдума на 1 из своих Запасных Покемона."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-44",
+        "name": "Белдум",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Мутная Вода",
+                "text": "Наносит 10 пунктов вреда одному из Запасных Покемона противника. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-45",
+        "name": "Buizel",
+        "number": "45",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Плевок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Концентрация",
+                "text": "Выбери в колоде любую карту Энергии, покажи её противнику и возьми себе в руку. После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-46",
+        "name": "Карнивайн",
+        "number": "46",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Бросок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-47",
+        "name": "Чераби",
+        "number": "47",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Таран",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Шаровая Молния",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-48",
+        "name": "Чинчоу",
+        "number": "48",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Ритм",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Шлепок Плавником",
+                "text": "Подбрось 2 монетки. Эта атака наносит 20 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-49",
+        "name": "Хорси",
+        "number": "49",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Пожиратель Гор",
+                "text": "Сбрось верхнюю карту из колоды противника. Затем сними 2 фишки вреда с Ларвитара."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Безрассудный Заряд",
+                "text": "Ларвитар наносит 10 пунктов вреда себе."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-50",
+        "name": "Ларвитар",
+        "number": "50",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Удар Костяшками",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Укус",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-51",
+        "name": "Ларвитар",
+        "number": "51",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Удар Магмы",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10",
+                "name": "Живой Уголь",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-52",
+        "name": "Магмар",
+        "number": "52",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "40-",
+                "name": "Удар Каратэ",
+                "text": "Наносит 40 пунктов вреда минус 10 пунктов вреда за каждую фишку вреда у Манки."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Удар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-53",
+        "name": "Манки",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Меткая Стрельба",
+                "text": "Выбери 1 Покемона противника. Эта атака наносит 10 пунктов вреда выбранному Покемону. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-54",
+        "name": "Misdreavus",
+        "number": "54",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Teleport",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Удар Клювом",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-55",
+        "name": "Нату",
+        "number": "55",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Энергетическое Лечение",
+            "text": "Каждый раз, когда ты присоединяешь карту Энергии из своей руки к 1 из твоих Покемонов, сними с этого Покемона 1 фишку урона.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Безграничная Сила",
+                "text": "Оникс не сможет атаковать в твой следующий ход."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-56",
+        "name": "Оникс",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Полный Оборот",
+                "text": "Подбрось 2 монетки. Эта атака наносит 20 пунктов вреда плюс ещё 20 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-57",
+        "name": "Оникс",
+        "number": "57",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Призыв Семьи",
+                "text": "Найди в своей колоде до 2 Стартовых Покемона и помести их в Запас. После этого перетасуй колоду."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Плавник-бритва",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-58",
+        "name": "Поливаг",
+        "number": "58",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Капля Дождя",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Водяная Стрела",
+                "text": "Выбери 1 Покемона твоего противника. Эта атака наносит 20 пунктов урона тому Покемону. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-59",
+        "name": "Реморэйд",
+        "number": "59",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Пинок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Двойная Рубка",
+                "text": "Подбрось 2 монетки. Эта атака наносит 20 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-60",
+        "name": "Риолу",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20x",
+                "name": "Танец Лепестков",
+                "text": "Подбрось 3 монетки. Эта атака наносит 20 пунктов вреда за каждого выпавшего \"орла\". Розелия Сбит с Толку."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-61",
+        "name": "Розелия",
+        "number": "61",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Хлопок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Насест",
+                "text": "Сними 4 фишки вреда со Спироу. Спироу не сможет отступить в твой следующий ход."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-62",
+        "name": "Спироу",
+        "number": "62",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Атака Панцирем",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Капля Дождя",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-63",
+        "name": "Сквиртл",
+        "number": "63",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Волшебные Рога",
+                "text": "Защищающийся Покемон сейчас Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Призыв Семьи",
+                "text": "Найди в своей колоде до 2 Базовых Покемонов и положи их себе в запас. После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-64",
+        "name": "Стантлер",
+        "number": "64",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Налёт",
+                "text": "Теддиурса наносит 10 пунктов вреда себе."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-65",
+        "name": "Теддиурса",
+        "number": "65",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Шквал",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Зеленый Зов",
+                "text": "Подбрось 2 монетки. Если выпал \"орёл\", выбери в колоде Покемона {G}, покажи его своему противнику и возьми себе в руку. После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-66",
+        "name": "Тропиус",
+        "number": "66",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Таран",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Семя Пиявки",
+                "text": "Если эта атака наносит какой-либо вред защищающемуся Покемону (после применения Слабости и Устойчивости), сними 1 фишку вреда с Тортвига."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-67",
+        "name": "Тортвиг",
+        "number": "67",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Фейерверк",
+                "text": "Подбрось монетку. Если выпала \"решка\", сбрось единицу Энергии {R} с Валпикса."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-68",
+        "name": "Vulpix",
+        "number": "68",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Жало",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Быстрая Эволюция",
+                "text": "Найди в колоде карту, которая эволюционирует из Видла, и положи её на карту Видла. (Это засчитывается как эволюционирование Видла). После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "hgss2-69",
+        "name": "Видл",
+        "number": "69",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Скольжение",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Двойная Атака",
+                "text": "Выбери 2 из Запасных Покемона противника. Эта атака наносит 10 пунктов вреда каждому из выбранных Покемона. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-70",
+        "name": "Зубат",
+        "number": "70",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-71",
+        "name": "Выступление группы поддержки",
+        "number": "71",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Возьми 3 карты. Противник может взять карту."
+        ]
+    },
+    {
+        "id": "hgss2-72",
+        "name": "Двойной Шар",
+        "number": "72",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Подбрось 2 монетки. Для каждого выпавшего \"орла\", выбери в колоде Стартового Покемона, покажи его своему противнику и возьми себе в руку. После этого перетасуй колоду."
+        ]
+    },
+    {
+        "id": "hgss2-73",
+        "name": "Болтовня Эмси",
+        "number": "73",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Брось монету. Если выпал орёл, возьми 3 карты. Если выпала решка, возьми 2 карты."
+        ]
+    },
+    {
+        "id": "hgss2-74",
+        "name": "Восстановление Энергии",
+        "number": "74",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Найди в своей колоде сброшенных карт 4 карты обычной Энергии, покажи их своему противнику и помести в колоду."
+        ]
+    },
+    {
+        "id": "hgss2-75",
+        "name": "Настройки Инженера",
+        "number": "75",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Сбрось карту Энергии из своей руки. Затем возьми 4 карты."
+        ]
+    },
+    {
+        "id": "hgss2-76",
+        "name": "Хороший Хлыст",
+        "number": "76",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Подбрось монетку. Если выпал \"орёл\", выбери в колоде сброшенных карт любого Покемона, покажи её своему противнику и положи сверху колоды. Если выпала \"решка\", выбери в колоде сброшенных карт карту Тренера, покажи её своему противнику и положи сверху колоды."
+        ]
+    },
+    {
+        "id": "hgss2-77",
+        "name": "Вопросы Собеседника",
+        "number": "77",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Посмотри верхние 8 карт в своей колоде. Выбери сколько угодно карт Энергии, покажи их своему противнику и возьми себе в руку. Верни другие карты обратно в колоду и перетасуй её."
+        ]
+    },
+    {
+        "id": "hgss2-78",
+        "name": "Судья",
+        "number": "78",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Все игроки должны вернуть карты из руки в колоду, перетасовать колоду и взять по 4 карты."
+        ]
+    },
+    {
+        "id": "hgss2-79",
+        "name": "Растение Жизни",
+        "number": "79",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Подбрось монетку. Если выпал \"орёл\", выбери 1 из своих Покемона и сними все Особые Состояния и 6 фишек вреда с этого Покемона (или все пункты, если их меньше 6)."
+        ]
+    },
+    {
+        "id": "hgss2-80",
+        "name": "ЭкстраСила",
+        "number": "80",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Присоедини Экстра-Силу к 1 из своих Покемона. Сбрось эту карту в конце своего хода. ,Если Экстра-Сила Покемона связана с атаками, атака наносит дополнительно 10 пунктов вреда защищающемуся Покемону (перед применением Слабости и Устойчивости)."
+        ]
+    },
+    {
+        "id": "hgss2-81",
+        "name": "Ротация Покемона",
+        "number": "81",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Противник должен обменять своего Активного Покемона на 1 из своих Запасных Покемона."
+        ]
+    },
+    {
+        "id": "hgss2-82",
+        "name": "Редкая Сладость",
+        "number": "82",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Выбери 1 из своих участвующих в игре Стартовых Покемона. Если у тебя в руке есть карта 1 Уровня или 2 Уровня, которая эволюционирует из этого Покемона, положи её на выбранного Покемона. (Это считается эволюцией данного Покемона.) (Если в руке выбран Покемон 2 Уровня, положи этого Покемона на Стартового Покемона вместо Покемона 1 Уровня)."
+        ]
+    },
+    {
+        "id": "hgss2-83",
+        "name": "Суперзахват",
+        "number": "83",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Подбрось монетку. Если выпал \"орёл\", верни себе в руку 1 из своих Покемона и все карты для него."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Ловкий Нырок",
+                "text": "Выбери 1 Покемона противника. Эта атака наносит 30 пунктов вреда этому Покемону. (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Сильный Яд",
+                "text": "Активный Покемон твоего противника теперь отравлен. Между ходами положи 4 фишки урона вместо 1 на того Покемона."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 130,
+        "id": "hgss2-84",
+        "name": "Кробат",
+        "number": "84",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Опрыскивание",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь положить 1 фишку урона на 1 Покемона твоего противника. Эту силу нельзя использовать, если на Кингдра действует особое состояние.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Драконий Пар",
+                "text": "Если у противника в игре есть Покемон {R}, базовый вред этой атаки составляет 20 пунктов вместо 60."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-85",
+        "name": "Кингдра",
+        "number": "85",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Подводный Нырок",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь использовать эту силу. Лантурн теперь является типом {W} до конца твоего хода. Эту силу нельзя использовать, если на Лантурна действует особое состояние..",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Мощная Искра",
+                "text": "Наносит 40 пунктов вреда плюс 10 дополнительных пунктов вреда за каждую единицу Энергии, присоединённую ко всем твоим Покемонам."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 110,
+        "id": "hgss2-86",
+        "name": "Лантурн",
+        "number": "86",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Металл без Изъяна",
+            "text": "На Стиликса не могут повлиять никакие особые состояния.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Разгром Гайа",
+                "text": "Можно сбросить любую карту Стадиона в игре."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Поток Энергии",
+                "text": "Найди в колоде сброшенных карт карту Энергии и присоедини её к Стиликсу."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 140,
+        "id": "hgss2-87",
+        "name": "Стиликс",
+        "number": "87",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Вой в темноте",
+                "text": "Эта атака наносит 20 пунктов вреда всем Покемонам в игре (твоим и противника) (исключая всех Покемона {D}). (Не применяй Слабость и Устойчивость к Запасным Покемонам)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Коготь Мощи",
+                "text": "На вред от этой атаки для Защищающегося Покемона не влияют Поке-Сила, Поке-Приём и любые другие эффекты."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Хвост Мегатона",
+                "text": "Сбрось 3 верхние карты своей колоды."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 160,
+        "id": "hgss2-88",
+        "name": "Тиранитар",
+        "number": "88",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Безумие",
+            "text": "Если на Урсаринге есть фишки урона, каждая из атак Урсаринга наносит на 60 пунктов урона больше (до применения слабости и устойчивости).",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Рука-молот",
+                "text": "Сбрось верхнюю карту в колоде противника."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Мегатон Лариат",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 110,
+        "id": "hgss2-89",
+        "name": "Урсаринг",
+        "number": "89",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-90",
+        "name": "Entei & Raikou LEGEND (#90)",
+        "number": "90",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-91",
+        "name": "Entei & Raikou LEGEND (#91)",
+        "number": "91",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-92",
+        "name": "Raikou & Suicune LEGEND (#92)",
+        "number": "92",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-93",
+        "name": "Raikou & Suicune LEGEND (#93)",
+        "number": "93",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-94",
+        "name": "Suicune & Entei LEGEND (#94)",
+        "number": "94",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-95",
+        "name": "Suicune & Entei LEGEND (#95)",
+        "number": "95",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-96",
+        "name": "Гравюра Альфы",
+        "number": "96",
+        "rarity": "Rare Secret",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Перетасуй колоду!"
+        ]
+    }
+]

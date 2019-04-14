@@ -1,0 +1,1091 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Combustión",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Fuegosagrado",
+                "text": "Lanza una moneda. Si sale cara, elige 1 de los Pokémon de tu rival. Este ataque hace 80 puntos de daño a ese Pokémon. El daño de este ataque no se ve afectado por Debilidad o Resistencia."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 100,
+        "id": "hsp-1",
+        "name": "Ho-Oh",
+        "number": "1",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Aeroblast",
+                "text": "Lanza 2 monedas. Este ataque hace 50 puntos de daño más otros 20 puntos de daño adicionales por cada cara."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Chapoteo Ondulante",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hsp-2",
+        "name": "Lugia",
+        "number": "2",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Rayo",
+                "text": "Descarta todas las Energías unidas a Pikachu."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Recargar",
+                "text": "Lanza una moneda. Si sale cara, busca en tu mazo una carta de Energía {L} y únela a Pikachu. Baraja tu mazo después."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hsp-3",
+        "name": "Pikachu",
+        "number": "3",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Atadura tenaz",
+            "text": "Mientras Wobbuffet es tu Pokémon Activo, el Coste de Retirada del Pokémon Activo de tu rival es {C}{C} más.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Tropezón",
+                "text": "Lanza una moneda. Si sale cara, este ataque hace 20 puntos de daño más otros 30 puntos de daño adicionales."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hsp-4",
+        "name": "Wobbuffet",
+        "number": "4",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Insomnia",
+            "text": "Hoothoot can't be Asleep.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Picotazo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hsp-5",
+        "name": "Hoothoot",
+        "number": "5",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Alcance nocturno",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes mirar la mano de tu rival. Este poder no se puede usar si Noctowl se ve afectado por una Condición Especial.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Hipnorrayo",
+                "text": "El Pokémon Defensor pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Hoothoot",
+        "hp": 90,
+        "id": "hsp-6",
+        "name": "Noctowl",
+        "number": "6",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Baile de lluvia",
+            "text": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes unir una carta de Energía {W} de tu mano a 1 de tus Pokémon {W}. Este poder no se puede usar si Feraligatr se ve afectado por una Condición Especial.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60+",
+                "name": "Hidrotriturar",
+                "text": "Hace 60 puntos de daño más otros 10 puntos de daño adicionales por cada contador de daño en el Pokémon Defensor."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Croconaw",
+        "hp": 140,
+        "id": "hsp-7",
+        "name": "Feraligatr",
+        "number": "7",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Transferir hojas",
+            "text": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes mover una carta de Energía {G} unida a 1 de tus Pokémon a otro de tus Pokémon. Este poder no se puede usar si Meganium se ve afectado por una Condición Especial.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Rayo solar",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Bayleef",
+        "hp": 150,
+        "id": "hsp-8",
+        "name": "Meganium",
+        "number": "8",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Postcombustión",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes buscar en tu pila de descartes una carta de Energía {R} y unirla a 1 de tus Pokémon. Si lo haces, pones 1 contador de daño en ese Pokémon. Este poder no se puede usar si Typhlosion se ve afectado por una Condición Especial.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Llama de destrucción",
+                "text": "Descarta una carta de Energía unida a Typhlosion y descarta una carta de Energía unida al Pokémon Defensor."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Quilava",
+        "hp": 140,
+        "id": "hsp-9",
+        "name": "Typhlosion",
+        "number": "9",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Viento infinito",
+                "text": "Si Latios está en tu Banca, quita 2 contadores de daño de cada uno de tus Pokémon en Banca."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Asistencia de Energía",
+                "text": "Busca en tu pila de descartes una carta de Energía básica y únela a 1 de tus Pokémon en Banca."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hsp-10",
+        "name": "Latias",
+        "number": "10",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Flote lustroso",
+            "text": "Si tienes a Latias en juego, el Coste de Retirada para Latios es 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Ala infinita",
+                "text": "Descarta 2 Energías unidas a Latios."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hsp-11",
+        "name": "Latios",
+        "number": "11",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Colorless",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Cara de dulces sueños",
+            "text": "Mientras Cleffa esté Dormido, previene de todo el daño hecho a Cleffa por ataques.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 0,
+                "cost": [],
+                "damage": "",
+                "name": "Eeeeeeek",
+                "text": "Baraja tu mano en tu mazo y después roba 6 cartas. Cleffa pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "hsp-12",
+        "name": "Cleffa",
+        "number": "12",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": []
+    },
+    {
+        "ability": {
+            "name": "Cara de dulces sueños",
+            "text": "Mientras Smoochum esté Dormido, previene de todo el daño hecho a Smoochum por ataques.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 0,
+                "cost": [],
+                "damage": "",
+                "name": "Travesuras de Energía",
+                "text": "Mueve una carta de Energía unida a 1 Pokémon de tu rival a otro Pokémon de tu rival. Smoochum pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "hsp-13",
+        "name": "Smoochum",
+        "number": "13",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Surf",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Ferry",
+                "text": "Busca en tu pila de descartes una carta de Partidario, enséñasela a tu rival y ponla en tu mano."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hsp-14",
+        "name": "Lapras",
+        "number": "14",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Líquido fermentador",
+            "text": "Cuando unas una carta de Energía de tu mano a Shuckle, roba una carta.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Golpe caparazón",
+                "text": "Lanza una moneda. Si sale cara, previene de todo el daño infligido a Shuckle por los ataques durante el próximo turno de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hsp-15",
+        "name": "Shuckle",
+        "number": "15",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Coleccionar",
+                "text": "Roba 2 cartas."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Sacudida Atronadora",
+                "text": "Lanza una moneda. Si sale cruz, Plusle se hace 10 puntos de daño a sí mismo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hsp-16",
+        "name": "Plusle",
+        "number": "16",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10+",
+                "name": "Más juego en equipo",
+                "text": "Si Plusle está en tu Banca, este ataque hace 10 puntos de daño más 20 puntos de daño adicionales."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Llamar a la Familia",
+                "text": "Busca en tu mazo hasta 2 Pokémon Básicos y ponlos en tu Banca. Baraja tu mazo después."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hsp-17",
+        "name": "Minun",
+        "number": "17",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Electrocañón",
+                "text": "Durante tu próximo turno, Raikou no puede usar el Electrocañón."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hsp-19",
+        "name": "Raikou",
+        "number": "19",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Envite Ígneo",
+                "text": "Descarta todas las Energías {R} unidas a Entei."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hsp-20",
+        "name": "Entei",
+        "number": "20",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Frío polar",
+                "text": "Lanza una moneda. Si sale cara, el Pokémon Defensor no puede atacar durante el próximo turno de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hsp-21",
+        "name": "Suicune",
+        "number": "21",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Endurecimiento",
+                "text": "Durante el próximo turno de tu rival, cualquier daño hecho a Porygon por ataques se reduce en 20 (después de aplicar Debilidad y Resistencia)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Versión actualizada",
+                "text": "Busca en tu mazo un Porygon2, enséñaselo a tu rival y ponlo en tu mano. Baraja tu mazo después."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hsp-22",
+        "name": "Porygon",
+        "number": "22",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Atajo",
+            "text": "El Coste de Retirada para cada Porygon, Porygon2 y Porygon-Z que tengas en juego es {C} menos.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Carga Descuidada",
+                "text": "Porygon2 se hace 10 puntos de daño a sí mismo."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon",
+        "hp": 80,
+        "id": "hsp-23",
+        "name": "Porygon2",
+        "number": "23",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Gancho Alto",
+                "text": "El daño de este ataque no se ve afectado por Resistencia."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Detección",
+                "text": "Lanza una moneda. Si sale cara, evita todos los efectos de los ataques, incluido el daño, infligidos a Hitmonchan durante el próximo turno de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hsp-24",
+        "name": "Hitmonchan",
+        "number": "24",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Patada",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Patada alta volante",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hsp-25",
+        "name": "Hitmonlee",
+        "number": "25",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hsp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    }
+]

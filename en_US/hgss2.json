@@ -1,0 +1,3932 @@
+[
+    {
+        "ability": {
+            "name": "Stardust Song",
+            "text": "Once during your turn, when you put Jirachi from your hand onto your Bench, you may flip 3 coins. For each heads, search your discard pile for a {P} Energy card and attach it to Jirachi.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Time Hollow",
+                "text": "Choose a number of your opponent's Stage 1 or Stage 2 Evolved Pokémon up to the amount of Energy attached to Jirachi. Remove the highest Stage Evolution card from each of those Pokémon and put those cards back into your opponent's hand."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-1",
+        "name": "Jirachi",
+        "number": "1",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50x",
+                "name": "Hard Crush",
+                "text": "Discard the top 3 cards from your deck. This attack does 50 damage times the number of Energy cards you discarded."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Mantle Bazooka",
+                "text": "Discard 2 {R} Energy attached to Magmortar."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Magmar",
+        "hp": 110,
+        "id": "hgss2-2",
+        "name": "Magmortar",
+        "number": "2",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Wave Splash",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Deep Sea Swirl",
+                "text": "Shuffle your hand into your deck. Then, draw 5 cards."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-3",
+        "name": "Manaphy",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Psychic Float",
+            "text": "If you have any {P} Energy attached to your Active Pokémon, the Retreat Cost for that Pokémon is 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Pulse Blast",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Double Leg Hammer",
+                "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 40 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Metang",
+        "hp": 130,
+        "id": "hgss2-4",
+        "name": "Metagross",
+        "number": "4",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Magical Trans",
+            "text": "Once during your turn (before your attack), you may move a {P} Energy attached to 1 of your Pokémon to another of your Pokémon. This power can't be used if Mismagius is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Psychic Pulse",
+                "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Misdreavus",
+        "hp": 90,
+        "id": "hgss2-5",
+        "name": "Mismagius",
+        "number": "5",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Switch Cannon",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Switch Octillery with 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Ink Bomb",
+                "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Remoraid",
+        "hp": 80,
+        "id": "hgss2-6",
+        "name": "Octillery",
+        "number": "6",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Leap Frog",
+            "text": "Once during your turn (before your attack), you may choose a {W} Pokémon on your Bench and switch it with your Active Pokémon. This power can't be used if Politoed is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Big Chorus",
+                "text": "Flip a coin for each {W} Pokémon you have in play. This attack does 30 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 120,
+        "id": "hgss2-7",
+        "name": "Politoed",
+        "number": "7",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Celebration Wind",
+            "text": "Once during your turn, when you put Shaymin from your hand onto your Bench, you may move as many Energy cards attached to your Pokémon as you like to any of your other Pokémon.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Energy Bloom",
+                "text": "Remove 3 damage counters from each of your Pokémon that has any Energy attached to it."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-8",
+        "name": "Shaymin",
+        "number": "8",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Rumble",
+                "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20x",
+                "name": "Push Over",
+                "text": "Does 20 damage times the amount of {F} Energy attached to Sudowoodo."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-9",
+        "name": "Sudowoodo",
+        "number": "9",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Land Crush",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Giga Drain",
+                "text": "Remove from Torterra the number of damage counters equal to the damage you did to the Defending Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Grotle",
+        "hp": 140,
+        "id": "hgss2-10",
+        "name": "Torterra",
+        "number": "10",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Confuse Ray",
+                "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20x",
+                "name": "Psywave",
+                "text": "Does 20 damage times the amount of Energy attached to the Defending Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Natu",
+        "hp": 90,
+        "id": "hgss2-11",
+        "name": "Xatu",
+        "number": "11",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Paralyze Poison",
+                "text": "The Defending Pokémon is now Poisoned. Flip a coin. If heads, the Defending Pokémon is also Paralyzed."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "50x",
+                "name": "Twineedle",
+                "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Kakuna",
+        "hp": 110,
+        "id": "hgss2-12",
+        "name": "Beedrill",
+        "number": "12",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Wash Out",
+            "text": "As often as you like during your turn (before your attack), you may move a {W} Energy attached to 1 of your Benched Pokémon to your Active Pokémon. This power can't be used if Blastoise is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Hydro Launcher",
+                "text": "Return 2 {W} Energy attached to Blastoise to your hand. Choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 130,
+        "id": "hgss2-13",
+        "name": "Blastoise",
+        "number": "13",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Supersonic",
+                "text": "The Defending Pokémon is now Confused."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Hurricane Wing",
+                "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 110,
+        "id": "hgss2-14",
+        "name": "Crobat",
+        "number": "14",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Repeating Drill",
+                "text": "Flip 5 coins. This attack does 20 damage times the number of heads."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Wing Attack",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Spearow",
+        "hp": 80,
+        "id": "hgss2-15",
+        "name": "Fearow",
+        "number": "15",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Water Acceleration",
+            "text": "Once during your turn (before your attack), you may attach a {W} Energy card from your hand to Floatzel. This power can't be used if Floatzel is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Waterfall",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Buizel",
+        "hp": 80,
+        "id": "hgss2-16",
+        "name": "Floatzel",
+        "number": "16",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Stream Pump",
+                "text": "You may do 50 damage plus 30 more damage. If you do, return an Energy card attached to Kingdra to your hand."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Water Arrow",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-17",
+        "name": "Kingdra",
+        "number": "17",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Reflect Energy",
+                "text": "Move an Energy card attached to Lanturn to 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Confuse Ray",
+                "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 90,
+        "id": "hgss2-18",
+        "name": "Lanturn",
+        "number": "18",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "50",
+                "name": "Magnum Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Bulk Up",
+                "text": "During your next turn, each of Lucario's attacks does 30 more damage to the Defending Pokémon (before applying Weakness and Resistance)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Riolu",
+        "hp": 90,
+        "id": "hgss2-19",
+        "name": "Lucario",
+        "number": "19",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Heat Acceleration",
+                "text": "Search your discard pile for up to 3 {R} Energy cards and attach them to 1 of your Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Searing Flame",
+                "text": "The Defending Pokémon is now Burned."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vulpix",
+        "hp": 90,
+        "id": "hgss2-20",
+        "name": "Ninetales",
+        "number": "20",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Dynamic Punch",
+                "text": "Flip a coin. If heads, this attack does 60 damage plus 40 more damage and the Defending Pokémon is now Confused."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Steamroll",
+                "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 130,
+        "id": "hgss2-21",
+        "name": "Poliwrath",
+        "number": "21",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Low Kick",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Bebop Punch",
+                "text": "Choose 1 of your opponent's Pokémon. Flip a coin until you get tails. This attack does 50 damage times the number of heads to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Mankey",
+        "hp": 90,
+        "id": "hgss2-22",
+        "name": "Primeape",
+        "number": "22",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Energy Signal",
+            "text": "When you attach a {G} Energy card or {P} Energy card from your hand to Roserade during your turn, you may use this power. If you attach a {G} Energy card, the Defending Pokémon is now Confused. If you attach a {P} Energy card, the Defending Pokémon is now Poisoned. This power can’t be used if Roserade is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Power Blow",
+                "text": "Does 20 damage times the amount of Energy attached to Roserade."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Roselia",
+        "hp": 90,
+        "id": "hgss2-23",
+        "name": "Roserade",
+        "number": "23",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Guard Press",
+                "text": "During your opponent's next turn, any damage done to Steelix by attacks is reduced by 20 (after applying Weakness and Resistance)."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80x",
+                "name": "Steel Swing",
+                "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 120,
+        "id": "hgss2-24",
+        "name": "Steelix",
+        "number": "24",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Hot Snort",
+            "text": "Once during your turn when you put Torkoal from your hand onto your Bench, you may flip a coin. If heads, the Defending Pokémon is now Burned.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Flare",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-25",
+        "name": "Torkoal",
+        "number": "25",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Hyper Beam",
+                "text": "Discard an Energy card attached to the Defending Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Tail Crush",
+                "text": "Flip a coin. If heads, this attack does 40 damage plus 20 more damage."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 140,
+        "id": "hgss2-26",
+        "name": "Tyranitar",
+        "number": "26",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Cross Chop",
+                "text": "Flip a coin. If heads, this attack does 50 damage plus 30 more damage."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Confront",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 100,
+        "id": "hgss2-27",
+        "name": "Ursaring",
+        "number": "27",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Sunny Heal",
+            "text": "Once during your turn (before your attack), you may remove 1 damage counter from your Active Pokémon. This power can't be used if Cherrim is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Seed Bomb",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Cherubi",
+        "hp": 80,
+        "id": "hgss2-28",
+        "name": "Cherrim",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Return",
+                "text": "Draw cards until you have 6 cards in your hand."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-29",
+        "name": "Dunsparce",
+        "number": "29",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20",
+                "name": "Mean Look",
+                "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Zubat",
+        "hp": 80,
+        "id": "hgss2-30",
+        "name": "Golbat",
+        "number": "30",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Sleep Powder",
+                "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Razor Leaf",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Turtwig",
+        "hp": 90,
+        "id": "hgss2-31",
+        "name": "Grotle",
+        "number": "31",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Speed Evolution",
+                "text": "Search your deck for a card that evolves from Kakuna and put it onto Kakuna. (This counts as evolving Kakuna.) Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Poison Sting",
+                "text": "The Defending Pokémon is now Poisoned."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Weedle",
+        "hp": 80,
+        "id": "hgss2-32",
+        "name": "Kakuna",
+        "number": "32",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Energy Crane",
+                "text": "Search your discard pile for up to 2 {P} Energy cards and attach them to your Pokémon in any way you like."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Psypunch",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Beldum",
+        "hp": 80,
+        "id": "hgss2-33",
+        "name": "Metang",
+        "number": "33",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Call for Family",
+                "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10+",
+                "name": "Tag Team Boost",
+                "text": "If Plusle is on your Bench, this attack does 10 damage plus 20 more damage."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-34",
+        "name": "Minun",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Flare Bonus",
+                "text": "Discard a {R} Energy card from your hand. Then, draw 3 cards."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Combustion",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-35",
+        "name": "Numel",
+        "number": "35",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Collect",
+                "text": "Draw 2 cards."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Thunder Jolt",
+                "text": "Flip a coin. If tails, Plusle does 10 damage to itself."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-36",
+        "name": "Plusle",
+        "number": "36",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Light Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Hypnoblast",
+                "text": "The Defending Pokémon is now Asleep."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Poliwag",
+        "hp": 80,
+        "id": "hgss2-37",
+        "name": "Poliwhirl",
+        "number": "37",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Boost Gas",
+            "text": "If Pupitar has any Energy attached to it, the Retreat Cost for Pupitar is 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Rage",
+                "text": "Does 20 damage plus 10 more damage for each damage counter on Pupitar."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 70,
+        "id": "hgss2-38",
+        "name": "Pupitar",
+        "number": "38",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Hammer In",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Speed Attack",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 80,
+        "id": "hgss2-39",
+        "name": "Pupitar",
+        "number": "39",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Razor Fin",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Muddy Water",
+                "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Horsea",
+        "hp": 80,
+        "id": "hgss2-40",
+        "name": "Seadra",
+        "number": "40",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Crimson Bull",
+                "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Tauros is now Confused."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Smash Kick",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-41",
+        "name": "Tauros",
+        "number": "41",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Surf",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Water Arrow",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Squirtle",
+        "hp": 80,
+        "id": "hgss2-42",
+        "name": "Wartortle",
+        "number": "42",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Tail Smash",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tail Code",
+                "text": "Move an Energy card attached to the Defending Pokémon to another of your opponent's Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-43",
+        "name": "Aipom",
+        "number": "43",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Reaction",
+                "text": "You may switch Beldum with 1 of your Benched Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-44",
+        "name": "Beldum",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Muddy Water",
+                "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-45",
+        "name": "Buizel",
+        "number": "45",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Spit Up",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Drawup Power",
+                "text": "Search your deck for an Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-46",
+        "name": "Carnivine",
+        "number": "46",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Tackle",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-47",
+        "name": "Cherubi",
+        "number": "47",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Ram",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Lightning Ball",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-48",
+        "name": "Chinchou",
+        "number": "48",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Beat",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Fin Smack",
+                "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-49",
+        "name": "Horsea",
+        "number": "49",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Mountain Eater",
+                "text": "Discard the top card of your opponent's deck. Then, remove 2 damage counters from Larvitar."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Reckless Charge",
+                "text": "Larvitar does 10 damage to itself."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-50",
+        "name": "Larvitar",
+        "number": "50",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Knuckle Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Bite",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-51",
+        "name": "Larvitar",
+        "number": "51",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Magma Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10",
+                "name": "Live Coal",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-52",
+        "name": "Magmar",
+        "number": "52",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "40-",
+                "name": "Karate Chop",
+                "text": "Does 40 damage minus 10 damage for each damage counter on Mankey."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Punch",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-53",
+        "name": "Mankey",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Sharpshooting",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-54",
+        "name": "Misdreavus",
+        "number": "54",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Teleport",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Peck",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-55",
+        "name": "Natu",
+        "number": "55",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Energy Healer",
+            "text": "When you attach an Energy card from your hand to Onix, remove a damage counter from Onix.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Boundless Power",
+                "text": "Onix can't attack during your next turn."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-56",
+        "name": "Onix",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Swing Around",
+                "text": "Flip 2 coins. This attack does 20 damage plus 20 more damage for each heads."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-57",
+        "name": "Onix",
+        "number": "57",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Call for Family",
+                "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Razor Fin",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-58",
+        "name": "Poliwag",
+        "number": "58",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Rain Splash",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Water Arrow",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-59",
+        "name": "Remoraid",
+        "number": "59",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Kick",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Double Chop",
+                "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-60",
+        "name": "Riolu",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20x",
+                "name": "Petal Dance",
+                "text": "Flip 3 coins. This attack does 20 damage times the number of heads. Roselia is now Confused."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-61",
+        "name": "Roselia",
+        "number": "61",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Flap",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Roost",
+                "text": "Remove 4 damage counters from Spearow. Spearow can't retreat during your next turn."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-62",
+        "name": "Spearow",
+        "number": "62",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Shell Attack",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Rain Splash",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-63",
+        "name": "Squirtle",
+        "number": "63",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Mystifying Horns",
+                "text": "The Defending Pokémon is now Confused."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Call for Family",
+                "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-64",
+        "name": "Stantler",
+        "number": "64",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Take Down",
+                "text": "Teddiursa does 10 damage to itself."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-65",
+        "name": "Teddiursa",
+        "number": "65",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Gust",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Green Call",
+                "text": "Flip 2 coins. For each heads, search your deck for a {G} Pokémon, show it to your opponent, and put it into your hand. If you do, shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-66",
+        "name": "Tropius",
+        "number": "66",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Ram",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Leech Seed",
+                "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Turtwig."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-67",
+        "name": "Turtwig",
+        "number": "67",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Fireworks",
+                "text": "Flip a coin. If tails, discard a {R} Energy attached to Vulpix."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-68",
+        "name": "Vulpix",
+        "number": "68",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Sting",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Speed Evolution",
+                "text": "Search your deck for a card that evolves from Weedle and put it onto Weedle. (This counts as evolving Weedle.) Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "hgss2-69",
+        "name": "Weedle",
+        "number": "69",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Glide",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Double Attack",
+                "text": "Choose 2 of your opponent's Benched Pokémon. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-70",
+        "name": "Zubat",
+        "number": "70",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-71",
+        "name": "Cheerleader's Cheer",
+        "number": "71",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Draw 3 cards. Your opponent may draw a card."
+        ]
+    },
+    {
+        "id": "hgss2-72",
+        "name": "Dual Ball",
+        "number": "72",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Flip 2 coins. For each heads, search your deck for a Basic Pokémon, show it to your opponent, and put it into your hand. If you do, shuffle your deck afterward."
+        ]
+    },
+    {
+        "id": "hgss2-73",
+        "name": "Emcee's Chatter",
+        "number": "73",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Flip a coin. If heads, draw 3 cards. If tails, draw 2 cards."
+        ]
+    },
+    {
+        "id": "hgss2-74",
+        "name": "Energy Returner",
+        "number": "74",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Search your discard pile for 4 basic Energy cards, show them to your opponent, and shuffle them into your deck."
+        ]
+    },
+    {
+        "id": "hgss2-75",
+        "name": "Engineer's Adjustments",
+        "number": "75",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Discard an Energy card from your hand. Then, draw 4 cards."
+        ]
+    },
+    {
+        "id": "hgss2-76",
+        "name": "Good Rod",
+        "number": "76",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Flip a coin. If heads, search your discard pile for a Pokémon, show it to your opponent, and put it on top of your deck. If tails, search your discard pile for a Trainer card, show it to your opponent, and put it on top of your deck."
+        ]
+    },
+    {
+        "id": "hgss2-77",
+        "name": "Interviewer's Questions",
+        "number": "77",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Look at the top 8 cards of your deck. Choose as many Energy cards as you like, show them to your opponent, and put them into your hand. Shuffle the other cards back into your deck."
+        ]
+    },
+    {
+        "id": "hgss2-78",
+        "name": "Judge",
+        "number": "78",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Each player shuffles his or her hand into his or her deck and draws 4 cards."
+        ]
+    },
+    {
+        "id": "hgss2-79",
+        "name": "Life Herb",
+        "number": "79",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Flip a coin. If heads, choose 1 of your Pokémon, and remove all Special Conditions and 6 damage counters from that Pokémon (all if there are less than 6)."
+        ]
+    },
+    {
+        "id": "hgss2-80",
+        "name": "PlusPower",
+        "number": "80",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "During this turn, your Pokémon's attacks do 10 more damage to the Active Pokémon (before applying Weakness and Resistance)."
+        ]
+    },
+    {
+        "id": "hgss2-81",
+        "name": "Pokémon Circulator",
+        "number": "81",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        ]
+    },
+    {
+        "id": "hgss2-82",
+        "name": "Rare Candy",
+        "number": "82",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn."
+        ]
+    },
+    {
+        "id": "hgss2-83",
+        "name": "Super Scoop Up",
+        "number": "83",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Skill Dive",
+                "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Severe Poison",
+                "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 130,
+        "id": "hgss2-84",
+        "name": "Crobat",
+        "number": "84",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Spray Splash",
+            "text": "Once during your turn (before your attack), you may put 1 damage counter on 1 of your opponent's Pokémon. This power can't be used if Kingdra is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Dragon Steam",
+                "text": "If your opponent has any {R} Pokémon in play, this attack's base damage is 20 instead of 60."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-85",
+        "name": "Kingdra",
+        "number": "85",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Underwater Dive",
+            "text": "Once during your turn (before your attack), you may use this power. Lanturn's type is {W} until the end of your turn. This power can't be used if Lanturn is affected by a Special Condition.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Powerful Spark",
+                "text": "Does 40 damage plus 10 more damage for each Energy attached to all of your Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 110,
+        "id": "hgss2-86",
+        "name": "Lanturn",
+        "number": "86",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Perfect Metal",
+            "text": "Steelix can't be affected by any Special Conditions.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Gaia Crush",
+                "text": "You may discard any Stadium card in play."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Energy Stream",
+                "text": "Search your discard pile for an Energy card and attach it to Steelix."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 140,
+        "id": "hgss2-87",
+        "name": "Steelix",
+        "number": "87",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Darkness Howl",
+                "text": "This attack does 20 damage to each Pokémon in play (both yours and your opponent's) (excluding any {D} Pokémon). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Power Claw",
+                "text": "This attack's damage isn't affected by Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Megaton Tail",
+                "text": "Discard the top 3 cards of your deck."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 160,
+        "id": "hgss2-88",
+        "name": "Tyranitar",
+        "number": "88",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Berserk",
+            "text": "If Ursaring has any damage counters on it, each of Ursaring's attacks does 60 more damage (before applying Weakness and Resistance).",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Hammer Arm",
+                "text": "Discard the top card of your opponent's deck."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Megaton Lariat",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 110,
+        "id": "hgss2-89",
+        "name": "Ursaring",
+        "number": "89",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-90",
+        "name": "Entei & Raikou LEGEND (#90)",
+        "number": "90",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-91",
+        "name": "Entei & Raikou LEGEND (#91)",
+        "number": "91",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-92",
+        "name": "Raikou & Suicune LEGEND (#92)",
+        "number": "92",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-93",
+        "name": "Raikou & Suicune LEGEND (#93)",
+        "number": "93",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-94",
+        "name": "Suicune & Entei LEGEND (#94)",
+        "number": "94",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-95",
+        "name": "Suicune & Entei LEGEND (#95)",
+        "number": "95",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-96",
+        "name": "Alph Lithograph",
+        "number": "96",
+        "rarity": "Rare Secret",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Shuffle your deck!"
+        ]
+    }
+]

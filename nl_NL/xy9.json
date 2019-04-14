@@ -1,0 +1,4872 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Tackle",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Blot",
+                "text": "Heal 10 damage from this Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-1",
+        "name": "Chikorita",
+        "number": "1",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Body Slam",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Vine Whip",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chikorita",
+        "hp": 90,
+        "id": "xy9-2",
+        "name": "Bayleef",
+        "number": "2",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Overgrow",
+            "text": "If this Pokémon's remaining HP is 50 or less, its attacks do 70 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Green Force",
+                "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Bayleef",
+        "hp": 150,
+        "id": "xy9-3",
+        "name": "Meganium",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Ram",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy9-4",
+        "name": "Seedot",
+        "number": "4",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Bug Hunch",
+                "text": "Search your deck for up to 3 {G} Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-5",
+        "name": "Kricketot",
+        "number": "5",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Screech",
+                "text": "During your next turn, any damage done to the Defending Pokémon by attacks is increased by 60 (after applying Weakness and Resistance)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "40",
+                "name": "Slash",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Kricketot",
+        "hp": 90,
+        "id": "xy9-6",
+        "name": "Kricketune",
+        "number": "6",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Aromatherapy",
+                "text": "Heal 10 damage from each of your Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy9-7",
+        "name": "Petilil",
+        "number": "7",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Boo-Hoo",
+                "text": "If your opponent attaches an Energy card from his or her hand to the Defending Pokémon during his or her next turn, that Pokémon will be Asleep."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Leaf Slice",
+                "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Petilil",
+        "hp": 80,
+        "id": "xy9-8",
+        "name": "Lilligant",
+        "number": "8",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Mountain Munch",
+                "text": "Discard the top card of your opponent's deck."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Scrape Down",
+                "text": "If this Pokémon has any damage counters on it, discard the top 4 cards of your opponent's deck."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-9",
+        "name": "Durant",
+        "number": "9",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Bite",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-10",
+        "name": "Growlithe",
+        "number": "10",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Flop",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Flamethrower",
+                "text": "Discard an Energy attached to this Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Growlithe",
+        "hp": 110,
+        "id": "xy9-11",
+        "name": "Arcanine",
+        "number": "11",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Tackle",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Combustion",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy9-12",
+        "name": "Numel",
+        "number": "12",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Ram",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Eruption",
+                "text": "Each player discards the top card of his or her deck. This attack does 60 more damage for each Energy card discarded in this way."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Numel",
+        "hp": 130,
+        "id": "xy9-13",
+        "name": "Camerupt",
+        "number": "13",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Spiral Punch",
+                "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Strong Flare",
+                "text": "Discard 2 Energy attached to this Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-14",
+        "name": "Emboar-EX",
+        "number": "14",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20+",
+                "name": "Reinforced Flame",
+                "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 20 more damage."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Heat Blast",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 100,
+        "id": "xy9-15",
+        "name": "Heatmor",
+        "number": "15",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Stampede",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-16",
+        "name": "Psyduck",
+        "number": "16",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Derail",
+                "text": "Discard a Special Energy attached to your opponent's Active Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Hydro Splash",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Psyduck",
+        "hp": 100,
+        "id": "xy9-17",
+        "name": "Golduck",
+        "number": "17",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Hyper Transfer",
+            "text": "As often as you like during your turn (before your attack), you may move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golduck",
+        "hp": 140,
+        "id": "xy9-18",
+        "name": "Golduck BREAK",
+        "number": "18",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Headbutt",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tail Lure",
+                "text": "Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-19",
+        "name": "Slowpoke",
+        "number": "19",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10+",
+                "name": "Careless Head",
+                "text": "Flip a coin. If heads, this attack does 50 more damage."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Walk-Off Homer",
+                "text": "If you use this attack when you have only 1 Prize card left, you win this game."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Slowpoke",
+        "hp": 100,
+        "id": "xy9-20",
+        "name": "Slowbro",
+        "number": "20",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Royal Flash",
+            "text": "Once during your turn (before your attack), you may flip a coin. If heads, move an Energy from your opponent's Active Pokémon to 1 of his or her Benched Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Psych Up",
+                "text": "During your next turn, this Pokémon's Psych Up attack does 40 more damage (before applying Weakness and Resistance)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Slowpoke",
+        "hp": 100,
+        "id": "xy9-21",
+        "name": "Slowking",
+        "number": "21",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10+",
+                "name": "Razor Shell",
+                "text": "Flip a coin. If heads, this attack does 10 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-22",
+        "name": "Shellder",
+        "number": "22",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Clamp",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed. If tails, this attack does nothing."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-23",
+        "name": "Shellder",
+        "number": "23",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Sudden Grip",
+                "text": "If this Pokémon evolved from Shellder during this turn, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Surf",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Shellder",
+        "hp": 100,
+        "id": "xy9-24",
+        "name": "Cloyster",
+        "number": "24",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Smack",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "xy9-25",
+        "name": "Staryu",
+        "number": "25",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stormy Seas",
+                "text": "Flip a coin until you get tails. For each heads, search your deck for a {W} Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Splash Burn",
+                "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-26",
+        "name": "Gyarados-EX",
+        "number": "26",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Blast Geyser",
+                "text": "You may do 20 more damage for each {W} Energy attached to this Pokémon. If you do, discard the top 2 cards of your deck."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GyaradosEX",
+        "hp": 240,
+        "id": "xy9-27",
+        "name": "M Gyarados-EX",
+        "number": "27",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Errand-Running",
+                "text": "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Water Splash",
+                "text": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy9-28",
+        "name": "Lapras",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Spike Cannon",
+                "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Power Gem",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy9-29",
+        "name": "Corsola",
+        "number": "29",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Wind Charm",
+            "text": "As long as this Pokémon is your Active Pokémon, prevent all effects of your opponent's attacks, except damage, done to each of your Pokémon. (Existing effects are not removed.)",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "110",
+                "name": "Aurora Beam",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy9-30",
+        "name": "Suicune",
+        "number": "30",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "40",
+                "name": "Aqua Turbo",
+                "text": "Search your deck for 2 {W} Energy cards and attach them to 1 of your Benched Pokémon. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "120",
+                "name": "Pearl Hurricane",
+                "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-31",
+        "name": "Palkia-EX",
+        "number": "31",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Aqua Tube",
+            "text": "Each of your Pokémon that has any {W} Energy attached to it has no Retreat Cost.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Mineral Pump",
+                "text": "Heal 30 damage from each of your Benched Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy9-32",
+        "name": "Manaphy-EX",
+        "number": "32",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Get Loud",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Round",
+                "text": "This attack does 10 damage times the number of your Pokémon that have the Round attack."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-33",
+        "name": "Tympole",
+        "number": "33",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "20+",
+                "name": "Frog Hop",
+                "text": "Flip a coin. If heads, this attack does 20 more damage."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Mud Shot",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Tympole",
+        "hp": 90,
+        "id": "xy9-34",
+        "name": "Palpitoad",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Siphon Off",
+                "text": "Attach 3 Energy cards from your discard pile to this Pokémon."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "90",
+                "name": "Shaky Fall",
+                "text": "Your opponent's Active Pokémon is now Confused. That Pokémon can't retreat during your opponent's next turn."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Palpitoad",
+        "hp": 150,
+        "id": "xy9-35",
+        "name": "Seismitoad",
+        "number": "35",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Lunge",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-36",
+        "name": "Ducklett",
+        "number": "36",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Wing Attack",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Brave Bird",
+                "text": "This Pokémon does 20 damage to itself."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Ducklett",
+        "hp": 80,
+        "id": "xy9-37",
+        "name": "Swanna",
+        "number": "37",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Bubble",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-38",
+        "name": "Froakie",
+        "number": "38",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Water Duplicates",
+                "text": "Search your deck for up to 3 Frogadier and put them onto your Bench. Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Froakie",
+        "hp": 70,
+        "id": "xy9-39",
+        "name": "Frogadier",
+        "number": "39",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Shadow Stitching",
+                "text": "Until the end of your opponent's next turn, each Pokémon your opponent has in play, in his or her hand, and in his or her discard pile has no Abilities. (This includes cards that come into play on that turn.)"
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "60+",
+                "name": "Moonlight Slash",
+                "text": "You may return a {W} Energy from this Pokémon to your hand. If you do, this attack does 20 more damage."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Frogadier",
+        "hp": 130,
+        "id": "xy9-40",
+        "name": "Greninja",
+        "number": "40",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Giant Water Shuriken",
+            "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may discard a {W} Energy card from your hand. If you do, put 6 damage counters on 1 of your opponent's Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Greninja",
+        "hp": 170,
+        "id": "xy9-41",
+        "name": "Greninja BREAK",
+        "number": "41",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Knuckle Punch",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-42",
+        "name": "Electabuzz",
+        "number": "42",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Knuckle Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Electroslug",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Electabuzz",
+        "hp": 110,
+        "id": "xy9-43",
+        "name": "Electivire",
+        "number": "43",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Roar",
+                "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Flop",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-44",
+        "name": "Shinx",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Bite",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Thunder Fang",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Shinx",
+        "hp": 80,
+        "id": "xy9-45",
+        "name": "Luxio",
+        "number": "45",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Bite",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Snarl",
+                "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Luxio",
+        "hp": 140,
+        "id": "xy9-46",
+        "name": "Luxray",
+        "number": "46",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130+",
+                "name": "Wild Fury",
+                "text": "Flip a coin until you get tails. This attack does 40 more damage for each heads."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Luxray",
+        "hp": 170,
+        "id": "xy9-47",
+        "name": "Luxray BREAK",
+        "number": "47",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Reckless Charge",
+                "text": "This Pokémon does 10 damage to itself."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-48",
+        "name": "Blitzle",
+        "number": "48",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Zap Zone",
+            "text": "Damage from the attacks of your {L} Pokémon isn't affected by any effects on your opponent's Active Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Crashing Bolt",
+                "text": "If your opponent's Active Pokémon has {F} Resistance, this attack does 60 more damage."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Blitzle",
+        "hp": 100,
+        "id": "xy9-49",
+        "name": "Zebstrika",
+        "number": "49",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Mumble",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Focused Wish",
+                "text": "Flip a coin. If heads, this attack does 20 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-50",
+        "name": "Drowzee",
+        "number": "50",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Goodnight, Babies",
+            "text": "Once during your turn (before your attack), you may leave both Active Pokémon Asleep.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "50",
+                "name": "Zen Headbutt",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Drowzee",
+        "hp": 90,
+        "id": "xy9-51",
+        "name": "Hypno",
+        "number": "51",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Miraculous Shine",
+                "text": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Psyshock",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy9-52",
+        "name": "Espeon-EX",
+        "number": "52",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Pin Missile",
+                "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-53",
+        "name": "Skorupi",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Poison Claws",
+                "text": "Your opponent's Active Pokémon is now Poisoned."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Heavy Impact",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Skorupi",
+        "hp": 130,
+        "id": "xy9-54",
+        "name": "Drapion",
+        "number": "54",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Reflective Shield",
+                "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 5 damage counters on the Attacking Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Psy Report",
+                "text": "Your opponent reveals his or her hand."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy9-55",
+        "name": "Sigilyph",
+        "number": "55",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Acid Spray",
+                "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy9-56",
+        "name": "Trubbish",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Garbotoxin",
+            "text": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Offensive Bomb",
+                "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Trubbish",
+        "hp": 100,
+        "id": "xy9-57",
+        "name": "Garbodor",
+        "number": "57",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Scratch",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-58",
+        "name": "Espurr",
+        "number": "58",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Energy Present",
+                "text": "Attach up to 2 Energy cards from your hand to 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Psyshot",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Espurr",
+        "hp": 90,
+        "id": "xy9-59",
+        "name": "Meowstic",
+        "number": "59",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Stab",
+                "text": "Put 1 damage counter on your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-60",
+        "name": "Honedge",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stab Deeply",
+                "text": "Put 3 damage counters on your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Honedge",
+        "hp": 80,
+        "id": "xy9-61",
+        "name": "Doublade",
+        "number": "61",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Painful Sword",
+                "text": "Double the number of damage counters on each of your opponent's Pokémon."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Megaton Slash",
+                "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Doublade",
+        "hp": 140,
+        "id": "xy9-62",
+        "name": "Aegislash",
+        "number": "62",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Hide",
+                "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy9-63",
+        "name": "Skrelp",
+        "number": "63",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ascension",
+                "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon. (This counts as evolving this Pokémon.) Shuffle your deck afterward."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy9-64",
+        "name": "Phantump",
+        "number": "64",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Nervous Seed",
+            "text": "As long as this Pokémon is your Active Pokémon, your opponent's Basic Pokémon's attacks cost {C} more.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70+",
+                "name": "Energy Press",
+                "text": "This attack does 10 more damage for each Energy attached to your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Phantump",
+        "hp": 110,
+        "id": "xy9-65",
+        "name": "Trevenant",
+        "number": "65",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Silent Fear",
+                "text": "Put 3 damage counters on each of your opponent's Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Trevenant",
+        "hp": 160,
+        "id": "xy9-66",
+        "name": "Trevenant BREAK",
+        "number": "66",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Watch and Learn",
+                "text": "If your opponent's Pokémon used an attack during his or her last turn, use it as this attack."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy9-67",
+        "name": "Sudowoodo",
+        "number": "67",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Never Enough",
+                "text": "Discard a card from your hand. If you do, draw 2 cards."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-68",
+        "name": "Gible",
+        "number": "68",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Sand Tomb",
+                "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Gible",
+        "hp": 80,
+        "id": "xy9-69",
+        "name": "Gabite",
+        "number": "69",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "60",
+                "name": "Turbo Assault",
+                "text": "Attach an Energy card from your discard pile to 1 of your Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "80+",
+                "name": "Bite Off",
+                "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 80 more damage."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Gabite",
+        "hp": 130,
+        "id": "xy9-70",
+        "name": "Garchomp",
+        "number": "70",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Light Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Confront",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-71",
+        "name": "Pancham",
+        "number": "71",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "20",
+                "name": "Corkscrew Punch",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Razor Wind",
+                "text": "Flip a coin. If tails, this attack does nothing."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seedot",
+        "hp": 80,
+        "id": "xy9-72",
+        "name": "Nuzleaf",
+        "number": "72",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Roll Up",
+                "text": "Flip 3 coins. If any of them are heads, your opponent reveals his or her hand. Then, for each heads, discard a card from your opponent's hand."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Otherworldly Return",
+                "text": "Put a Trainer card from your discard pile into your hand."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Nuzleaf",
+        "hp": 140,
+        "id": "xy9-73",
+        "name": "Shiftry",
+        "number": "73",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Dark Pulse",
+                "text": "This attack does 20 more damage for each {D} Energy attached to all of your Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Dark Head",
+                "text": "If your opponent's Active Pokémon is Asleep, this attack does 80 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-74",
+        "name": "Darkrai-EX",
+        "number": "74",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "10",
+                "name": "Parting Shot",
+                "text": "Switch this Pokémon with 1 of your Benched Pokémon. During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 60 (before applying Weakness and Resistance)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Darkness"
+                ],
+                "damage": "90",
+                "name": "Buster Swing",
+                "text": "This attack's damage isn't affected by Resistance."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pancham",
+        "hp": 120,
+        "id": "xy9-75",
+        "name": "Pangoro",
+        "number": "75",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Metal"
+                ],
+                "damage": "20",
+                "name": "Steel Wing",
+                "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "50+",
+                "name": "Gale Thrust",
+                "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy9-76",
+        "name": "Scizor-EX",
+        "number": "76",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "120",
+                "name": "Iron Crusher",
+                "text": "You may discard a Special Energy attached to your opponent's Active Pokémon or a Stadium card in play."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "ScizorEX",
+        "hp": 220,
+        "id": "xy9-77",
+        "name": "M Scizor-EX",
+        "number": "77",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Tight Jaw",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Cavernous Chomp",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy9-78",
+        "name": "Mawile",
+        "number": "78",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Harden",
+                "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-79",
+        "name": "Ferroseed",
+        "number": "79",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Metal Claw",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Spike Lash",
+                "text": "This attack does 10 damage to each of your opponent's Pokémon for each {C} in that Pokémon's Retreat Cost. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Ferroseed",
+        "hp": 100,
+        "id": "xy9-80",
+        "name": "Ferrothorn",
+        "number": "80",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "",
+                "name": "Sing",
+                "text": "Your opponent's Active Pokémon is now Asleep."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Double Slap",
+                "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-81",
+        "name": "Clefairy",
+        "number": "81",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "30",
+                "name": "Moon Barrier",
+                "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by {N} Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Tumbling Attack",
+                "text": "Flip a coin. If heads, this attack does 30 more damage."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Clefairy",
+        "hp": 100,
+        "id": "xy9-82",
+        "name": "Clefable",
+        "number": "82",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "20",
+                "name": "Mighty Wind",
+                "text": "You may attach an Energy card from your hand to 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50x",
+                "name": "Hurricane Wing",
+                "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy9-83",
+        "name": "Togekiss-EX",
+        "number": "83",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Beat",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy9-84",
+        "name": "Spritzee",
+        "number": "84",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Dizzying Cologne",
+                "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 40 more damage."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Fairy Wind",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Spritzee",
+        "hp": 90,
+        "id": "xy9-85",
+        "name": "Aromatisse",
+        "number": "85",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Severe Poison",
+                "text": "Your opponent's Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon between turns."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Dragon Pulse",
+                "text": "Discard the top card of your deck."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Skrelp",
+        "hp": 110,
+        "id": "xy9-86",
+        "name": "Dragalge",
+        "number": "86",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Dangerous Suspicion",
+                "text": "Draw a card. Switch this Pokémon with 1 of your Benched Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "xy9-87",
+        "name": "Rattata",
+        "number": "87",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Antibodies",
+            "text": "This Pokémon can't be affected by any Special Conditions. (Remove any Special Conditions affecting this Pokémon.)",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Dirty Shock",
+                "text": "Your opponent's Active Pokémon is now Poisoned. Discard all Pokémon Tool cards attached to that Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Rattata",
+        "hp": 70,
+        "id": "xy9-88",
+        "name": "Raticate",
+        "number": "88",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Super Fang",
+                "text": "Put damage counters on your opponent's Active Pokémon until its remaining HP is 10."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Raticate",
+        "hp": 110,
+        "id": "xy9-89",
+        "name": "Raticate BREAK",
+        "number": "89",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy9",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Call for Family",
+                "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Ram",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-90",
+        "name": "Dunsparce",
+        "number": "90",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Mystifying Horns",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Big Charge",
+                "text": "If you have any Mega Evolution Pokémon on your Bench, this attack does 50 more damage."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy9-91",
+        "name": "Stantler",
+        "number": "91",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Purifying Fire",
+            "text": "Once during your turn (before your attack), if this Pokémon has any basic {R} Energy attached to it, you may heal 50 damage from it.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Lightning",
+                    "Water"
+                ],
+                "damage": "130",
+                "name": "Elemental Feather",
+                "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-92",
+        "name": "Ho-Oh-EX",
+        "number": "92",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Act Cute",
+                "text": "Your opponent puts a card from his or her hand on the bottom of his or her deck."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Scratch",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy9-93",
+        "name": "Glameow",
+        "number": "93",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Slash",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Nyan Press",
+                "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Glameow",
+        "hp": 100,
+        "id": "xy9-94",
+        "name": "Purugly",
+        "number": "94",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Collect",
+                "text": "Draw a card."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Tight Jaw",
+                "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy9-95",
+        "name": "Furfrou",
+        "number": "95",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy9-96",
+        "name": "All-Night Party",
+        "number": "96",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Once during each player's turn, if that player's Active Pokémon is Asleep, he or she may remove that Special Condition and heal 30 damage from that Pokémon."
+        ]
+    },
+    {
+        "id": "xy9-97",
+        "name": "Bursting Balloon",
+        "number": "97",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "If this card is attached to 1 of your Pokémon, discard it at the end of your opponent's turn.If the Pokémon this card is attached to is your Active Pokémon and is damaged by an opponent's attack (even if that Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon."
+        ]
+    },
+    {
+        "id": "xy9-98",
+        "name": "Delinquent",
+        "number": "98",
+        "rarity": "Rare Promo",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Discard any Stadium card in play. If you do, your opponent discards 3 cards from his or her hand."
+        ]
+    },
+    {
+        "id": "xy9-99",
+        "name": "Fighting Fury Belt",
+        "number": "99",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "The Basic Pokémon this card is attached to gets +40 HP and its attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+        ]
+    },
+    {
+        "id": "xy9-100",
+        "name": "Great Ball",
+        "number": "100",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+        ]
+    },
+    {
+        "id": "xy9-101",
+        "name": "Gyarados Spirit Link",
+        "number": "101",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Your turn does not end if the Pokémon this card is attached to becomes M Gyarados-EX."
+        ]
+    },
+    {
+        "id": "xy9-102",
+        "name": "Max Elixir",
+        "number": "102",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Look at the top 6 cards of your deck and attach a basic Energy card you find there to a Basic Pokémon on your Bench. Shuffle the other cards back into your deck."
+        ]
+    },
+    {
+        "id": "xy9-103",
+        "name": "Max Potion",
+        "number": "103",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Heal all damage from 1 of your Pokémon. If you do, discard all Energy attached to that Pokémon."
+        ]
+    },
+    {
+        "id": "xy9-104",
+        "name": "Misty's Determination",
+        "number": "104",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck."
+        ]
+    },
+    {
+        "id": "xy9-105",
+        "name": "Pokémon Catcher",
+        "number": "105",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon."
+        ]
+    },
+    {
+        "id": "xy9-106",
+        "name": "Potion",
+        "number": "106",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Heal 30 damage from 1 of your Pokémon."
+        ]
+    },
+    {
+        "id": "xy9-107",
+        "name": "Professor Sycamore",
+        "number": "107",
+        "rarity": "Rare Promo",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Discard your hand and draw 7 cards."
+        ]
+    },
+    {
+        "id": "xy9-108",
+        "name": "Psychic's Third Eye",
+        "number": "108",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Your opponent reveals his or her hand.Discard as many cards as you like from your hand. Then, draw that many cards."
+        ]
+    },
+    {
+        "id": "xy9-109",
+        "name": "Puzzle of Time",
+        "number": "109",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "You may play 2 Puzzle of Time cards at once.• If you played 1 card, look at the top 3 cards of your deck and put them back in any order.• If you played 2 cards, put 2 cards from your discard pile into your hand."
+        ]
+    },
+    {
+        "id": "xy9-110",
+        "name": "Reverse Valley",
+        "number": "110",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Choose which way this card faces before you play it. The attacks of this ↓ player's {D} Pokémon do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).\\n\\nAny damage done to this ↓ player's {M} Pokémon by an opponent's attack is reduced by 10 (after applying Weakness and Resistance)."
+        ]
+    },
+    {
+        "id": "xy9-111",
+        "name": "Scizor Spirit Link",
+        "number": "111",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Your turn does not end if the Pokémon this card is attached to becomes M Scizor-EX."
+        ]
+    },
+    {
+        "id": "xy9-112",
+        "name": "Tierno",
+        "number": "112",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Draw 3 cards."
+        ]
+    },
+    {
+        "id": "xy9-113",
+        "name": "Splash Energy",
+        "number": "113",
+        "rarity": "Uncommon",
+        "setCode": "xy9",
+        "subtype": "Special",
+        "supertype": "Energy",
+        "text": [
+            "This card can only be attached to {W} Pokémon. This card provides {W} Energy only while this card is attached to a {W} Pokémon.If the {W} Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, put that Pokémon into your hand. (Discard all cards attached to it.)(If this card is attached to anything other than a {W} Pokémon, discard this card.)"
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stormy Seas",
+                "text": "Flip a coin until you get tails. For each heads, search your deck for a {W} Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Splash Burn",
+                "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-114",
+        "name": "Gyarados-EX",
+        "number": "114",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Blast Geyser",
+                "text": "You may do 20 more damage for each {W} Energy attached to this Pokémon. If you do, discard the top 2 cards of your deck."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GyaradosEX",
+        "hp": 240,
+        "id": "xy9-115",
+        "name": "M Gyarados-EX",
+        "number": "115",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Aqua Tube",
+            "text": "Each of your Pokémon that has any {W} Energy attached to it has no Retreat Cost.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Mineral Pump",
+                "text": "Heal 30 damage from each of your Benched Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy9-116",
+        "name": "Manaphy-EX",
+        "number": "116",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Miraculous Shine",
+                "text": "Devolve each of your opponent's evolved Pokémon and put the highest Stage Evolution card on it into your opponent's hand."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Psyshock",
+                "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy9-117",
+        "name": "Espeon-EX",
+        "number": "117",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Dark Pulse",
+                "text": "This attack does 20 more damage for each {D} Energy attached to all of your Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Dark Head",
+                "text": "If your opponent's Active Pokémon is Asleep, this attack does 80 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-118",
+        "name": "Darkrai-EX",
+        "number": "118",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Metal"
+                ],
+                "damage": "20",
+                "name": "Steel Wing",
+                "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "50+",
+                "name": "Gale Thrust",
+                "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 60 more damage."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy9-119",
+        "name": "Scizor-EX",
+        "number": "119",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "120",
+                "name": "Iron Crusher",
+                "text": "You may discard a Special Energy attached to your opponent's Active Pokémon or a Stadium card in play."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "ScizorEX",
+        "hp": 220,
+        "id": "xy9-120",
+        "name": "M Scizor-EX",
+        "number": "120",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Purifying Fire",
+            "text": "Once during your turn (before your attack), if this Pokémon has any basic {R} Energy attached to it, you may heal 50 damage from it.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Lightning",
+                    "Water"
+                ],
+                "damage": "130",
+                "name": "Elemental Feather",
+                "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-121",
+        "name": "Ho-Oh-EX",
+        "number": "121",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy9-122",
+        "name": "Skyla",
+        "number": "122",
+        "rarity": "RareUltra",
+        "setCode": "xy9",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Search your deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stormy Seas",
+                "text": "Flip a coin until you get tails. For each heads, search your deck for a {W} Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Splash Burn",
+                "text": "This attack does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy9-123",
+        "name": "Gyarados-EX",
+        "number": "123",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy9",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    }
+]

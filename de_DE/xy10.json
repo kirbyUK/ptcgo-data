@@ -1,0 +1,4643 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Beerenversteck",
+                "text": "Ziehe 2 Karten. Lege anschließend 1 Karte von deiner Hand unter deinen Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Wickel",
+                "text": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy10-1",
+        "name": "Pottrott",
+        "number": "1",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Herunterhängen",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-2",
+        "name": "Burmy",
+        "number": "2",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Sonnenstrahlen",
+                "text": "Heile 20 Schadenspunkte bei jedem deiner Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Blattschere",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Burmy",
+        "hp": 120,
+        "id": "xy10-3",
+        "name": "Burmadame",
+        "number": "3",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Burmadame zuerst",
+            "text": "Beliebig oft während deines Zuges (vor deinem Angriff) kannst du 1 Schadensmarke von 1 deiner Burmadame auf ein anderes deiner Pokémon verschieben.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Windstoß",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Burmy",
+        "hp": 90,
+        "id": "xy10-4",
+        "name": "Moterpel",
+        "number": "4",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Klecks",
+                "text": "Heile 10 Schadenspunkte bei diesem Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-5",
+        "name": "Serpifeu",
+        "number": "5",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Schlangenstrangulation",
+            "text": "Wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 1 Münze werfen. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Rankenhieb",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Snivy",
+        "hp": 70,
+        "id": "xy10-6",
+        "name": "Efoserp",
+        "number": "6",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Einrollen",
+                "text": "Während deines nächsten Zuges fügen die Angriffe dieses Pokémon dem Aktiven Pokémon deines Gegners 60 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "80",
+                "name": "Schlitzender Schlag",
+                "text": "Dieses Pokémon kann Schlitzender Schlag während deines nächsten Zuges nicht einsetzen."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Servine",
+        "hp": 140,
+        "id": "xy10-7",
+        "name": "Serpiroyal",
+        "number": "7",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Freunde finden",
+                "text": "Durchsuche dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-8",
+        "name": "Sesokitz",
+        "number": "8",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Glühen",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Fliegende Fackel",
+                "text": "Du kannst mit diesem Angriff 40 weitere Schadenspunkte zufügen. Wenn du das machst, fügt dieses Pokémon sich selbst 20 Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy10-9",
+        "name": "Lavados",
+        "number": "9",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10",
+                "name": "Irrlicht",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Rutenschlag",
+                "text": "Wirf 1 Münze. Bei „Kopf“ kann das Verteidigende Pokémon während des nächsten Zuges deines Gegners nicht angreifen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-10",
+        "name": "Fynx",
+        "number": "10",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ausführen",
+                "text": "Wirf 1 Münze. Tausche bei „Kopf“ 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy10-11",
+        "name": "Fynx",
+        "number": "11",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Verzehrende Flamme",
+                "text": "Wirf 1 Münze. Lege bei „Kopf“ 1 an das Aktive Pokémon deines Gegners angelegte Energie auf den Ablagestapel deines Gegners."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Knisterndes Band",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Fennekin",
+        "hp": 80,
+        "id": "xy10-12",
+        "name": "Rutena",
+        "number": "12",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "40",
+                "name": "Züngelnde Flammen",
+                "text": "Das Aktive Pokémon deines Gegners schläft jetzt."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Psisturm",
+                "text": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der an allen Pokémon im Spiel angelegten Energien zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Braixen",
+        "hp": 140,
+        "id": "xy10-13",
+        "name": "Fennexis",
+        "number": "13",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Hexenflackern",
+            "text": "Einmal während deines Zuges (vor deinem Angriff) kannst du dein Deck nach 1 {R}-Energiekarte durchsuchen und sie an 1 deiner Pokémon anlegen. Mische anschließend dein Deck.",
+            "type": "Ability"
+        },
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Delphox",
+        "hp": 180,
+        "id": "xy10-14",
+        "name": "Fennexis-TURBO",
+        "number": "14",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Eisiger Schnee",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy10-15",
+        "name": "Jurob",
+        "number": "15",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Eisatem",
+                "text": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert. Bei „Zahl“ schläft das Aktive Pokémon deines Gegners jetzt."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Aurorastrahl",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Seel",
+        "hp": 120,
+        "id": "xy10-16",
+        "name": "Jugong",
+        "number": "16",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Aquaknarre",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "HelixFossilOmanyte",
+        "hp": 80,
+        "id": "xy10-17",
+        "name": "Amonitas",
+        "number": "17",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Restored",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Erweckungsstrahl",
+            "text": "Einmal während deines Zuges (vor deinem Angriff) kannst du dein Deck nach 1 Erweckt-Pokémon durchsuchen und auf deine Bank legen. Mische anschließend dein Deck.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Rundumangriff",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Omanyte",
+        "hp": 120,
+        "id": "xy10-18",
+        "name": "Amoroso",
+        "number": "18",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Gefährliche Tentakel",
+            "text": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Pokémon-EX auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners austauschen.",
+            "type": "Ability"
+        },
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Omastar",
+        "hp": 140,
+        "id": "xy10-19",
+        "name": "Amoroso-TURBO",
+        "number": "19",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Wunde Stelle",
+                "text": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Kristallstrahl",
+                "text": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe von Entwicklungs-Pokémon zugefügt wird."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-20",
+        "name": "Glaziola-EX",
+        "number": "20",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Brennende Eiszapfen",
+                "text": "Wenn an dieses Pokémon bereits {R}-Energie angelegt ist, fügt dieser Angriff 2 Pokémon auf der Bank deines Gegners 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Blizzardbrand",
+                "text": "Dieses Pokémon kann während deines nächsten Zuges nicht angreifen."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "xy10-21",
+        "name": "Weißes Kyurem",
+        "number": "21",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Gegenschwung",
+                "text": "Wirf 2 Münzen. Dieser Angriff fügt 20 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-22",
+        "name": "Bithora",
+        "number": "22",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Handblockade",
+            "text": "Wenn du 1 Stadionkarte im Spiel hast, kann dein Gegner keine Spezial-Energiekarten von seiner Hand an seine Pokémon anlegen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Klauenschlitzer",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Binacle",
+        "hp": 100,
+        "id": "xy10-23",
+        "name": "Thanathora",
+        "number": "23",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Energieanziehung",
+                "text": "Durchsuche dein Deck nach 1 Basis-Energiekarte und lege sie an dieses Pokémon an. Mische anschließend dein Deck."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Plasmagie",
+                "text": "Verschiebe 2 Schadensmarken von jedem deiner Pokémon auf das Aktive Pokémon deines Gegners."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-24",
+        "name": "Rotom",
+        "number": "24",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Psykraft",
+            "text": "Wenn du M-Simsala-EX von deiner Hand spielst, um dieses Pokémon zu entwickeln, kannst du, bevor es sich entwickelt, auf das Aktive Pokémon deines Gegners 2 Schadensmarken und 3 Schadensmarken auf 1 Pokémon auf der Bank deines Gegners legen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Unterdrückung",
+                "text": "Lege auf jedes Pokémon deines Gegners, an das Energie angelegt ist, 3 Schadensmarken."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "xy10-25",
+        "name": "Simsala-EX",
+        "number": "25",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Zen-Kraft",
+                "text": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "AlakazamEX",
+        "hp": 210,
+        "id": "xy10-26",
+        "name": "M-Simsala-EX",
+        "number": "26",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Teilung",
+                "text": "Durchsuche dein Deck nach bis zu 2 Smogon und lege sie auf deine Bank. Mische anschließend dein Deck."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-27",
+        "name": "Smogon",
+        "number": "27",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ballonbombe",
+                "text": "Wirf 2 Münzen. Lege pro „Kopf“ 2 Karten vom Deck deines Gegners auf seinen Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Zähe Flüssigkeit",
+                "text": "Beide Aktiven Pokémon sind jetzt verwirrt und vergiftet."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Koffing",
+        "hp": 110,
+        "id": "xy10-28",
+        "name": "Smogmog",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Anfangserinnerungen",
+            "text": "Dieses Pokémon kann die Angriffe von beliebigen deiner Basis-Pokémon im Spiel einsetzen. (Du benötigst jedoch die jeweils für den Angriff notwendige Energie.)",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Begegnung",
+                "text": "Durchsuche dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy10-29",
+        "name": "Mew",
+        "number": "29",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Raketensprung",
+                "text": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-30",
+        "name": "Spoink",
+        "number": "30",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Kopflauf",
+                "text": "Nimm 1 Basis-Pokémon aus dem Ablagestapel deines Gegners und lege es auf seine Bank. Lege anschließend 3 Schadensmarken auf jenes Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "50",
+                "name": "Schlag versetzen",
+                "text": "Dein Gegner tauscht sein Aktives Pokémon gegen 1 Pokémon auf seiner Bank aus."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Spoink",
+        "hp": 100,
+        "id": "xy10-31",
+        "name": "Groink",
+        "number": "31",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Psystrahl",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt verwirrt."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-32",
+        "name": "Mollimorba",
+        "number": "32",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Miniband",
+                "text": "Wenn sich Monozyto auf deiner Bank befindet, fügt dieser Angriff 30 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "xy10-33",
+        "name": "Monozyto",
+        "number": "33",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Doppelband",
+                "text": "Wenn sich Monozyto auf deiner Bank befindet, fügt dieser Angriff 30 weitere Schadenspunkte zu. Wenn sich Mitodos auf deiner Bank befindet, fügt dieser Angriff 60 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Solosis",
+        "hp": 60,
+        "id": "xy10-34",
+        "name": "Mitodos",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Fusionsband",
+                "text": "Wenn sich Monozyto auf deiner Bank befindet, fügt dieser Angriff 30 weitere Schadenspunkte zu. Wenn sich Mitodos auf deiner Bank befindet, fügt dieser Angriff 60 weitere Schadenspunkte zu. Wenn sich Zytomega auf deiner Bank befindet, fügt dieser Angriff 90 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Duosion",
+        "hp": 90,
+        "id": "xy10-35",
+        "name": "Zytomega",
+        "number": "35",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Ramme",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "xy10-36",
+        "name": "Digda",
+        "number": "36",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Leibwache",
+            "text": "Verhindere alle Effekte von Angriffen, die dir oder deinen Handkarten durch gegnerische Pokémon zugefügt werden. Alle bestehenden Effekte verlieren ihre Wirkung.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "60x",
+                "name": "Knochmerang",
+                "text": "Wirf 2 Münzen. Dieser Angriff fügt 60 Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Cubone",
+        "hp": 100,
+        "id": "xy10-37",
+        "name": "Knogga",
+        "number": "37",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Lehmschuss",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "DomeFossilKabuto",
+        "hp": 80,
+        "id": "xy10-38",
+        "name": "Kabuto",
+        "number": "38",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Restored",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Klammern",
+                "text": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Kreuzschere",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 60 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Kabuto",
+        "hp": 150,
+        "id": "xy10-39",
+        "name": "Kabutops",
+        "number": "39",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Waghalsiger Sturmangriff",
+                "text": "Dieses Pokémon fügt sich selbst 10 Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-40",
+        "name": "Larvitar",
+        "number": "40",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Gipfelmampfer",
+                "text": "Lege die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Korkenzieherhieb",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy10-41",
+        "name": "Larvitar",
+        "number": "41",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Fuchtler",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 20 weitere Schadenspunkte zu. Bei „Zahl“ fügt sich dieses Pokémon selbst 20 Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 80,
+        "id": "xy10-42",
+        "name": "Pupitar",
+        "number": "42",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Regi-Power",
+            "text": "Die Angriffe deiner {F}-Pokémon (außer Regirock-EX) fügen dem Aktiven Pokémon deines Gegners 10 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "100",
+                "name": "Grundgesteinsdruck",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy10-43",
+        "name": "Regirock-EX",
+        "number": "43",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Sandspray",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Doppelsalve",
+                "text": "Wenn sich Moterpel auf deiner Bank befindet, fügt dieser Angriff 60 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Burmy",
+        "hp": 110,
+        "id": "xy10-44",
+        "name": "Burmadame",
+        "number": "44",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Doppelstoß",
+                "text": "Wirf 2 Münzen. Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-45",
+        "name": "Riolu",
+        "number": "45",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Schmetterschlag",
+                "text": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-46",
+        "name": "Riolu",
+        "number": "46",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "40",
+                "name": "Niederprügler",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Magnumtritt",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Riolu",
+        "hp": 110,
+        "id": "xy10-47",
+        "name": "Lucario",
+        "number": "47",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Rückwärtssalto",
+                "text": "Ziehe 1 Karte."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Arglistiger Hieb",
+                "text": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-48",
+        "name": "Resladero",
+        "number": "48",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Energiehüter",
+            "text": "An Basis-Pokémon angelegte Basis-Energien können durch die Effekte von gegnerischen Angriffen, Fähigkeiten oder Trainerkarten nicht auf deinen Ablagestapel befördert werden.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Steinkante",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy10-49",
+        "name": "Rocara",
+        "number": "49",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Bodyguard",
+            "text": "Verhindere alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon durch gegnerische Pokémon-EX zugefügt werden.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Juwelenkraft",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy10-50",
+        "name": "Rocara",
+        "number": "50",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Diamantgeschenk",
+                "text": "Lege 2 Energiekarten aus deinem Ablagestapel an 1 deiner {F}-Pokémon an."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Carbink",
+        "hp": 110,
+        "id": "xy10-51",
+        "name": "Rocara-TURBO",
+        "number": "51",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Wachsamkeit",
+                "text": "Tausche 1 Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Aura-Umkehr",
+                "text": "Wenn das Verteidigende Pokémon ein {D}- oder {Y}-Pokémon ist, kann es während des nächsten Zuges deines Gegners nicht angreifen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy10-52",
+        "name": "Zygarde",
+        "number": "52",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Grollen",
+                "text": "Das Verteidigende Pokémon kann sich während des nächsten Zuges deines Gegners nicht zurückziehen."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Geoschlag",
+                "text": "Dieser Angriff fügt jedem Pokémon auf deiner Bank 10 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy10-53",
+        "name": "Zygarde",
+        "number": "53",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20+",
+                "name": "Bodenpuls",
+                "text": "Wenn 1 Stadionkarte im Spiel ist, fügt dieser Angriff 20 weitere Schadenspunkte zu."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Zellsturm",
+                "text": "Heile 30 Schadenspunkte bei diesem Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Bodengewalt",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "xy10-54",
+        "name": "Zygarde-EX",
+        "number": "54",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Schleier der Dunkelheit",
+                "text": "Lege beliebig viele Karten von deiner Hand auf deinen Ablagestapel. Ziehe anschließend dieselbe Anzahl Karten."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Endphase",
+                "text": "Wenn das Mega-Entwicklungs-Pokémon deines Gegners durch Schaden dieses Angriffs kampfunfähig wird, nimm 2 zusätzliche Preiskarten."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-55",
+        "name": "Nachtara-EX",
+        "number": "55",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Wütendes Gebrüll",
+            "text": "Wenn du dieses Pokémon von deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du für jede Preiskarte, die dein Gegner bereits genommen hat, 1 {D}-Energie aus deinem Ablagestapel an dieses Pokémon anlegen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Darkness",
+                    "Darkness",
+                    "Darkness"
+                ],
+                "damage": "150+",
+                "name": "Dunkler Berg",
+                "text": "Lege die obersten 2 Karten deines Decks auf deinen Ablagestapel. Dieser Angriff fügt 50 weitere Schadenspunkte für jede Unterstützerkarte zu, die auf diese Weise auf den Ablagestapel gelegt wurde."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Pupitar",
+        "hp": 160,
+        "id": "xy10-56",
+        "name": "Despotar",
+        "number": "56",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Silberblick",
+                "text": "Wirf 1 Münze. Bei „Kopf“ ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Schneidender Wind",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-57",
+        "name": "Skallyk",
+        "number": "57",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Knochenfall",
+                "text": "Dieser Angriff fügt 1 Pokémon deines Gegners, das eine Fähigkeit hat, 60 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Schneidender Wind",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vullaby",
+        "hp": 110,
+        "id": "xy10-58",
+        "name": "Grypheldis",
+        "number": "58",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Metal"
+                ],
+                "damage": "20x",
+                "name": "Kontern",
+                "text": "Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl der Schadensmarken auf diesem Pokémon zu."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Eisenschädel",
+                "text": "Wirf so lang 1 Münze, bis zum ersten Mal das Ergebnis „Zahl“ kommt. Dieser Angriff fügt 20 weitere Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Burmy",
+        "hp": 100,
+        "id": "xy10-59",
+        "name": "Burmadame",
+        "number": "59",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Metal"
+                ],
+                "damage": "",
+                "name": "Eisenabwehr",
+                "text": "Wirf 1 Münze. Verhindere bei „Kopf“ während des nächsten Zuges deines Gegners alle Effekte von Angriffen, einschließlich Schaden, die diesem Pokémon zugefügt werden."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Einhämmern",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-60",
+        "name": "Bronzel",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Metallfestung",
+            "text": "Verhindere alle Effekte von Angriffen gegnerischer Pokémon, einschließlich Schaden, die den Pokémon auf deiner Bank zugefügt werden.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Schutzdruck",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 20 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Bronzor",
+        "hp": 100,
+        "id": "xy10-61",
+        "name": "Bronzong",
+        "number": "61",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Goldregen",
+                "text": "Lege beliebig viele an dieses Pokémon angelegte {M}-Energien auf deinen Ablagestapel. Wähle für jede Energiekarte, die auf diese Weise auf den Ablagestapel gelegt wurde, 1 Pokémon deines Gegners aus und füge jedem dieser Pokémon 30 Schadenspunkte zu. Wende Schwäche und Resistenz nicht an. (Du kannst dasselbe Pokémon mehrmals auswählen.)"
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Bronzong",
+        "hp": 130,
+        "id": "xy10-62",
+        "name": "Bronzong-TURBO",
+        "number": "62",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Metal"
+                ],
+                "damage": "50",
+                "name": "Vakuumwelle",
+                "text": "Der Schaden dieses Angriffs wird durch Schwäche und Resistenz nicht verändert."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Einzelkämpfer",
+                "text": "Wenn du weniger Pokémon im Spiel hast als dein Gegner, fügt dieser Angriff 60 weitere Schadenspunkte mal der Anzahl der Pokémon, die du weniger im Spiel hast, zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Riolu",
+        "hp": 110,
+        "id": "xy10-63",
+        "name": "Lucario",
+        "number": "63",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Modulwechsel",
+            "text": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Pokémon-Ausrüstung, die an dieses Pokémon angelegt ist, auf deine Hand nehmen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "100+",
+                "name": "Rapide Druckwelle",
+                "text": "Lege beliebig viele an dieses Pokémon angelegte {M}-Energien auf deinen Ablagestapel. Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energiekarte zu, die auf diese Weise auf den Ablagestapel gelegt wurde."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy10-64",
+        "name": "Genesect-EX",
+        "number": "64",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Pfund",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Walzer",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-65",
+        "name": "Pummeluff",
+        "number": "65",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Ausdehnen",
+                "text": "Während des nächsten Zuges deines Gegners wird Schaden, der diesem Pokémon durch Angriffe zugefügt wird, um 30 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60x",
+                "name": "Duplexhieb",
+                "text": "Wirf 2 Münzen. Dieser Angriff fügt 60 Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Jigglypuff",
+        "hp": 100,
+        "id": "xy10-66",
+        "name": "Knuddeluff",
+        "number": "66",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "",
+                "name": "Mimikry",
+                "text": "Mische deine Handkarten in dein Deck. Ziehe anschließend genauso viele Karten, wie dein Gegner auf der Hand hat."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Jongleur",
+                "text": "Wirf 4 Münzen. Dieser Angriff fügt 20 Schadenspunkte mal der Anzahl „Kopf“ zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy10-67",
+        "name": "Pantimos",
+        "number": "67",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Krawall",
+                "text": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-68",
+        "name": "Snubbull",
+        "number": "68",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100+",
+                "name": "Nebelaktion",
+                "text": "Wenn an dieses Pokémon bereits Spezial-Energie angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu und heilt 30 Schadenspunkte bei jedem deiner Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AltariaEX",
+        "hp": 220,
+        "id": "xy10-69",
+        "name": "M-Altaria-EX",
+        "number": "69",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Feenbrise",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy10-70",
+        "name": "Waumboll",
+        "number": "70",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "40",
+                "name": "Auf leisen Sohlen",
+                "text": "Verschiebe 1 an dieses Pokémon angelegte Energie auf 1 Pokémon auf deiner Bank."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Cottonee",
+        "hp": 90,
+        "id": "xy10-71",
+        "name": "Elfun",
+        "number": "71",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Glitzernder Schleier",
+            "text": "Solang dieses Pokémon dein Aktives Pokémon ist, wird Schaden, der deinen Pokémon durch einen gegnerischen Angriff zugefügt wird, um 30 Schadenspunkte reduziert (nachdem Schwäche und Resistenz verrechnet wurden).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Wunderbühne",
+                "text": "Wenn 1 Stadionkarte im Spiel ist, fügt dieser Angriff 50 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 150,
+        "id": "xy10-72",
+        "name": "Diancie-EX",
+        "number": "72",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Großer Sturm",
+                "text": "Lege 1 beliebige Stadionkarte im Spiel auf den Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Drachenspur",
+                "text": "Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten {L}-Basis-Energien zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-73",
+        "name": "Seedraking-EX",
+        "number": "73",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tumulttreffer",
+                "text": "Dieser Angriff fügt 1 Pokémon deines Gegners, auf dem bereits mindestens 1 Schadensmarke liegt, 50 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy10-74",
+        "name": "Mauzi",
+        "number": "74",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Mickriger Hieb",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Megahieb",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy10-75",
+        "name": "Kangama",
+        "number": "75",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Biss",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Düsendurchzug",
+                "text": "Lege 1 an das Aktive Pokémon deines Gegners angelegte Spezial-Energie auf den Ablagestapel deines Gegners."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "OldAmberAerodactyl",
+        "hp": 120,
+        "id": "xy10-76",
+        "name": "Aerodactyl",
+        "number": "76",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "Restored",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Herumwälzen",
+                "text": "Dieser Angriff kann auch eingesetzt werden, wenn dieses Pokémon schläft. Wenn es schläft, fügt dieser Angriff 90 weitere Schadenspunkte zu."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Verzehrer",
+                "text": "Heile bei diesem Pokémon genauso viel Schaden, wie du dem Aktiven Pokémon deines Gegners zugefügt hast."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "xy10-77",
+        "name": "Relaxo",
+        "number": "77",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Druck",
+            "text": "Solang dieses Pokémon dein Aktives Pokémon ist, wird Schaden, der durch Angriffe des Aktiven Pokémon deines Gegners zugefügt wird, um 20 Schadenspunkte reduziert (bevor Schwäche und Resistenz verrechnet werden).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Brandverstärker",
+                "text": "Wenn das Aktive Pokémon deines Gegners ein Pokémon-EX ist, fügt dieser Angriff 60 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy10-78",
+        "name": "Lugia",
+        "number": "78",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Zerstörungsblitz",
+                "text": "Lege 2 an dieses Pokémon angelegte Energien auf deinen Ablagestapel."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Lugia",
+        "hp": 150,
+        "id": "xy10-79",
+        "name": "Lugia-TURBO",
+        "number": "79",
+        "rarity": "Rare BREAK",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy10",
+        "subtype": "BREAK",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": []
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Pfund",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Kanon",
+                "text": "Dieser Angriff fügt 10 Schadenspunkte mal der Anzahl deiner Pokémon zu, die Kanon beherrschen."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-80",
+        "name": "Flurmel",
+        "number": "80",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Schmetterkick",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Stampfer",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Whismur",
+        "hp": 90,
+        "id": "xy10-81",
+        "name": "Krakeelo",
+        "number": "81",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Hinterhalt",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 40 weitere Schadenspunkte zu."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Kakofonie",
+                "text": "Lege am Ende des nächsten Zuges deines Gegners das Verteidigende Pokémon und alle daran angelegten Karten auf dessen Ablagestapel."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Loudred",
+        "hp": 140,
+        "id": "xy10-82",
+        "name": "Krawumms",
+        "number": "82",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Machtvoller Vorteil",
+                "text": "Wenn dieses Pokémon während dieses Zuges geheilt wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu und heilt 30 Schadenspunkte bei diesem Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Schimmernder Wind",
+                "text": "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-83",
+        "name": "Altaria-EX",
+        "number": "83",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Watschensauger",
+                "text": "Heile 20 Schadenspunkte bei diesem Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Wellenreiten",
+                "text": "Dieser Angriff fügt 10 weitere Schadenspunkte mal der Anzahl der Pokémon auf deiner Bank zu."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy10-84",
+        "name": "Ohrdoch-EX",
+        "number": "84",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Magische Sinfonie",
+                "text": "Wenn du während dieses Zuges 1 Unterstützerkarte von deiner Hand gespielt hast, fügt dieser Angriff 1 Pokémon auf der Bank deines Gegners 50 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "AudinoEX",
+        "hp": 220,
+        "id": "xy10-85",
+        "name": "M-Ohrdoch-EX",
+        "number": "85",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Putzen",
+                "text": "Lege 1 an ein gegnerisches Pokémon angelegte Pokémon-Ausrüstung auf den Ablagestapel deines Gegners."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy10-86",
+        "name": "Picochilla",
+        "number": "86",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Schweifstreich",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy10-87",
+        "name": "Picochilla",
+        "number": "87",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Bezirzer",
+                "text": "Dein Gegner deckt seine Handkarten auf. Wähle 1 dieser Karten und lege sie unter das Deck deines Gegners."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Zuflucht",
+                "text": "Wirf 1 Münze. Bei „Zahl“ hat dieser Angriff keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Minccino",
+        "hp": 90,
+        "id": "xy10-88",
+        "name": "Chillabell",
+        "number": "88",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Fegende Heilung",
+                "text": "Heile 90 Schadenspunkte bei 1 Pokémon auf deiner Bank."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Zurückschlagen",
+                "text": "Wirf 1 Münze. Bei „Kopf“ fügt dieser Angriff 30 weitere Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Minccino",
+        "hp": 90,
+        "id": "xy10-89",
+        "name": "Chillabell",
+        "number": "89",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy10-90",
+        "name": "Simsalas Geistesbund",
+        "number": "90",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Dein Zug endet nicht, wenn das Pokémon, an das diese Karte angelegt ist, zu M-Simsala-EX wird."
+        ]
+    },
+    {
+        "id": "xy10-91",
+        "name": "Altarias Geistesbund",
+        "number": "91",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Dein Zug endet nicht, wenn das Pokémon, an das diese Karte angelegt ist, zu M-Altaria-EX wird."
+        ]
+    },
+    {
+        "id": "xy10-92",
+        "name": "Ohrdochs Geistesbund",
+        "number": "92",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Dein Zug endet nicht, wenn das Pokémon, an das diese Karte angelegt ist, zu M-Ohrdoch-EX wird."
+        ]
+    },
+    {
+        "id": "xy10-93",
+        "name": "Verbogener Löffel",
+        "number": "93",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Verhindere alle Effekte von gegnerischen Angriffen, außer Schaden, die dem Pokémon, an das diese Karte angelegt ist, zugefügt werden. (Bestehende Effekte werden nicht entfernt.)"
+        ]
+    },
+    {
+        "id": "xy10-94",
+        "name": "Chaosturm",
+        "number": "94",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Entscheide dich vor dem Spielen dieser Karte, auf welchen Spieler „↓“ zeigen soll. Die Pokémon des angezeigten Spielers können nicht von Schlaf oder Paralyse betroffen werden. (Wenn diese Pokémon schon von Schlaf oder Paralyse betroffen sind, entferne verlieren diese Speziellen Zustände ihre Wirkung.)\\n\\nDie Pokémon des angezeigten Spielers können nicht von Verwirrung oder Vergiftung betroffen werden. (Wenn diese Pokémon schon von Verwirrung oder Vergiftung betroffen sind, verlieren diese Speziellen Zustände ihre Wirkung.)"
+        ]
+    },
+    {
+        "id": "xy10-95",
+        "name": "Rückentwicklungsspray",
+        "number": "95",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Rückentwickle 1 deiner entwickelten Pokémon und nimm die höchste daraufliegende Evolutionskarte auf deine Hand. (Das Pokémon kann sich während dieses Zuges nicht entwickeln.)"
+        ]
+    },
+    {
+        "id": "xy10-96",
+        "name": "Kabutos Domfossil",
+        "number": "96",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Schau dir die untersten 7 Karten deines Decks an. Falls du dort ein Kabuto findest, kannst du es deinem Gegner zeigen und auf deine Bank legen. Mische die anderen Karten zurück in dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-97",
+        "name": "Energietasche",
+        "number": "97",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Wenn das Pokémon, an das diese Karte angelegt ist, durch Schaden eines gegnerischen Angriffs kampfunfähig wird, nimm alle an jenes Pokémon angelegten Basis-Energien auf deine Hand."
+        ]
+    },
+    {
+        "id": "xy10-98",
+        "name": "Energierückstellung",
+        "number": "98",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Nimm beliebig viele an deine Pokémon angelegten Energien auf deine Hand."
+        ]
+    },
+    {
+        "id": "xy10-99",
+        "name": "Feentropfen",
+        "number": "99",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Heile 50 Schadenspunkte bei 1 deiner Pokémon, an das {Y}-Energie angelegt ist."
+        ]
+    },
+    {
+        "id": "xy10-100",
+        "name": "Feenbeet",
+        "number": "100",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Jedes Pokémon (deine und die deines Gegners), an das {Y}-Energie angelegt ist, hat keine Rückzugskosten."
+        ]
+    },
+    {
+        "id": "xy10-101",
+        "name": "Fossilausgrabungsset",
+        "number": "101",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Nimm eine beliebige Kombination aus 2 der folgenden Karten von deinem Ablagestapel auf deine Hand: Helixfossil Amonitas, Domfossil Kabuto oder Altbernstein Aerodactyl."
+        ]
+    },
+    {
+        "id": "xy10-102",
+        "name": "Amonitas Helixfossil",
+        "number": "102",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Schau dir die untersten 7 Karten deines Decks an. Falls du dort ein Amonitas findest, kannst du es deinem Gegner zeigen und auf deine Bank legen. Mische die anderen Karten zurück in dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-103",
+        "name": "Görentalent",
+        "number": "103",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Ziehe 1 Karte für jedes Basis-Pokémon auf der Bank deines Gegners."
+        ]
+    },
+    {
+        "id": "xy10-104",
+        "name": "Mega-Fänger",
+        "number": "104",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Tausche 1 Mega-Entwicklungs-Pokémon auf der Bank deines Gegners gegen das Aktive Pokémon deines Gegners aus."
+        ]
+    },
+    {
+        "id": "xy10-105",
+        "name": "N",
+        "number": "105",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Jeder Spieler mischt seine Hand zurück in sein Deck. Anschließend zieht jeder Spieler eine Karte für jede seiner noch übrigen Preiskarten."
+        ]
+    },
+    {
+        "id": "xy10-106",
+        "name": "Aerodactyls Altbernstein",
+        "number": "106",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Schau dir die untersten 7 Karten deines Decks an. Falls du dort ein Aerodactyl findest, kannst du es deinem Gegner zeigen und auf deine Bank legen. Mische die anderen Karten zurück in dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-107",
+        "name": "Pokémon Fan Club",
+        "number": "107",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Durchsuche dein Deck nach bis zu 2 Basis-Pokémon, zeige sie deinem Gegner und nimm sie auf deine Hand. Mische anschließend dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-108",
+        "name": "Langzeitgedächtnis",
+        "number": "108",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Das Zygarde-EX, an das diese Karte angelegt ist, kann auch den Angriff auf dieser Karte einsetzen. (Du benötigst jedoch die für diesen Angriff notwendige Energie.)Alle Zellen brennen {F}{F}{C} 200Lege 3 an dieses Pokémon angelegte Energien auf deinen Ablagestapel."
+        ]
+    },
+    {
+        "id": "xy10-109",
+        "name": "Zufallsempfänger",
+        "number": "109",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Decke solang Karten von deinem Deck auf, bis du eine Unterstützerkarte aufdeckst. Nimm sie auf deine Hand. Mische die anderen Karten zurück in dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-110",
+        "name": "Verbrannte Erde",
+        "number": "110",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Einmal während seines Zuges darf jeder Spieler 1 {R}- oder 1 {F}-Energiekarte von seiner Hand auf seinen Ablagestapel legen. Wenn ein Spieler das tut, zieht er 2 Karten."
+        ]
+    },
+    {
+        "id": "xy10-111",
+        "name": "Sannah",
+        "number": "111",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Mische deine Handkarten in dein Deck. Ziehe anschließend 5 Karten."
+        ]
+    },
+    {
+        "id": "xy10-112",
+        "name": "Team Rockets Machenschaften",
+        "number": "112",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Wirf 2 Münzen. Lege pro „Kopf“ 2 Karten vom Deck deines Gegners auf seinen Ablagestapel."
+        ]
+    },
+    {
+        "id": "xy10-113",
+        "name": "Hyperball",
+        "number": "113",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lege 2 Karten von deiner Hand auf deinen Ablagestapel. (Wenn du keine 2 Karten auf deinen Ablagestapel legen kannst, kannst du diese Karte nicht spielen.) Durchsuche dein Deck nach 1 Pokémon, zeige es deinem Gegner und nimm es auf deine Hand. Mische anschließend dein Deck."
+        ]
+    },
+    {
+        "id": "xy10-114",
+        "name": "Doppel-Farblos-Energie",
+        "number": "114",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Special",
+        "supertype": "Energy",
+        "text": [
+            "Doppel-Farblos-Energie liefert {C}{C}-Energie."
+        ]
+    },
+    {
+        "id": "xy10-115",
+        "name": "Stärke-Energie",
+        "number": "115",
+        "rarity": "Uncommon",
+        "setCode": "xy10",
+        "subtype": "Special",
+        "supertype": "Energy",
+        "text": [
+            "Diese Karte kann nur an {F}-Pokémon angelegt werden. Diese Karte liefert nur dann {F}-Energie, wenn sie an ein {F}-Pokémon angelegt ist.Die Angriffe des {F}-Pokémon, an das diese Karte angelegt ist, fügen dem Aktiven Pokémon deines Gegners 20 weitere Schadenspunkte zu (bevor Schwäche und Resistenz verrechnet werden).(Lege diese Karte auf deinen Ablagestapel, wenn sie an eine andere Karte als ein {F}-Pokémon angelegt ist.)"
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Wunde Stelle",
+                "text": "Dieser Angriff fügt 10 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Kristallstrahl",
+                "text": "Verhindere allen Schaden, der diesem Pokémon während des nächsten Zuges deines Gegners durch Angriffe von Entwicklungs-Pokémon zugefügt wird."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-116",
+        "name": "Glaziola-EX",
+        "number": "116",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Psykraft",
+            "text": "Wenn du M-Simsala-EX von deiner Hand spielst, um dieses Pokémon zu entwickeln, kannst du, bevor es sich entwickelt, auf das Aktive Pokémon deines Gegners 2 Schadensmarken und 3 Schadensmarken auf 1 Pokémon auf der Bank deines Gegners legen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Unterdrückung",
+                "text": "Lege auf jedes Pokémon deines Gegners, an das Energie angelegt ist, 3 Schadensmarken."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "xy10-117",
+        "name": "Simsala-EX",
+        "number": "117",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Zen-Kraft",
+                "text": "Dieser Angriff fügt 30 weitere Schadenspunkte für jede Schadensmarke auf dem Aktiven Pokémon deines Gegners zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "AlakazamEX",
+        "hp": 210,
+        "id": "xy10-118",
+        "name": "M-Simsala-EX",
+        "number": "118",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Schleier der Dunkelheit",
+                "text": "Lege beliebig viele Karten von deiner Hand auf deinen Ablagestapel. Ziehe anschließend dieselbe Anzahl Karten."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Endphase",
+                "text": "Wenn das Mega-Entwicklungs-Pokémon deines Gegners durch Schaden dieses Angriffs kampfunfähig wird, nimm 2 zusätzliche Preiskarten."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-119",
+        "name": "Nachtara-EX",
+        "number": "119",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Modulwechsel",
+            "text": "Einmal während deines Zuges (vor deinem Angriff) kannst du 1 Pokémon-Ausrüstung, die an dieses Pokémon angelegt ist, auf deine Hand nehmen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "100+",
+                "name": "Rapide Druckwelle",
+                "text": "Lege beliebig viele an dieses Pokémon angelegte {M}-Energien auf deinen Ablagestapel. Dieser Angriff fügt 20 weitere Schadenspunkte für jede Energiekarte zu, die auf diese Weise auf den Ablagestapel gelegt wurde."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy10-120",
+        "name": "Genesect-EX",
+        "number": "120",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100+",
+                "name": "Nebelaktion",
+                "text": "Wenn an dieses Pokémon bereits Spezial-Energie angelegt ist, fügt dieser Angriff 30 weitere Schadenspunkte zu und heilt 30 Schadenspunkte bei jedem deiner Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AltariaEX",
+        "hp": 220,
+        "id": "xy10-121",
+        "name": "M-Altaria-EX",
+        "number": "121",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Großer Sturm",
+                "text": "Lege 1 beliebige Stadionkarte im Spiel auf den Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Drachenspur",
+                "text": "Dieser Angriff fügt 30 weitere Schadenspunkte mal der Anzahl der an dieses Pokémon angelegten {L}-Basis-Energien zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-122",
+        "name": "Seedraking-EX",
+        "number": "122",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Machtvoller Vorteil",
+                "text": "Wenn dieses Pokémon während dieses Zuges geheilt wurde, fügt dieser Angriff 60 weitere Schadenspunkte zu und heilt 30 Schadenspunkte bei diesem Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Schimmernder Wind",
+                "text": "Während des nächsten Zuges deines Gegners hat dieses Pokémon keine Schwäche."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy10-123",
+        "name": "Altaria-EX",
+        "number": "123",
+        "rarity": "RareUltra",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy10-124",
+        "name": "Team Rockets Machenschaften",
+        "number": "124",
+        "rarity": "RareUltra",
+        "setCode": "xy10",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Wirf 2 Münzen. Lege pro „Kopf“ 2 Karten vom Deck deines Gegners auf seinen Ablagestapel."
+        ]
+    },
+    {
+        "ability": {
+            "name": "Psykraft",
+            "text": "Wenn du M-Simsala-EX von deiner Hand spielst, um dieses Pokémon zu entwickeln, kannst du, bevor es sich entwickelt, auf das Aktive Pokémon deines Gegners 2 Schadensmarken und 3 Schadensmarken auf 1 Pokémon auf der Bank deines Gegners legen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Unterdrückung",
+                "text": "Lege auf jedes Pokémon deines Gegners, an das Energie angelegt ist, 3 Schadensmarken."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "xy10-125",
+        "name": "Simsala-EX",
+        "number": "125",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy10",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    }
+]

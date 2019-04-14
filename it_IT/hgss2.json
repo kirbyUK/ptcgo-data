@@ -1,0 +1,3932 @@
+[
+    {
+        "ability": {
+            "name": "Canto Polvere di Stelle",
+            "text": "Una sola volta durante il tuo turno, quando metti Jirachi nella tua Panchina, puoi lanciare tre volte una moneta. Ogni volta che esce testa, cerca una carta Energia {P} nella tua pila degli scarti e assegnala a Jirachi.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Vuoto Temporale",
+                "text": "Scegli un numero di Pokémon Evoluti di Fase 1 o di Fase 2 del tuo avversario pari al massimo al numero di Energie assegnate a Jirachi. Rimuovi le carte Evoluzione di Fase più alta da ciascuno di quei Pokémon e rimetti le carte in mano al tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-1",
+        "name": "Jirachi",
+        "number": "1",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50x",
+                "name": "Sgretolavigore",
+                "text": "Scarta le prime tre carte del tuo mazzo. Questo attacco infligge 50 danni per ogni carta Energia che hai scartato."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Manto Bazooka",
+                "text": "Scarta due Energie {R} assegnate a Magmortar."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Magmar",
+        "hp": 110,
+        "id": "hgss2-2",
+        "name": "Magmortar",
+        "number": "2",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Schizzi d’Onda",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Vortice Abissale",
+                "text": "Metti le carte che hai in mano nel tuo mazzo e rimischialo. Poi pesca 5 carte."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-3",
+        "name": "Manaphy",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Levitazione Psichica",
+            "text": "Se hai Energie {P} assegnate al tuo Pokémon Attivo, il Costo di Ritirata di quel Pokémon è 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Scoppimpulso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Doppio Martello",
+                "text": "Scegli due dei Pokémon nella Panchina del tuo avversario. Questo attacco infligge 40 danni a ciascuno di essi. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Metang",
+        "hp": 130,
+        "id": "hgss2-4",
+        "name": "Metagross",
+        "number": "4",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Magispostamento",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi spostare una carta Energia {P} assegnata a uno dei tuoi Pokémon su un altro dei tuoi Pokémon. Questo potere non può essere usato se Mismagius è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Psicoimpulso",
+                "text": "Infligge 10 danni a ciascuno dei Pokémon del tuo avversario con dei segnalini danno su di sé. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Misdreavus",
+        "hp": 90,
+        "id": "hgss2-5",
+        "name": "Mismagius",
+        "number": "5",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Cannonscambio",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 30 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina). Scambia Octillery con uno dei tuoi Pokémon in Panchina."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Bombinchiostro",
+                "text": "Se il Pokémon Difensore prova ad attaccare durante il prossimo turno del tuo avversario, il tuo avversario lancia una moneta. Se esce croce, quell’attacco non ha effetto."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Remoraid",
+        "hp": 80,
+        "id": "hgss2-6",
+        "name": "Octillery",
+        "number": "6",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Saltarana",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi scegliere un Pokémon {W} nella tua Panchina e scambiarlo con il tuo Pokémon Attivo. Questo potere non può essere usato se Politoed è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Grande Coro",
+                "text": "Lancia una moneta per ogni Pokémon {W} che hai in gioco. Questo attacco infligge 30 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 120,
+        "id": "hgss2-7",
+        "name": "Politoed",
+        "number": "7",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Vento di Festa",
+            "text": "Una sola volta durante il tuo turno, quando metti Shaymin nella tua Panchina, puoi spostare quante carte Energia vuoi tra quelle assegnate ai tuoi Pokémon su qualsiasi altro dei tuoi Pokémon.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Fior d’Energia",
+                "text": "Togli 3 segnalini danno da ciascuno dei tuoi Pokémon che ha delle Energie assegnate."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-8",
+        "name": "Shaymin",
+        "number": "8",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Rombo",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon Difensore non può ritirarsi."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20x",
+                "name": "Spinger Via",
+                "text": "Infligge 20 danni per ogni Energia {F} assegnata a Sudowoodo."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-9",
+        "name": "Sudowoodo",
+        "number": "9",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Schiacciaterra",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Gigassorbimento",
+                "text": "Togli da Torterra un numero di segnalini danno pari al danno inflitto al Pokémon Difensore."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Grotle",
+        "hp": 140,
+        "id": "hgss2-10",
+        "name": "Torterra",
+        "number": "10",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Stordiraggio",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Confuso."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20x",
+                "name": "Psico-Onda",
+                "text": "Infligge 20 danni per ogni Energia assegnata al Pokémon Difensore."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Natu",
+        "hp": 90,
+        "id": "hgss2-11",
+        "name": "Xatu",
+        "number": "11",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Veleno Paralizzante",
+                "text": "Il Pokémon Difensore è Avvelenato. Lancia una moneta. Se esce testa, il Pokémon Difensore è anche Paralizzato."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "50x",
+                "name": "Doppio Ago",
+                "text": "Lancia due volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Kakuna",
+        "hp": 110,
+        "id": "hgss2-12",
+        "name": "Beedrill",
+        "number": "12",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Sciacquare",
+            "text": "Quante volte vuoi durante il tuo turno (prima del tuo attacco), puoi spostare sul tuo Pokémon Attivo una Energia {W} assegnata a uno dei tuoi Pokémon in Panchina sul tuo Pokémon Attivo. Questo potere non può essere usato se Blastoise è influenzato da",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Idrolancia",
+                "text": "Riprendi in mano Energie {W} assegnate a Blastoise. Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 100 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 130,
+        "id": "hgss2-13",
+        "name": "Blastoise",
+        "number": "13",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Supersuono",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Confuso."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Ala Uragano",
+                "text": "Lancia quattro volte una moneta. Questo attacco infligge 50 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 110,
+        "id": "hgss2-14",
+        "name": "Crobat",
+        "number": "14",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Ripetitrapano",
+                "text": "Lancia 5 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Attacco d’Ala",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Spearow",
+        "hp": 80,
+        "id": "hgss2-15",
+        "name": "Fearow",
+        "number": "15",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Acceleracqua",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi assegnare a Floatzel una carta Energia {W} presente tra le carte che hai in mano. Questo potere non può essere usato se Floatzel è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Cascata",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Buizel",
+        "hp": 80,
+        "id": "hgss2-16",
+        "name": "Floatzel",
+        "number": "16",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Pompa Getto",
+                "text": "Puoi infliggere 50 danni più altri 30 danni. Se lo fai, riprendi in mano una carta Energia assegnata a Kingdra."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Idrofreccia",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 30 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-17",
+        "name": "Kingdra",
+        "number": "17",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Rifletti Energia",
+                "text": "Sposta una carta Energia assegnata a Lanturn su uno dei tuoi Pokémon in Panchina."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Stordiraggio",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Confuso."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 90,
+        "id": "hgss2-18",
+        "name": "Lanturn",
+        "number": "18",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "50",
+                "name": "Superpugno",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Granfisico",
+                "text": "Durante il tuo prossimo turno, ciascuno degli attacchi di Lucario infligge altri 30 danni al Pokémon Difensore (prima di applicare Debolezza e Resistenza)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Riolu",
+        "hp": 90,
+        "id": "hgss2-19",
+        "name": "Lucario",
+        "number": "19",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Accelerocalore",
+                "text": "Cerca nella tua pila degli scarti fino a tre carte Energia {R} e assegnale a uno dei tuoi Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Fiamme Ustionanti",
+                "text": "Il Pokémon Difensore è Bruciato."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vulpix",
+        "hp": 90,
+        "id": "hgss2-20",
+        "name": "Ninetales",
+        "number": "20",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Dinamipugno",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 60 danni più altri 40 danni e il Pokémon Difensore è Confuso."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Rullo Compressore",
+                "text": "Infligge 20 danni a uno dei Pokémon nella Panchina del tuo avversario. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 130,
+        "id": "hgss2-21",
+        "name": "Poliwrath",
+        "number": "21",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Colpo Basso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Pugno Ritmico",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Lancia una moneta finché non esce croce. Questo attacco infligge a quel Pokémon 50 danni ogni volta che esce testa. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Mankey",
+        "hp": 90,
+        "id": "hgss2-22",
+        "name": "Primeape",
+        "number": "22",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Segnale Energetico",
+            "text": "Quando assegni a Roserade una carta Energia {G} o una carta Energia {P} presenti tra le carte che hai in mano durante il tuo turno, puoi usare questo potere. Se assegni una carta Energia {G}, il Pokémon Difensore è Confuso. Se assegni una carta Energia {P",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Supersoffio",
+                "text": "Questo attacco infligge 20 danni per ogni carta Energia assegnata a Roserade."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Roselia",
+        "hp": 90,
+        "id": "hgss2-23",
+        "name": "Roserade",
+        "number": "23",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Pressadifesa",
+                "text": "Durante il prossimo turno del tuo avversario, qualsiasi danno inflitto a Steelix da attacchi è ridotto di 20 (dopo aver applicato Debolezza e Resistenza)."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80x",
+                "name": "Oscillacciaio",
+                "text": "Lancia due volte una moneta. Questo attacco infligge 80 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 120,
+        "id": "hgss2-24",
+        "name": "Steelix",
+        "number": "24",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Caldogrugnito",
+            "text": "Una sola volta durante il tuo turno, quando metti Torkoal dalla tua mano nella tua Panchina, puoi lanciare una moneta. Se esce testa, il Pokémon Difensore è Bruciato.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Fiammata",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-25",
+        "name": "Torkoal",
+        "number": "25",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Iper Raggio",
+                "text": "Scarta una carta Energia assegnata al Pokémon Difensore."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Tritacoda",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni più altri 20 danni."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 140,
+        "id": "hgss2-26",
+        "name": "Tyranitar",
+        "number": "26",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Incrocolpo",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 50 danni più altri 30 danni."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Confronto",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 100,
+        "id": "hgss2-27",
+        "name": "Ursaring",
+        "number": "27",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Solcura",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi togliere un segnalino danno dal tuo Pokémon Attivo. Questo potere non può essere usato se Cherrim è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Semebomba",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Cherubi",
+        "hp": 80,
+        "id": "hgss2-28",
+        "name": "Cherrim",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Ritorno",
+                "text": "Pesca fino ad avere 6 carte in mano."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-29",
+        "name": "Dunsparce",
+        "number": "29",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20",
+                "name": "Malosguardo",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon Difensore non può ritirarsi."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Zubat",
+        "hp": 80,
+        "id": "hgss2-30",
+        "name": "Golbat",
+        "number": "30",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Sonnifero",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon Difensore è Addormentato."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Foglielama",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Turtwig",
+        "hp": 90,
+        "id": "hgss2-31",
+        "name": "Grotle",
+        "number": "31",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Evoluzione rapida",
+                "text": "Cerca nel tuo mazzo una carta che evolve da Kakuna e mettila sopra Kakuna. (Conta come un’evoluzione di Kakuna.) Poi rimischia le carte del tuo mazzo."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Velenospina",
+                "text": "Il Pokémon difensore viene avvelenato."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Weedle",
+        "hp": 80,
+        "id": "hgss2-32",
+        "name": "Kakuna",
+        "number": "32",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Energigru",
+                "text": "Cerca nella tua pila degli scarti fino a due carte Energia {P} e assegnale ai tuoi Pokémon nel modo che preferisci."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Psicopugno",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Beldum",
+        "hp": 80,
+        "id": "hgss2-33",
+        "name": "Metang",
+        "number": "33",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cerca Famiglia",
+                "text": "Cerca nel tuo mazzo fino a due Pokémon Base e mettili nella tua Panchina. Poi rimischia le carte del tuo mazzo."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10+",
+                "name": "Carica Squadra",
+                "text": "Se Plusle è nella tua Panchina, questo attacco infligge 10 danni più altri 20 danni."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-34",
+        "name": "Minun",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Bonus Fiammata",
+                "text": "Scarta una carta Energia {R} presente tra le carte che hai in mano. Poi pesca tre carte."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Fuoco Continuo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-35",
+        "name": "Numel",
+        "number": "35",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Raccolta",
+                "text": "Pesca due carte."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Scoppiotuono",
+                "text": "Lancia una moneta. Se esce croce, Plusle si infligge 10 danni."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-36",
+        "name": "Plusle",
+        "number": "36",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Pugnetto",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Ipnobomba",
+                "text": "Il Pokémon Difensore è Addormentato."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Poliwag",
+        "hp": 80,
+        "id": "hgss2-37",
+        "name": "Poliwhirl",
+        "number": "37",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Caricagas",
+            "text": "Se Pupitar ha delle Energie assegnate, il Costo di Ritirata di Pupitar è 0.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Ira",
+                "text": "Infligge 20 danni più altri 10 danni per ogni segnalino danno presente su Pupitar."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 70,
+        "id": "hgss2-38",
+        "name": "Pupitar",
+        "number": "38",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Martello",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Attacco in Velocità",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Larvitar",
+        "hp": 80,
+        "id": "hgss2-39",
+        "name": "Pupitar",
+        "number": "39",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Pinnalama",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Fanghiglia",
+                "text": "Infligge 10 danni a uno dei Pokémon nella Panchina del tuo avversario. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Horsea",
+        "hp": 80,
+        "id": "hgss2-40",
+        "name": "Seadra",
+        "number": "40",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Rossotoro",
+                "text": "Lancia tre volte una moneta. Questo attacco infligge 30 danni ogni volta che esce testa. Tauros è Confuso."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Calcio Esplosivo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-41",
+        "name": "Tauros",
+        "number": "41",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Surf",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Idrofreccia",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 20 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Squirtle",
+        "hp": 80,
+        "id": "hgss2-42",
+        "name": "Wartortle",
+        "number": "42",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Coda Esplosiva",
+                "text": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cifracoda",
+                "text": "Sposta una carta Energia assegnata al Pokémon Difensore su un altro dei Pokémon del tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-43",
+        "name": "Aipom",
+        "number": "43",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Reazione",
+                "text": "Scambia Beldum con uno dei tuoi Pokémon in Panchina."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-44",
+        "name": "Beldum",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Fanghiglia",
+                "text": "Infligge 10 danni a uno dei Pokémon nella Panchina del tuo avversario. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-45",
+        "name": "Buizel",
+        "number": "45",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Sfoghenergia",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Prelievo Energetico",
+                "text": "Cerca nel tuo mazzo una carta Energia, mostrala al tuo avversario e aggiungila alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-46",
+        "name": "Carnivine",
+        "number": "46",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Azione",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-47",
+        "name": "Cherubi",
+        "number": "47",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Carica",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Fulminpalla",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-48",
+        "name": "Chinchou",
+        "number": "48",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Battuta",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Pinnasberla",
+                "text": "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-49",
+        "name": "Horsea",
+        "number": "49",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Mangia Montagne",
+                "text": "Scarta la carta in cima al mazzo del tuo avversario. Poi togli 2 segnalini danno da Larvitar."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Carica Avventata",
+                "text": "Larvitar si infligge 10 danni."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-50",
+        "name": "Larvitar",
+        "number": "50",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Nocca-Pugno",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Morso",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-51",
+        "name": "Larvitar",
+        "number": "51",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Lightning",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Magma-pugno",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10",
+                "name": "Carboni Ardenti",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-52",
+        "name": "Magmar",
+        "number": "52",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "40-",
+                "name": "Colpo-Karate",
+                "text": "Infligge 40 danni meno 10 danni per ogni segnalino danno presente su Mankey."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Pugno",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-53",
+        "name": "Mankey",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Tiratore Scelto",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 10 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-54",
+        "name": "Misdreavus",
+        "number": "54",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Colorless",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Teletrasporto",
+                "text": "Scambia questo Pokémon con uno della tua panchina."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Beccata",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-55",
+        "name": "Natu",
+        "number": "55",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Curaenergia",
+            "text": "Quando assegni una carta Energia dalla tua mano a Onix, togli 1 segnalino danno da Onix.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Potere Incontenibile",
+                "text": "Durante il tuo prossimo turno, Onix non può attaccare."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-56",
+        "name": "Onix",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Giravolta",
+                "text": "Lancia due volte una moneta. Questo attacco infligge 20 danni più altri 20 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "hgss2-57",
+        "name": "Onix",
+        "number": "57",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cerca Famiglia",
+                "text": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua Panchina. Poi rimischia le carte del tuo mazzo."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Pinnalama",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-58",
+        "name": "Poliwag",
+        "number": "58",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Spruzzapioggia",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Idrofreccia",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 20 danni a quel Pokémon. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-59",
+        "name": "Remoraid",
+        "number": "59",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Calcio",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Doppio Colpo di Taglio",
+                "text": "Lancia 2 volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-60",
+        "name": "Riolu",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20x",
+                "name": "Petalodanza",
+                "text": "Lancia tre volte una moneta. Questo attacco infligge 20 danni ogni volta che esce testa. Roselia è Confuso."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-61",
+        "name": "Roselia",
+        "number": "61",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Alabattito",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Trespolo",
+                "text": "Togli 4 segnalini danno da Spearow. Durante il tuo prossimo turno, Spearow non può ritirarsi."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-62",
+        "name": "Spearow",
+        "number": "62",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Gusciattacco",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Spruzzapioggia",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-63",
+        "name": "Squirtle",
+        "number": "63",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Falsecorna",
+                "text": "Il Pokémon Difensore è Confuso."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cerca Famiglia",
+                "text": "Cerca nel tuo mazzo fino a due Pokémon Base e mettili nella tua Panchina. Poi rimischia le carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "hgss2-64",
+        "name": "Stantler",
+        "number": "64",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Riduttore",
+                "text": "Teddiursa si infligge 10 danni."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-65",
+        "name": "Teddiursa",
+        "number": "65",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Raffica",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Cercaverde",
+                "text": "Lancia 2 volte una moneta. Per ogni testa, cerca nel tuo mazzo un Pokémon {G}, mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Se lo fai, poi rimischia le carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "hgss2-66",
+        "name": "Tropius",
+        "number": "66",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Carica",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Parassiseme",
+                "text": "Se questo attacco infligge danno al Pokémon Difensore (dopo aver applicato Debolezza e Resistenza), togli 1 segnalino danno da Turtwig."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-67",
+        "name": "Turtwig",
+        "number": "67",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Water",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Fuochi d’Artificio",
+                "text": "Lancia una moneta. Se esce croce, scarta una Energia {R} assegnata a Vulpix."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "hgss2-68",
+        "name": "Vulpix",
+        "number": "68",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Pungiglione",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Evoluzione rapida",
+                "text": "Cerca nel tuo mazzo una carta che evolve da Weedle e mettila sopra Weedle. (Conta come un’evoluzione di Weedle.) Poi rimischia le carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "hgss2-69",
+        "name": "Weedle",
+        "number": "69",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Aliante",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Doppio Attacco",
+                "text": "Scegli due dei Pokémon in Panchina del tuo avversario. Questo attacco infligge 10 danni a ciascuno di essi. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "hgss2-70",
+        "name": "Zubat",
+        "number": "70",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-71",
+        "name": "Incoraggiamento della Cheerleader",
+        "number": "71",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Pesca tre carte. Il tuo avversario può pescare una carta."
+        ]
+    },
+    {
+        "id": "hgss2-72",
+        "name": "Palla Doppia",
+        "number": "72",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia 2 volte una moneta. Ogni volta che esce testa, cerca nel tuo mazzo un Pokémon Base, mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Se lo fai, poi rimischia le carte del tuo mazzo."
+        ]
+    },
+    {
+        "id": "hgss2-73",
+        "name": "Schiamazzo di Emcee",
+        "number": "73",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia una moneta. Se esce testa, pesca tre carte. Se esce croce, pesca due carte."
+        ]
+    },
+    {
+        "id": "hgss2-74",
+        "name": "Ritorno di Energia",
+        "number": "74",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cerca nella tua pila degli scarti 4 carte Energia Base, mostrale al tuo avversario, e rimischiale nel tuo mazzo."
+        ]
+    },
+    {
+        "id": "hgss2-75",
+        "name": "Regolazioni dell’Ingegnere",
+        "number": "75",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Scarta una carta Energia dalla tuo mano. Poi, pesca 4 carte."
+        ]
+    },
+    {
+        "id": "hgss2-76",
+        "name": "Amo Buono",
+        "number": "76",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia una moneta. Se esce testa, cerca nella tua pila degli scarti un Pokémon, mostralo al tuo avversario e mettilo in cima al tuo mazzo. Se esce croce, cerca nella tua pila degli scarti una carta Trainer, mostrala al tuo avversario e mettila in cima al tuo mazzo."
+        ]
+    },
+    {
+        "id": "hgss2-77",
+        "name": "Domande dell’Intervistatrice",
+        "number": "77",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Guarda le prime 8 carte del tuo mazzo. Scegli quante carte Energia vuoi, mostrale al tuo avversario e aggiungile alla tua mano. Poi rimischia le altre carte nel tuo mazzo."
+        ]
+    },
+    {
+        "id": "hgss2-78",
+        "name": "Arbitro",
+        "number": "78",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Ogni giocatore rimischia le carte in mano nel proprio mazzo e poi pesca 4 carte."
+        ]
+    },
+    {
+        "id": "hgss2-79",
+        "name": "Erba Vita",
+        "number": "79",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia una moneta. Se esce testa, scegli 1 dei tuoi Pokémon, rimuovi tutte le Condizioni Speciali e togli 6 segnalini danno da quel Pokémon (tutti se ce ne sono meno di 6)."
+        ]
+    },
+    {
+        "id": "hgss2-80",
+        "name": "PlusPotenza",
+        "number": "80",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Durante il turno, l’attacco del tuo Pokémon infligge ulteriori 10 danni al Pokémon Attivo (prima di applicare Debolezza e Resistenza)."
+        ]
+    },
+    {
+        "id": "hgss2-81",
+        "name": "Circolatore di Pokémon",
+        "number": "81",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Il tuo avversario scambia il suo Pokémon Attivo con uno dei suoi Pokémon in Panchina."
+        ]
+    },
+    {
+        "id": "hgss2-82",
+        "name": "Caramella Rara",
+        "number": "82",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Scegli uno dei tuoi Pokémon Base in gioco. Se tra le carte in mano hai una carta Fase 1 o Fase 2 che evolve da quel Pokémon, metti quella carta sul Pokémon Base. (Conta come un’evoluzione di quel Pokémon.) (Se hai scelto un Pokémon di Fase 2 presente tra le carte che hai in mano, metti quel Pokémon sul Pokémon Base anziché su un Pokémon di Fase 1.)"
+        ]
+    },
+    {
+        "id": "hgss2-83",
+        "name": "Super Recupero",
+        "number": "83",
+        "rarity": "Uncommon",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia una moneta. Se esce testa, riprendi in mano 1 del tuoi Pokémon e tutte le carte a lui assegnate."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Agiltuffo",
+                "text": "Scegli uno dei Pokémon del tuo avversario. Questo attacco infligge 30 danni al Pokémon scelto. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Maloveleno",
+                "text": "Il Pokémon attivo del tuo avversario viene avvelenato. Tra un turno e l’altro, metti quattro segnalini danno invece di uno su quel Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Golbat",
+        "hp": 130,
+        "id": "hgss2-84",
+        "name": "Crobat",
+        "number": "84",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Spruzza Spray",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi mettere un segnalino danno su uno dei Pokémon del tuo avversario. Questo potere non può essere usato se Kingdra è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "60",
+                "name": "Vapordrago",
+                "text": "Se il tuo avversario ha dei Pokémon {R} in gioco, il danno base di questo attacco è 20 invece di 60."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Seadra",
+        "hp": 130,
+        "id": "hgss2-85",
+        "name": "Kingdra",
+        "number": "85",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Immersione Subacquea",
+            "text": "Una sola volta durante il tuo turno (prima del tuo attacco), puoi usare questo potere. Il tipo di Lanturn è {W} fino alla fine del tuo turno. Questo potere non può essere usato se Lanturn è influenzato da una Condizione Speciale.",
+            "type": "Poké-Power"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40+",
+                "name": "Superscintilla",
+                "text": "Infligge 40 danni più altri 10 danni per ogni Energia assegnata a tutti i tuoi Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Chinchou",
+        "hp": 110,
+        "id": "hgss2-86",
+        "name": "Lanturn",
+        "number": "86",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Metallo Perfetto",
+            "text": "Steelix non può essere influenzato da Condizioni Speciali.",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Sgretolagaia",
+                "text": "Puoi scartare una qualsiasi carta Stadio in gioco."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Getto d’Energia",
+                "text": "Cerca nella tua pila degli scarti una carta Energia e assegnala a Steelix."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Onix",
+        "hp": 140,
+        "id": "hgss2-87",
+        "name": "Steelix",
+        "number": "87",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Ululato Oscuro",
+                "text": "Questo attacco infligge 20 danni ad ogni Pokémon in gioco (sia i tuoi che quelli del tuo avversario) esclusi tutti i Pokémon {D}. (Non applicare Debolezza e Resistenza ai Pokémon in Panchina)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Forzartiglio",
+                "text": "Il danno di questo attacco non è influenzato da Poké-Power, Poké”‘Body o qualsiasi altro effetto presente sul Pokémon Difensore."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Coda Megatonica",
+                "text": "Scarta le prime tre carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pupitar",
+        "hp": 160,
+        "id": "hgss2-88",
+        "name": "Tyranitar",
+        "number": "88",
+        "rarity": "Rare Prime",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Berserk",
+            "text": "Se Ursaring ha dei segnalini danno su di sé, ciascuno degli attacchi di Ursaring infligge altri 60 danni (prima di applicare Debolezza e Resistenza).",
+            "type": "Poké-Body"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Martelpugno",
+                "text": "Scarta la carta in cima al mazzo del tuo avversario."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Lazo Megatonico",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Teddiursa",
+        "hp": 110,
+        "id": "hgss2-89",
+        "name": "Ursaring",
+        "number": "89",
+        "rarity": "Rare Prime",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-90",
+        "name": "Entei & Raikou LEGGENDA (#90)",
+        "number": "90",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "hgss2-91",
+        "name": "Entei & Raikou LEGGENDA (#91)",
+        "number": "91",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            },
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-92",
+        "name": "Raikou & Suicune LEGGENDA (#92)",
+        "number": "92",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-93",
+        "name": "Raikou & Suicune LEGGENDA (#93)",
+        "number": "93",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            },
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-94",
+        "name": "Suicune & Entei LEGGENDA (#94)",
+        "number": "94",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "hgss2-95",
+        "name": "Suicune & Entei LEGGENDA (#95)",
+        "number": "95",
+        "rarity": "LEGEND",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "hgss2",
+        "subtype": "LEGEND",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire",
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            },
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "hgss2-96",
+        "name": "Litografia d’Alfa",
+        "number": "96",
+        "rarity": "Rare Secret",
+        "setCode": "hgss2",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Rimischia le carte del tuo mazzo!"
+        ]
+    }
+]

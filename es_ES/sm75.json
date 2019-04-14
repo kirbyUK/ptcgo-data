@@ -1,0 +1,3232 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Colmillo Ígneo",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "sm75-1",
+        "name": "Charmander",
+        "number": "1",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Luchador Ardiente",
+            "text": "Cuando juegues este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes descartar las 5 primeras cartas de tu baraja. Si entre esas cartas hay cartas de Energía {R}, únelas a este Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Lanzallamas",
+                "text": "Descarta 1 Energía de este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Charmander",
+        "hp": 80,
+        "id": "sm75-2",
+        "name": "Charmeleon",
+        "number": "2",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Llama Firme",
+            "text": "Los ataques de este Pokémon hacen 30 puntos de daño más al Pokémon Activo de tu rival por cada uno de sus Pokémon-GX y Pokémon-EX en juego.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Explosión Ardiente",
+                "text": "Descarta 1 Energía de este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Charmeleon",
+        "hp": 160,
+        "id": "sm75-3",
+        "name": "Charizard",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Quemadura",
+                "text": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Quemado."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-4",
+        "name": "Torchic",
+        "number": "4",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Cura Natural",
+            "text": "Cada vez que unas 1 carta de Energía de tu mano a este Pokémon, elimina todas sus Condiciones Especiales.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Plancha",
+                "text": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Torchic",
+        "hp": 80,
+        "id": "sm75-5",
+        "name": "Combusken",
+        "number": "5",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Encendedor",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes unir 1 carta de Energía {R} de tu pila de descartes a 1 de tus Pokémon en Banca.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Corriente de Fuego",
+                "text": "Descarta 1 Energía {R} de este Pokémon. Este ataque hace 20 puntos de daño a cada uno de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Combusken",
+        "hp": 150,
+        "id": "sm75-6",
+        "name": "Blaziken",
+        "number": "6",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "20x",
+                "name": "Infinidad",
+                "text": "Este ataque hace 20 puntos de daño por cada carta de Energía Básica en tu pila de descartes. Después, pon esas cartas en tu baraja y barájalas todas."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "sm75-7",
+        "name": "Victini {*}",
+        "number": "7",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Embestida Dañina",
+                "text": "Lanza 1 moneda hasta que salga cruz. Este ataque hace 30 puntos de daño más por cada cara."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "sm75-8",
+        "name": "Darumaka",
+        "number": "8",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Asistencia de Calor",
+                "text": "Une hasta 3 cartas de Energía {R} de tu mano a tus Pokémon de la manera que desees."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Puños Darmanitas",
+                "text": "Lanza 4 monedas. Este ataque hace 50 puntos de daño más por cada cara."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Darumaka",
+        "hp": 130,
+        "id": "sm75-9",
+        "name": "Darmanitan",
+        "number": "9",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Quemadura",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "120",
+                "name": "Aliento Incendiario",
+                "text": "Si el Pokémon Activo de tu rival no está Quemado, este ataque no hace nada."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 110,
+        "id": "sm75-10",
+        "name": "Heatmor",
+        "number": "10",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Nitrocarga",
+                "text": "Busca en tu baraja hasta 2 cartas de Energía {R} y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Columna Abrasadora",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Bermellón-GX",
+                "text": "Puedes unir hasta 5 cartas de Energía {R} de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "sm75-11",
+        "name": "Reshiram-GX",
+        "number": "11",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10x",
+                "name": "Golpes Furia",
+                "text": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-12",
+        "name": "Litten",
+        "number": "12",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Llamar a la Familia",
+                "text": "Busca en tu baraja 1 Pokémon Básico y ponlo en tu Banca. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Hundir Garras",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-13",
+        "name": "Salandit",
+        "number": "13",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Anillo de Fuego",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado. No puede retirarse durante el próximo turno de tu rival."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Lanzallamas",
+                "text": "Descarta 1 Energía de este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Salandit",
+        "hp": 110,
+        "id": "sm75-14",
+        "name": "Salazzle",
+        "number": "14",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Esparcido",
+                "text": "Este ataque hace 20 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "sm75-15",
+        "name": "Horsea",
+        "number": "15",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 10 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "sm75-16",
+        "name": "Horsea",
+        "number": "16",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 20 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Horsea",
+        "hp": 90,
+        "id": "sm75-17",
+        "name": "Seadra",
+        "number": "17",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 50 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Invertir Impulso",
+                "text": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Vorágine-GX",
+                "text": "Este ataque hace 40 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Seadra",
+        "hp": 230,
+        "id": "sm75-18",
+        "name": "Kingdra-GX",
+        "number": "18",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10+",
+                "name": "Chapoteo Agua",
+                "text": "Lanza 1 moneda. Si sale cara, este ataque hace 10 puntos de daño más."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "sm75-19",
+        "name": "Magikarp",
+        "number": "19",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Conmoción",
+            "text": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 2 contadores de daño en cada uno de tus Pokémon en Banca.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Cola Salvaje",
+                "text": "Puedes descartar cualquier carta de Estadio en juego."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Magikarp",
+        "hp": 160,
+        "id": "sm75-20",
+        "name": "Gyarados",
+        "number": "20",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Bala Agua",
+                "text": "Este ataque hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 10 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "sm75-21",
+        "name": "Lapras",
+        "number": "21",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Malicioso",
+                "text": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10x",
+                "name": "Golpes Furia",
+                "text": "Lanza 3 monedas. Este ataque hace 10 puntos de daño por cada cara."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-22",
+        "name": "Totodile",
+        "number": "22",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Placaje",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Barrido",
+                "text": "Descarta las 3 primeras cartas de tu baraja."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Totodile",
+        "hp": 90,
+        "id": "sm75-23",
+        "name": "Croconaw",
+        "number": "23",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Diluvio",
+            "text": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes descartar 1 carta de Energía {W} de tu mano.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "10+",
+                "name": "Aguas Revueltas",
+                "text": "Este ataque hace 20 puntos de daño más por cada carta de Energía {W} en tu pila de descartes. Después, pon esas cartas en tu baraja y barájalas todas."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Croconaw",
+        "hp": 160,
+        "id": "sm75-24",
+        "name": "Feraligatr",
+        "number": "24",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Apisonar",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Golpe de Lluvia",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "sm75-25",
+        "name": "Wooper",
+        "number": "25",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Hacer Limpieza",
+            "text": "Todas las veces que quieras durante tu turno (antes de tu ataque), puedes mover 1 Energía {W} de 1 de tus Pokémon en Banca a tu Pokémon Activo.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 20 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Wooper",
+        "hp": 120,
+        "id": "sm75-26",
+        "name": "Quagsire",
+        "number": "26",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Disparo Burbuja",
+                "text": "Este ataque hace 20 puntos de daño por cada Energía {W} unida a este Pokémon a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "sm75-27",
+        "name": "Corsola",
+        "number": "27",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Hundir",
+            "text": "Mientras este Pokémon esté en tu Banca, evita todo el daño infligido a este Pokémon por ataques (tanto tuyos como de tu rival).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Golpe de Lluvia",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "sm75-28",
+        "name": "Feebas",
+        "number": "28",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Ola Aurora",
+                "text": "El Pokémon Activo de tu rival pasa a estar Confundido."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "40",
+                "name": "Isoaqua",
+                "text": "Este ataque hace 40 puntos de daño a 2 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Feebas",
+        "hp": 120,
+        "id": "sm75-29",
+        "name": "Milotic",
+        "number": "29",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Murmullo del Mar",
+            "text": "Tus Pokémon {W} no pueden pasar a estar Confundidos. Si esos Pokémon ya están Confundidos, elimina esa Condición Especial.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Hidropulso",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "sm75-30",
+        "name": "Phione",
+        "number": "30",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Agrupación",
+            "text": "Tus Wishiwashi-GX en juego obtienen 20 PS más, y sus ataques hacen 20 puntos de daño más al Pokémon Activo de tu rival (antes de aplicar Debilidad y Resistencia).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Pistola Agua",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 30,
+        "id": "sm75-31",
+        "name": "Wishiwashi",
+        "number": "31",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Miniterremoto",
+                "text": "Este ataque hace 10 puntos de daño a cada uno de tus Pokémon en Banca. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-32",
+        "name": "Trapinch",
+        "number": "32",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Saneamiento",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes elegir 3 de tus Pokémon en Banca. Después, descarta tus otros Pokémon en Banca.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Destrucción Siniestra",
+                "text": "Puedes descartar 1 Energía de este Pokémon. Si lo haces, descarta 1 Energía del Pokémon Activo de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Zweilous",
+        "hp": 160,
+        "id": "sm75-33",
+        "name": "Hydreigon",
+        "number": "33",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10",
+                "name": "Constricción",
+                "text": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-34",
+        "name": "Dratini",
+        "number": "34",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Coletón",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "sm75-35",
+        "name": "Dratini",
+        "number": "35",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60x",
+                "name": "Cola Dragón",
+                "text": "Lanza 2 monedas. Este ataque hace 60 puntos de daño por cada cara."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Cascada",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Dratini",
+        "hp": 100,
+        "id": "sm75-36",
+        "name": "Dragonair",
+        "number": "36",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "70",
+                "name": "Garra Dragón",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Giga Impacto",
+                "text": "Este Pokémon no puede atacar durante tu próximo turno."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Portadragones-GX",
+                "text": "Pon 3 Pokémon {N} de tu pila de descartes en tu Banca. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Dragonair",
+        "hp": 250,
+        "id": "sm75-37",
+        "name": "Dragonite-GX",
+        "number": "37",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Tajo Sónico",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Trapinch",
+        "hp": 80,
+        "id": "sm75-38",
+        "name": "Vibrava",
+        "number": "38",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guardia Dragón",
+            "text": "Evita todos los efectos de los ataques de tu rival, excepto el daño, infligidos a tus Pokémon {N}. (No se eliminan los efectos ya existentes).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Bucle Arena",
+                "text": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vibrava",
+        "hp": 140,
+        "id": "sm75-39",
+        "name": "Flygon",
+        "number": "39",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Canción Bélica",
+            "text": "Los ataques de tus Pokémon {N} hacen 20 puntos de daño más a los Pokémon Activos (antes de aplicar Debilidad y Resistencia).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Perforar",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Swablu",
+        "hp": 80,
+        "id": "sm75-40",
+        "name": "Altaria",
+        "number": "40",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Tono Cristalino",
+                "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Tajo Sónico",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Euforia-GX",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Swablu",
+        "hp": 200,
+        "id": "sm75-41",
+        "name": "Altaria-GX",
+        "number": "41",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Patada Arriesgada",
+                "text": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Ojo de Dragón",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-42",
+        "name": "Bagon",
+        "number": "42",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guardia Energía",
+            "text": "Si este Pokémon tiene alguna Energía Básica unida a él, los ataques le hacen 20 puntos de daño menos (después de aplicar Debilidad y Resistencia).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Desenrollar",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Bagon",
+        "hp": 80,
+        "id": "sm75-43",
+        "name": "Shelgon",
+        "number": "43",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Impulso Dragón",
+            "text": "Tus Pokémon en juego no tienen ningún Coste de Retirada, excepto los Pokémon-GX y los Pokémon-EX.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Llama Viva",
+                "text": "Descarta 2 Energías de este Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Jet de Fuego-GX",
+                "text": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Shelgon",
+        "hp": 250,
+        "id": "sm75-44",
+        "name": "Salamence-GX",
+        "number": "44",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Piel Tosca",
+            "text": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Garra Dragón",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 110,
+        "id": "sm75-45",
+        "name": "Druddigon",
+        "number": "45",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Hacer Trizas",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Ataque Fulgor",
+                "text": "Lanza 1 moneda. Si sale cruz, este Pokémon se hace 50 puntos de daño a sí mismo."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "sm75-46",
+        "name": "Zekrom",
+        "number": "46",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Enfado",
+                "text": "Este ataque hace 10 puntos de daño más por cada contador de daño en este Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Lanza Gélida",
+                "text": "Este ataque hace 20 puntos de daño a 1 de los Pokémon en Banca de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "sm75-47",
+        "name": "Kyurem",
+        "number": "47",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "40",
+                "name": "Hacer Trizas",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Tajo Furioso",
+                "text": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Estrella Dragón-GX",
+                "text": "El Pokémon Activo de tu rival pasa a estar Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "sm75-48",
+        "name": "Kyurem Blanco-GX",
+        "number": "48",
+        "rarity": "Rare Holo gx",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Retumbar",
+                "text": "El Pokémon Defensor no puede retirarse durante el próximo turno de tu rival."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Tajo Furioso",
+                "text": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 60 puntos de daño más."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "sm75-49",
+        "name": "Zygarde",
+        "number": "49",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "50x",
+                "name": "Propulsión Explosiva",
+                "text": "Descarta cualquier cantidad de Energías {R} de tus Pokémon. Este ataque hace 50 puntos de daño por cada carta que hayas descartado de esta manera."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 110,
+        "id": "sm75-50",
+        "name": "Turtonator",
+        "number": "50",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Sabiduría de Dragón",
+                "text": "Une 1 carta de Energía Básica de tu pila de descartes a 1 de tus Pokémon {N}."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Vozarrón",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "sm75-51",
+        "name": "Drampa",
+        "number": "51",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Rigidez",
+                "text": "Durante el próximo turno de tu rival, los ataques hacen 20 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Garra Dragón",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "sm75-52",
+        "name": "Jangmo-o",
+        "number": "52",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Presión de Guardia",
+                "text": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Garra Dragón",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Jangmoo",
+        "hp": 90,
+        "id": "sm75-53",
+        "name": "Hakamo-o",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Presión de Guardia",
+                "text": "Durante el próximo turno de tu rival, los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90+",
+                "name": "Gancho Furioso",
+                "text": "Si este Pokémon tiene 8 o más contadores de daño sobre él, este ataque hace 120 puntos de daño más."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Hakamoo",
+        "hp": 160,
+        "id": "sm75-54",
+        "name": "Kommo-o",
+        "number": "54",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Buscar",
+                "text": "Roba 1 carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Golpe Cabeza",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Puñetazo Uno-Dos",
+                "text": "Lanza 1 moneda. Si sale cara, este ataque hace 30 puntos de daño más."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "sm75-55",
+        "name": "Kangaskhan",
+        "number": "55",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Coleccionar",
+                "text": "Roba 1 carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Picotazo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "sm75-56",
+        "name": "Swablu",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Canto",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "sm75-57",
+        "name": "Swablu",
+        "number": "57",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "sm75-58",
+        "name": "Último Recurso de Blaine",
+        "number": "58",
+        "rarity": "Rare Holo",
+        "setCode": "sm75",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo cuando es la última carta en tu mano.\\n\\nRoba 2 cartas por cada Pokémon {R} que tengas en juego."
+        ]
+    },
+    {
+        "id": "sm75-59",
+        "name": "Espolón de Dragón",
+        "number": "59",
+        "rarity": "Uncommon",
+        "setCode": "sm75",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Si el Pokémon {N} al que esté unida esta carta es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante."
+        ]
+    },
+    {
+        "id": "sm75-60",
+        "name": "Pedernal Ardiente",
+        "number": "60",
+        "rarity": "Uncommon",
+        "setCode": "sm75",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo si descartas otras 2 cartas de tu mano. \\n\\nBusca en tu baraja hasta 4 cartas de Energía {R}, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+        ]
+    },
+    {
+        "id": "sm75-61",
+        "name": "Lance {*}",
+        "number": "61",
+        "rarity": "Rare Holo",
+        "setCode": "sm75",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\\n\\nBusca en tu baraja hasta 2 Pokémon {N} y ponlos en tu Banca. Después, baraja las cartas de tu baraja."
+        ]
+    },
+    {
+        "id": "sm75-62",
+        "name": "Cambio Salvavidas",
+        "number": "62",
+        "rarity": "Uncommon",
+        "setCode": "sm75",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cambia tu Pokémon {W} Activo por 1 de tus Pokémon en Banca. Si lo haces, cura 30 puntos de daño al Pokémon que has movido a tu Banca."
+        ]
+    },
+    {
+        "id": "sm75-63",
+        "name": "Área Volcánica del Wela",
+        "number": "63",
+        "rarity": "Uncommon",
+        "setCode": "sm75",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Cada vez que 1 jugador lance 1 moneda para la Condición Especial de Quemado entre turnos, esa Condición Especial no se elimina incluso si sale cara."
+        ]
+    },
+    {
+        "id": "sm75-64",
+        "name": "Tristana",
+        "number": "64",
+        "rarity": "Uncommon",
+        "setCode": "sm75",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\\n\\nUne hasta 2 cartas de Energía Básica de tu mano a 1 de tus Pokémon {N}."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Nitrocarga",
+                "text": "Busca en tu baraja hasta 2 cartas de Energía {R} y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Columna Abrasadora",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Bermellón-GX",
+                "text": "Puedes unir hasta 5 cartas de Energía {R} de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "sm75-65",
+        "name": "Reshiram-GX",
+        "number": "65",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 50 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Invertir Impulso",
+                "text": "Cambia este Pokémon por 1 de tus Pokémon en Banca."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Vorágine-GX",
+                "text": "Este ataque hace 40 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Seadra",
+        "hp": 230,
+        "id": "sm75-66",
+        "name": "Kingdra-GX",
+        "number": "66",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "70",
+                "name": "Garra Dragón",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Giga Impacto",
+                "text": "Este Pokémon no puede atacar durante tu próximo turno."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Portadragones-GX",
+                "text": "Pon 3 Pokémon {N} de tu pila de descartes en tu Banca. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Dragonair",
+        "hp": 250,
+        "id": "sm75-67",
+        "name": "Dragonite-GX",
+        "number": "67",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Tono Cristalino",
+                "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Tajo Sónico",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Euforia-GX",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Swablu",
+        "hp": 200,
+        "id": "sm75-68",
+        "name": "Altaria-GX",
+        "number": "68",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "sm75-69",
+        "name": "Último Recurso de Blaine",
+        "number": "69",
+        "rarity": "RareUltra",
+        "setCode": "sm75",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo cuando es la última carta en tu mano.\\n\\nRoba 2 cartas por cada Pokémon {R} que tengas en juego."
+        ]
+    },
+    {
+        "id": "sm75-70",
+        "name": "Tristana",
+        "number": "70",
+        "rarity": "RareUltra",
+        "setCode": "sm75",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo si 1 de tus Pokémon quedó Fuera de Combate durante el último turno de tu rival.\\n\\nUne hasta 2 cartas de Energía Básica de tu mano a 1 de tus Pokémon {N}."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Nitrocarga",
+                "text": "Busca en tu baraja hasta 2 cartas de Energía {R} y únelas a este Pokémon. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Columna Abrasadora",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Bermellón-GX",
+                "text": "Puedes unir hasta 5 cartas de Energía {R} de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "sm75-71",
+        "name": "Reshiram-GX",
+        "number": "71",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Tono Cristalino",
+                "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon-GX y Pokémon-EX."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Tajo Sónico",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Euforia-GX",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido. Cura todos los puntos de daño a todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Swablu",
+        "hp": 200,
+        "id": "sm75-72",
+        "name": "Altaria-GX",
+        "number": "72",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Impulso Dragón",
+            "text": "Tus Pokémon en juego no tienen ningún Coste de Retirada, excepto los Pokémon-GX y los Pokémon-EX.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Llama Viva",
+                "text": "Descarta 2 Energías de este Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Jet de Fuego-GX",
+                "text": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Shelgon",
+        "hp": 250,
+        "id": "sm75-73",
+        "name": "Salamence-GX",
+        "number": "73",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "40",
+                "name": "Hacer Trizas",
+                "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Tajo Furioso",
+                "text": "Si este Pokémon tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Estrella Dragón-GX",
+                "text": "El Pokémon Activo de tu rival pasa a estar Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "sm75-74",
+        "name": "Kyurem Blanco-GX",
+        "number": "74",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "sm75-75",
+        "name": "Espolón de Dragón",
+        "number": "75",
+        "rarity": "Rare Secret",
+        "setCode": "sm75",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Si el Pokémon {N} al que esté unida esta carta es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante."
+        ]
+    },
+    {
+        "id": "sm75-76",
+        "name": "Pedernal Ardiente",
+        "number": "76",
+        "rarity": "Rare Secret",
+        "setCode": "sm75",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Puedes jugar esta carta solo si descartas otras 2 cartas de tu mano. \\n\\nBusca en tu baraja hasta 4 cartas de Energía {R}, enséñalas y ponlas en tu mano. Después, baraja las cartas de tu baraja."
+        ]
+    },
+    {
+        "id": "sm75-77",
+        "name": "Cambio Salvavidas",
+        "number": "77",
+        "rarity": "Rare Secret",
+        "setCode": "sm75",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cambia tu Pokémon {W} Activo por 1 de tus Pokémon en Banca. Si lo haces, cura 30 puntos de daño al Pokémon que has movido a tu Banca."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Psychic"
+                ],
+                "damage": "20+",
+                "name": "Géiser Fotónico",
+                "text": "Descarta todas las Energías Básicas {P} de este Pokémon. Este ataque hace 80 puntos de daño más por cada carta que hayas descartado de esta manera."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Metal",
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Luz Apocalíptica-GX",
+                "text": "Puedes usar este ataque solo si el total de cartas de Premio que les queden a ambos jugadores es de 6 o menos. Pon 6 contadores de daño en cada uno de los Pokémon de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "sm75-78",
+        "name": "Ultra-Necrozma-GX",
+        "number": "78",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "sm75",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    }
+]

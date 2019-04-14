@@ -1,0 +1,830 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Царапание",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Порез",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-1",
+        "name": "Пуррлойн",
+        "number": "1",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Слепящий Свет",
+                "text": "Защищающийся Покемон сейчас Сбит с Толку."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Гиперклык",
+                "text": "Подбрось монетку. Если выпала \"решка\", атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Patrat",
+        "hp": 90,
+        "id": "tk5a-2",
+        "name": "Уочхог",
+        "number": "2",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-3",
+        "name": "Darkness Energy",
+        "number": "3",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Удар Хвостом",
+                "text": "Подбрось 2 монетки. Эта атака наносит 10 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-4",
+        "name": "Минчино",
+        "number": "4",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-5",
+        "name": "Darkness Energy",
+        "number": "5",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-6",
+        "name": "Darkness Energy",
+        "number": "6",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-7",
+        "name": "Darkness Energy",
+        "number": "7",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-8",
+        "name": "Darkness Energy",
+        "number": "8",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-9",
+        "name": "Darkness Energy",
+        "number": "9",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-10",
+        "name": "Darkness Energy",
+        "number": "10",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-11",
+        "name": "ЭкстраСила",
+        "number": "11",
+        "rarity": "Uncommon",
+        "setCode": "tk5a",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Во время этого хода все атаки твоего Покемона наносят еще 10 пунктов вреда (прежде чем ты учтешь Слабость и Устойчивость)."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Укус",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Бросок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "tk5a-12",
+        "name": "Патрэт",
+        "number": "12",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Выпад",
+                "text": "Подбрось монетку. Если выпала \"решка\", атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-13",
+        "name": "Зоруа",
+        "number": "13",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Быстрая Атака",
+                "text": "Брось монетку. Если выпал «орел», эта атака наносит еще 20 пунктов вреда."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "tk5a-14",
+        "name": "Пидава",
+        "number": "14",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Быстрая Атака",
+                "text": "Брось монетку. Если выпал «орел», эта атака наносит еще 30 пунктов вреда."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Шквал",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Pidove",
+        "hp": 70,
+        "id": "tk5a-15",
+        "name": "Транквилл",
+        "number": "15",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-16",
+        "name": "Восстановление Энергии",
+        "number": "16",
+        "rarity": "Uncommon",
+        "setCode": "tk5a",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Во время твоего хода (перед атакой) ты можешь использовать сколько угодно карт с Предметами."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "20x",
+                "name": "Когти Ярости",
+                "text": "Брось монету 3 раза. Эта атака наносит 20 пунктов урона за каждого выпавшего орла."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Ночное Изумление",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Zorua",
+        "hp": 100,
+        "id": "tk5a-17",
+        "name": "Зороарк",
+        "number": "17",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-18",
+        "name": "Общение с Покемоном",
+        "number": "18",
+        "rarity": "Uncommon",
+        "setCode": "tk5a",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Покажи противнику 1 Покемона из тех, что у тебя на руках, и положи его сверху в свою колоду. Затем найди в колоде другого Покемона, покажи его противнику и добавь к картам у тебя на руках. Перетасуй колоду."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Удар Хвостом",
+                "text": "Подбрось 2 монетки. Эта атака наносит 10 пунктов вреда за каждого выпавшего \"орла\"."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-19",
+        "name": "Минчино",
+        "number": "19",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-20",
+        "name": "Darkness Energy",
+        "number": "20",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Быстрая Атака",
+                "text": "Брось монетку. Если выпал «орел», эта атака наносит еще 20 пунктов вреда."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "tk5a-21",
+        "name": "Пидава",
+        "number": "21",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-22",
+        "name": "Darkness Energy",
+        "number": "22",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Выпад",
+                "text": "Подбрось монетку. Если выпала \"решка\", атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-23",
+        "name": "Зоруа",
+        "number": "23",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-24",
+        "name": "Darkness Energy",
+        "number": "24",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Царапание",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Порез",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "tk5a-25",
+        "name": "Пуррлойн",
+        "number": "25",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "tk5a-26",
+        "name": "Darkness Energy",
+        "number": "26",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "id": "tk5a-27",
+        "name": "Поиск Энергии",
+        "number": "27",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Во время своего хода (перед атакой) ты можешь использовать сколько угодно карт с Предметами."
+        ]
+    },
+    {
+        "id": "tk5a-28",
+        "name": "Darkness Energy",
+        "number": "28",
+        "rarity": "Common",
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Energy",
+        "text": [
+            ""
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Укус",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Бросок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "tk5a-29",
+        "name": "Патрэт",
+        "number": "29",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "20x",
+                "name": "Когти Ярости",
+                "text": "Брось монету 3 раза. Эта атака наносит 20 пунктов урона за каждого выпавшего орла."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Ночное Изумление",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Zorua",
+        "hp": 100,
+        "id": "tk5a-30",
+        "name": "Зороарк",
+        "number": "30",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "tk5a",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    }
+]

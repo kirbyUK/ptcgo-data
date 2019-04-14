@@ -1,0 +1,4621 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10",
+                "name": "Плеть-Лиана",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Стряхивание",
+                "text": "Сбрось случайную карту из руки твоего противника."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy3-1",
+        "name": "Беллспраут",
+        "number": "1",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Ядовитый Плевок",
+                "text": "Активный Покемон твоего противника теперь отравлен."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Плеть-Лиана",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Bellsprout",
+        "hp": 80,
+        "id": "xy3-2",
+        "name": "Випинбелл",
+        "number": "2",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Струя Аромата",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь сбросить Энергию {G}, присоединённую к этому Покемону. В этом случае, активный Покемон твоего противника теперь сбит с толку и отравлен.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Спиральное Истощение",
+                "text": "Этот Покемон излечивает 30 пунктов урона."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Weepinbell",
+        "hp": 130,
+        "id": "xy3-3",
+        "name": "Виктрибел",
+        "number": "3",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Гига-Сила",
+                "text": "Ты можешь нанести на 40 пунктов урона больше. В этом случае, этот Покемон наносит 20 пунктов урона самому себе."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Защитный Пресс",
+                "text": "В следующий ход противника любой урон, нанесённый атаками этому Покемону, снижается на 20 пунктов (до применения слабости и устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy3-4",
+        "name": "Геракросс-EX",
+        "number": "4",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "180-",
+                "name": "Большие Рога",
+                "text": "Эта атака наносит 180 пунктов урона минус 10 пунктов урона за каждую фишку урона у этого Покемона."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "HeracrossEX",
+        "hp": 220,
+        "id": "xy3-5",
+        "name": "M Геракросс-EX",
+        "number": "5",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Бросок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-6",
+        "name": "Шрумиш",
+        "number": "6",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Умиротворяющий Запах",
+                "text": "Активный Покемон твоего противника теперь спит."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Волшебный Лист",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 30 пунктов урона больше и этот Покемон излечивает 30 пунктов урона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Eevee",
+        "hp": 90,
+        "id": "xy3-7",
+        "name": "Лифеон",
+        "number": "7",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "10+",
+                "name": "Напрыгивание",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 10 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-8",
+        "name": "Шелмет",
+        "number": "8",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Облава",
+                "text": "Если этот Покемон эволюционировал из Шелмета во время этого хода, эта атака наносит на 40 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Послеобразный Удар",
+                "text": "Если во время следующего хода противника, этому Покемону будет нанесён любой урон от атак, брось монету. Если выпал орёл, этот урон блокируется."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "Shelmet",
+        "hp": 90,
+        "id": "xy3-9",
+        "name": "Акселгор",
+        "number": "9",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Тлеющий",
+                "text": "Этот Покемон теряет одну присоединённую к нему Энергию {R}."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "10",
+                "name": "Таран",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy3-10",
+        "name": "Магмар",
+        "number": "10",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Двойной Взрыв",
+                "text": "Если у тебя в запасе есть Электривайр, эта атака наносит на 80 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "30",
+                "name": "Огненный Заряд",
+                "text": "Найди в своей колоде одну карту Энергии {R} и присоедини её к этому Покемону. После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Magmar",
+        "hp": 120,
+        "id": "xy3-11",
+        "name": "Магмортар",
+        "number": "11",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Быстрая Атака",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 30 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-12",
+        "name": "Торчик",
+        "number": "12",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Удар в Полёте",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 20 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Порез",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Torchic",
+        "hp": 80,
+        "id": "xy3-13",
+        "name": "Комбаскен",
+        "number": "13",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Захват",
+                "text": "Во время следующего хода противника защищающийся Покемон не может отступить."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Горящий Выстрел",
+                "text": "Этот Покемон теряет две присоединённые к нему Энергии. Эта атака наносит 150 пунктов урона одному из Покемона противника. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Combusken",
+        "hp": 140,
+        "id": "xy3-14",
+        "name": "Блейзикен",
+        "number": "14",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Капля Дождя",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Спиральная Струя",
+                "text": "Активный Покемон твоего противника теперь сбит с толку. Во время следующего хода противника тот Покемон не может отступить."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-15",
+        "name": "Поливаг",
+        "number": "15",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Завершающий Удар",
+                "text": "Если на активном Покемоне твоего противника уже есть фишки урона, эта атака наносит на 50 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Капля Дождя",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Poliwag",
+        "hp": 80,
+        "id": "xy3-16",
+        "name": "Поливирл",
+        "number": "16",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Подчинение",
+                "text": "Этот Покемон наносит сам себе 30 пунктов урона."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Каток",
+                "text": "Эта атака наносит 30 пунктов урона 1 из запасных Покемона противника. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 140,
+        "id": "xy3-17",
+        "name": "Поливрат",
+        "number": "17",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Песня Короля",
+            "text": "В цене атак каждого из твоих Поливага, Поливирла и Поливрата не учитывается вся Энергия {C}.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Гиперкрик",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Poliwhirl",
+        "hp": 130,
+        "id": "xy3-18",
+        "name": "Политоид",
+        "number": "18",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Ледяной Край",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 30 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Метель",
+                "text": "Эта атака наносит 10 пунктов урона каждому из запасных Покемона противника. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Eevee",
+        "hp": 90,
+        "id": "xy3-19",
+        "name": "Глейсеон",
+        "number": "19",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Гранатомолот",
+                "text": "Эта атака наносит 30 пунктов урона двум твоим запасным Покемонам. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Дрожащий Удар",
+                "text": "Твой противник в свой следующих ход не может играть картами Помощника, находящимися у него на руках."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-20",
+        "name": "Сейсмитоуд-EX",
+        "number": "20",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Морозное Дыхание",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10x",
+                "name": "Когти Ярости",
+                "text": "Брось монету 3 раза. Эта атака наносит 10 пунктов урона за каждого выпавшего орла."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-21",
+        "name": "Кабчу",
+        "number": "21",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Ледяная Хватка",
+                "text": "Эта атака наносит на 20 пунктов урона больше за каждую {C} в цене отступления активного Покемона противника."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Горное Падение",
+                "text": "Если в игре есть любая карта Стадиона, эта атака наносит на 40 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Cubchoo",
+        "hp": 130,
+        "id": "xy3-22",
+        "name": "Бертик",
+        "number": "22",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Пузырь",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь парализован."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Молот Краба",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-23",
+        "name": "Клаунчер",
+        "number": "23",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Брызгающая Пушка",
+                "text": "Эта атака наносит на 20 пунктов урона больше за каждую Энергию {W}, присоединённую к этому Покемону."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Обратная Тяга",
+                "text": "Замени этого Покемона на 1 из своих запасных Покемона."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Clauncher",
+        "hp": 100,
+        "id": "xy3-24",
+        "name": "Кловитцер",
+        "number": "24",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Луч Авроры",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Стихийное Бегство",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "SailFossil",
+        "hp": 90,
+        "id": "xy3-25",
+        "name": "Амаура",
+        "number": "25",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Restored",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ледяной Щит",
+            "text": "Любой урон наносимый атакой противника каждому из твоих Покемона {W}, к которым присоединена Энергия {W}, снижается на 20 пунктов (после применения слабости и устойчивости).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Ледяной Ветер",
+                "text": "Активный Покемон твоего противника теперь спит."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Amaura",
+        "hp": 130,
+        "id": "xy3-26",
+        "name": "Аврорус",
+        "number": "26",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Удар Грома",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь парализован."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-27",
+        "name": "Пикачу",
+        "number": "27",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Удар Грома",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь парализован."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Электрошар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Pikachu",
+        "hp": 90,
+        "id": "xy3-28",
+        "name": "Райчу",
+        "number": "28",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10",
+                "name": "Лёгкий Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Засада",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 20 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy3-29",
+        "name": "Электабазз",
+        "number": "29",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20+",
+                "name": "Парная Искра",
+                "text": "Эта атака наносит на 20 пунктов урона больше за каждую Энергию, присоединённую к твоему Магмортару."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Гигавольт",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 30 пунктов урона больше. Если выпала решка, активный Покемон твоего противника теперь парализован."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Electabuzz",
+        "hp": 120,
+        "id": "xy3-30",
+        "name": "Электриваир",
+        "number": "30",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Длинная Рука",
+                "text": "Сбрось карту базовой Энергии из своей руки. В этом случае, возьми две карты."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Электрический Хвост",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь парализован."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-31",
+        "name": "Пласл",
+        "number": "31",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "20",
+                "name": "Статический Шок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Обратный Ход",
+                "text": "Возьми себе в руку две карты базовой Энергии из твоей колоды сброшенных карт."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-32",
+        "name": "Майнун",
+        "number": "32",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Молниеносный Хлопок",
+                "text": "Во время твоего следующего хода этот Покемон не сможет пользоваться атакой «Молниеносный Хлопок»."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Бушующий Раскат Грома",
+                "text": "Если к активному Покемону твоего противника присоединена карта Инструмента Покемона, эта атака наносит на 30 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy3-33",
+        "name": "Тандурус",
+        "number": "33",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Короткое Замыкание",
+                "text": "Эта атака наносит 20 пунктов урона за каждую Энергию, присоединённую к активному Покемону твоего противника."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Вывоз",
+                "text": "Найди в своей колоде до 2 Базовых Покемона и положи их себе в запас. После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-34",
+        "name": "Деденне",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Зловещее Предложение",
+                "text": "Каждый раз, когда твой противник подбросит монету во время своего следующего хода, любой исход считается решкой."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "20",
+                "name": "Ментальный Выстрел",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-35",
+        "name": "Дроузи",
+        "number": "35",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "60",
+                "name": "Гипновзрыв",
+                "text": "Активный Покемон твоего противника теперь спит."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Ручной Контроль",
+                "text": "Твой противник открывает карты в своей руке. Ты можешь выбрать карту Помощника, которую ты там надёшь. В этом случае, твой противник играет этой картой Помощника. Но, ты принимаешь все решения, как использовать ту карту. (После этого карта Помощника сбрасывается)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Drowzee",
+        "hp": 90,
+        "id": "xy3-36",
+        "name": "Гипно",
+        "number": "36",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "[Талант] Победный Поцелуй",
+            "text": "Один раз за свой ход (перед своей атакой),если этот Покемон у тебя в запасе, твой активный Покемон излечивает 10 пунктов урона.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Объятие",
+                "text": "Во время следующего хода противника защищающийся Покемон не может отступить."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-37",
+        "name": "Джинкс",
+        "number": "37",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ядовитое Жало",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь отравлен."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Протыкание",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-38",
+        "name": "Скорупи",
+        "number": "38",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Психоудар",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теперь парализован."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Звонкий Шлепок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy3-39",
+        "name": "Гофита",
+        "number": "39",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Шлепок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Удачливый Глаз",
+                "text": "Посмотри 5 верхние карты в колоде твоего противника и положи их обратно на место в любом порядке."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Gothita",
+        "hp": 80,
+        "id": "xy3-40",
+        "name": "Гоферита",
+        "number": "40",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "[Талант] Кабина Телепортации",
+            "text": "Один раз за свой ход (перед своей атакой), ты можешь сбросить любую карту Стадиона в игре. В этом случае, выбери карту Стадиона с другим названием из своих сброшенных карт, эта карта вступает в игру.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Психоотчет",
+                "text": "Твой противник открывает карты в своей руке."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Gothorita",
+        "hp": 130,
+        "id": "xy3-41",
+        "name": "Гофитель",
+        "number": "41",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Камнедробилка",
+                "text": "Брось монету. Если выпал орёл, эта атака наносит на 30 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Тяжёлый Удар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy3-42",
+        "name": "Гоулетт",
+        "number": "42",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Молот Голарка",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Крушение",
+                "text": "Если в игре есть любая карта Стадиона, эта атака наносит на 60 пунктов урона больше. Сбрось ту карту Стадиона."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Golett",
+        "hp": 130,
+        "id": "xy3-43",
+        "name": "Голарк",
+        "number": "43",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Удар Костяшками",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-44",
+        "name": "Machop",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "40",
+                "name": "Сбивание",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Machop",
+        "hp": 90,
+        "id": "xy3-45",
+        "name": "Мачоук",
+        "number": "45",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Боевая Ярость",
+            "text": "Каждая из атак твоих Покемонов {F}, наносит на 20 пунктов урона больше активному Покемону твоего противника (до применения слабости и устойчивости).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "80",
+                "name": "Давление Мачампа",
+                "text": "В следующий ход противника любой урон, нанесённый атаками защищающегося Покемона, снижается на 40 пунктов (до применения слабости и устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Machoke",
+        "hp": 150,
+        "id": "xy3-46",
+        "name": "Мачамп",
+        "number": "46",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Спиральный Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Высокий Удар",
+                "text": "Эта атака наносит 30 пунктов урона1 из запасных Покемона противника. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy3-47",
+        "name": "Хитмонли",
+        "number": "47",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Удар Пули",
+                "text": "Брось монету 2 раза. Эта атака наносит на 20 пунктов урона больше за каждого выпавшего орла."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Крест со Скоростью Звука",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy3-48",
+        "name": "Хитмончан",
+        "number": "48",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Быстрая Реакция",
+                "text": "Возьми карту."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Круговорот",
+                "text": "Замени этого Покемона на 1 из своих запасных Покемона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy3-49",
+        "name": "Хитмонтоп",
+        "number": "49",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Гига-Осушение",
+                "text": "Этот Покемон излечивает столько же пунктов урона, сколько пунктов урона ты нанёс активному Покемону твоего противника."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Небесный Апперкот",
+                "text": "Устойчивость не влияет на урон от этой атаки."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Shroomish",
+        "hp": 100,
+        "id": "xy3-50",
+        "name": "Брелум",
+        "number": "50",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Сила",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "xy3-51",
+        "name": "Макухита",
+        "number": "51",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Толстый Жир",
+            "text": "Любой урон, нанесённый этому Покемону атаками Покемона {R} или {W} твоего противника, снижается на 30 пунктов (после применения слабости и устойчивости).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Быстрый Шлепок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Makuhita",
+        "hp": 120,
+        "id": "xy3-52",
+        "name": "Харияма",
+        "number": "52",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Плевок Грязью",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Обед на Высоте",
+                "text": "Сбрось верхнюю карту из колоды твоего противника."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-53",
+        "name": "Трапинч",
+        "number": "53",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "60",
+                "name": "Винтовой Удар",
+                "text": "Ты можешь брать карты, пока у тебя не окажется 6 карт."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Стремительный Укол",
+                "text": "Устойчивость не влияет на урон от этой атаки."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "100",
+                "name": "Прыжок Кувырком",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-54",
+        "name": "Лукарио-EX",
+        "number": "54",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "140",
+                "name": "Возвышающийся Кулак",
+                "text": "Активный Покемон твоего противника теряет одну присоединённую к нему Энергию."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "LucarioEX",
+        "hp": 220,
+        "id": "xy3-55",
+        "name": "M Лукарио-EX",
+        "number": "55",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Хлопок",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Выпад",
+                "text": "Брось монету. Если выпала решка, эта атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-56",
+        "name": "Минфу",
+        "number": "56",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "40",
+                "name": "Воздушный Поворот",
+                "text": "Верни этого Покемона и все присоединённые к нему карты обратно к себе в руку."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Прыжок-Удар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Mienfoo",
+        "hp": 90,
+        "id": "xy3-57",
+        "name": "Миншао",
+        "number": "57",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Воздушное Лассо",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Сильный Крик",
+                "text": "Найди среди своих сброшенных карт карту базовой Энергии, и присоедини её к 1 из своих запасных Покемона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "xy3-58",
+        "name": "Ландорус",
+        "number": "58",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Конфронтация",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Неблагоприятная Эволюция",
+                "text": "Если у тебя в запасе есть любой Покемон {D}, найди в своей колоде карту, которая эволюционирует из него, и положи её на этого Покемона. (Это засчитывается как эволюционирование этого Покемона). После этого перетасуй колоду."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-59",
+        "name": "Панчам",
+        "number": "59",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Удар Кометы",
+                "text": "Брось монету 4 раза. Эта атака наносит 10 пунктов урона за каждого выпавшего орла."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-60",
+        "name": "Панчам",
+        "number": "60",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Хруст",
+                "text": "Брось монету. Если выпал орёл, активный Покемон твоего противника теряет одну присоединённую к нему Энергию."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Грызня",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "JawFossil",
+        "hp": 90,
+        "id": "xy3-61",
+        "name": "Тайрант",
+        "number": "61",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Restored",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Загрызание",
+                "text": "Если к активному Покемону твоего противника присоединена любая Особая Энергия, эта атака наносит на 90 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Гига-Удар",
+                "text": "Во время твоего следующего хода этот Покемон не может атаковать."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Tyrunt",
+        "hp": 150,
+        "id": "xy3-62",
+        "name": "Тайрантрам",
+        "number": "62",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Сияющий Дух",
+            "text": "На урон от атаки этого Покемона не влияют слабость или устойчивость.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "60",
+                "name": "Летающий Пресс",
+                "text": "Если активный Покемон твоего противника не является Покемоном-EX, эта атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 0,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "xy3-63",
+        "name": "Хавлуча",
+        "number": "63",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Контрудар",
+            "text": "Если этот Покемон является твоим активным Покемоном и если он получил урон при атаке противника (даже в том случае, если он выбит из игры), положи на атакующего Покемона 2 фишки урона.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Воздушный Удар",
+                "text": "Если в игре есть карта Стадиона, эта атака наносит на 40 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "xy3-64",
+        "name": "Хавлуча-EX",
+        "number": "64",
+        "rarity": "Rare Holo EX",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "20+",
+                "name": "Веношок",
+                "text": "Если активный Покемон твоего противника отравлен, эта атака наносит на 40 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Отравляющий Клык",
+                "text": "Активный Покемон твоего противника теперь отравлен."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Skorupi",
+        "hp": 110,
+        "id": "xy3-65",
+        "name": "Драпион",
+        "number": "65",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "damage": "30",
+                "name": "Штопорный Удар",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-66",
+        "name": "Скрэгги",
+        "number": "66",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Пинок ниже пояса",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "damage": "50x",
+                "name": "Пулеметный Удар",
+                "text": "Брось монету 3 раза. Эта атака наносит 50 пунктов урона за каждого выпавшего орла. Этот Покемон теперь сбит с толку."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Scraggy",
+        "hp": 90,
+        "id": "xy3-67",
+        "name": "Скрафти",
+        "number": "67",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Рука-Молот",
+                "text": "Сбрось верхнюю карту из колоды твоего противника."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "30+",
+                "name": "Взбучка",
+                "text": "Ты можешь сбросить одну карту Предмета из своей руки. В этом случае, эта атака нанесёт на 40 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Pancham",
+        "hp": 120,
+        "id": "xy3-68",
+        "name": "Пангоро",
+        "number": "68",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Тяжёлый Удар",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Лунный Свет",
+                "text": "Этот Покемон излечивает 30 пунктов урона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-69",
+        "name": "Клефэйри",
+        "number": "69",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "10",
+                "name": "Лунный Удар",
+                "text": "В следующий ход противника любой урон, нанесённый атаками защищающегося Покемона, снижается на 10 пунктов (до применения слабости и устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-70",
+        "name": "Клефэйри",
+        "number": "70",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Лунный Удар",
+                "text": "В следующий ход противника любой урон, нанесённый атаками защищающегося Покемона, снижается на 30 пунктов (до применения слабости и устойчивости)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Появление",
+                "text": "Замени активного Покемона своего противника на 1 из запасных Покемона своего противника."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Clefairy",
+        "hp": 90,
+        "id": "xy3-71",
+        "name": "Клефейбл",
+        "number": "71",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fairy"
+                ],
+                "damage": "30",
+                "name": "Вьющаяся Лента",
+                "text": "Перемести одну Энергию, присоединённую к активному Покемону твоего противника, на 1 из запасных Покемона противника."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fairy",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Эхо",
+                "text": "Во время твоего следующего хода атака «Эхо» этого Покемона наносит на 50 пунктов урона больше (до применения слабости и устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Eevee",
+        "hp": 90,
+        "id": "xy3-72",
+        "name": "Сильвеон",
+        "number": "72",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Секретный Ключ",
+            "text": "У каждого из твоих Покемона {Y} устойчивость теперь -40.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fairy",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Волшебный Замок",
+                "text": "Во время следующего хода противника защищающийся Покемон не может отступить."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-73",
+        "name": "Клефки",
+        "number": "73",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Darkness",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fairy"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Нападение",
+            "text": "Когда ты перемещаешь этого Покемона из своей руки в запас, ты можешь переместить сколько угодно карт базовой Энергии, присоединённых к твоим Покемонам к этому Покемону. В этом случае, замени этого Покемона на своего активного Покемона.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Lightning"
+                ],
+                "damage": "80+",
+                "name": "Сверхзвуковая Струя",
+                "text": "Ты можешь сбросить одну Энергию, присоединённую к этому Покемону. В этом случае, эта атака нанесёт на 40 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-74",
+        "name": "Драгонайт-EX",
+        "number": "74",
+        "rarity": "Rare Holo EX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Энергетический Заряд",
+                "text": "Найди в своей колоде до двух карт базовой Энергии, открой их и возьми себе в руку. После этого перетасуй колоду."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Вибрация",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Trapinch",
+        "hp": 80,
+        "id": "xy3-75",
+        "name": "Вибрава",
+        "number": "75",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Радужный Ливень",
+                "text": "Присоедини сколько угодно карт базовой Энергии из своей руки к своим Покемонам любым способом."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Песчаный Снос",
+                "text": "Каждый из твоих Покемона, к которым присоединена любая Энергия, излечивает 30 пунктов урона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Vibrava",
+        "hp": 130,
+        "id": "xy3-76",
+        "name": "Флайгон",
+        "number": "76",
+        "rarity": "Rare",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Эхолокация",
+            "text": "Если этому Покемону был нанесен урон атаками, брось монету. Если выпал орёл, то этот урон блокируется.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Громкий Взрыв",
+                "text": "Эта атака наносит 30 пунктов урона каждому из Покемона противника. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Noibat",
+        "hp": 100,
+        "id": "xy3-77",
+        "name": "Нойверн",
+        "number": "77",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Выпад",
+                "text": "Брось монету. Если выпала решка, эта атака не имеет последствий."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "xy3-78",
+        "name": "Ликитунг",
+        "number": "78",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Удар Языком",
+                "text": "Бросай монету, пока не выпадет решка. Эта атака наносит на 30 пунктов урона больше за каждого выпавшего орла."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Стряхивание",
+                "text": "Сбрось случайную карту из руки твоего противника."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Lickitung",
+        "hp": 120,
+        "id": "xy3-79",
+        "name": "Ликилики",
+        "number": "79",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Энергетическая Эволюция",
+            "text": "Когда ты присоединяешь карту базовой Энергии из своей руки к этому Покемону, ты можешь найти в своей колоде карту, которая эволюционирует из этого Покемона, карта должна быть того же типа что и Энергия, и положи её на этого Покемона. (Это засчитывается как эволюционирование этого Покемона). После этого перетасуй колоду.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Грызня",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "xy3-80",
+        "name": "Eevee",
+        "number": "80",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Большой Зевок",
+                "text": "Оба активных Покемона теперь спят."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-81",
+        "name": "Slakoth",
+        "number": "81",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Царапание",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Безрассудная Атака",
+                "text": "Брось монету. Если выпала решка, этот Покемон наносит 20 пунктов урона сам себе."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Slakoth",
+        "hp": 90,
+        "id": "xy3-82",
+        "name": "Вигорот",
+        "number": "82",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Амнезия",
+                "text": "Выбери 1 из атак активного Покемона твоего противника. Этот Покемон не сможет использовать эту атаку во время следующего хода противника."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Удар в Челюсть",
+                "text": "Этот Покемон теряет одну присоединённую к нему Энергию."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Vigoroth",
+        "hp": 150,
+        "id": "xy3-83",
+        "name": "Слакинг",
+        "number": "83",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Проверка Безопасности",
+                "text": "Посмотри на 1 из твоих Призовых карт, которые лежат рубашкой вверх."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-84",
+        "name": "Патрэт",
+        "number": "84",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Сквозной Хруст",
+                "text": "Брось монету 2 раза. Активный Покемон твоего противника теряет одну присоединённую к нему Энергию за каждого выпавшего орла."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Проверка Предмета",
+                "text": "Твой противник показывает все карты в своей руке. Выбери карту Предмета, которую ты там найдешь. Твой противник возвращает эту карту обратно в свою колоду и перетасовывает её."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Patrat",
+        "hp": 80,
+        "id": "xy3-85",
+        "name": "Уочхог",
+        "number": "85",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Вращающийся Бросок",
+                "text": "Если у тебя в руке столько же карт, сколько и у твоего противника, эта атака наносит на 60 пунктов урона больше."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Выталкивание",
+                "text": "По твоему желанию противник должен обменять своего активного Покемона на 1 из своих запасных Покемона."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 110,
+        "id": "xy3-86",
+        "name": "Торнадус",
+        "number": "86",
+        "rarity": "Rare",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Шквал",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Бросок",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "xy3-87",
+        "name": "Нойбат",
+        "number": "87",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy3-88",
+        "name": "Специальный Репортер",
+        "number": "88",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Бери карты, пока у тебя в руке не будет столько же карт, сколько и у противника."
+        ]
+    },
+    {
+        "id": "xy3-89",
+        "name": "Перенос Энергии",
+        "number": "89",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Перемести одну базовую Энергию, присоединённую к 1 из твоих Покемона, на другого твоего Покемона."
+        ]
+    },
+    {
+        "id": "xy3-90",
+        "name": "Стадион для Сражений",
+        "number": "90",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Атаки каждого из Покемона {F} в игре, (у тебя и у противника), наносят на 20 пунктов урона больше защищающемуся Покемону-EX (до применения слабости и устойчивости)."
+        ]
+    },
+    {
+        "id": "xy3-91",
+        "name": "Пояс Фокусирования",
+        "number": "91",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "Если Покемон {F}, к которому присоединена эта карта имеет все ОЖ, и был бы выбит из игры атаками противника, тот Покемон не выбит из игры и его ОЖ теперь 10. После этого сбрось эту карту."
+        ]
+    },
+    {
+        "id": "xy3-92",
+        "name": "Исследователь Ископаемых",
+        "number": "92",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Найди в своей колоде до 2 карт Амауры или Тайранта, в любой комбинации, и положи себе в запас. После этого перетасуй колоду."
+        ]
+    },
+    {
+        "id": "xy3-93",
+        "name": "Полное Исцеление",
+        "number": "93",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Сними со своего активного Покемона все особые состояния."
+        ]
+    },
+    {
+        "id": "xy3-94",
+        "name": "Ископаемая Челюсть",
+        "number": "94",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Посмотри нижние 7 карт в своей колоде. Ты можешь открыть найденного там Тайранта и положить себе в запас. Верни другие карты обратно в колоду и перетасуй её."
+        ]
+    },
+    {
+        "id": "xy3-95",
+        "name": "Коррина",
+        "number": "95",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Найди в своей колоде одного Покемона {F} и карту Предмета, открой их и возьми себе в руку. После этого перетасуй колоду."
+        ]
+    },
+    {
+        "id": "xy3-96",
+        "name": "Техническое Обслуживание",
+        "number": "96",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Перемести 2 карты из своей руки в свою колоду и перетасуй её. (Если ты не можешь переместить 2 карты из своей руки в свою колоду, ты не можешь сыграть этой картой). После этого возьми карту."
+        ]
+    },
+    {
+        "id": "xy3-97",
+        "name": "Горный Ринг",
+        "number": "97",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Блокируется весь урон, наносимый атаками Покемонам в запасе. (У тебя и у противника)."
+        ]
+    },
+    {
+        "id": "xy3-98",
+        "name": "Ископаемый Плавник",
+        "number": "98",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Посмотри нижние 7 карт в своей колоде. Ты можешь открыть найденного там Амауру и положить себе в запас. Верни другие карты обратно в колоду и перетасуй её."
+        ]
+    },
+    {
+        "id": "xy3-99",
+        "name": "Сияющий Халат",
+        "number": "99",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Pokémon Tool",
+        "supertype": "Trainer",
+        "text": [
+            "На Покемона, к которому присоединена эта карта, не могут повлиять никакие особые состояния. (Сними все особые состояния с таких Покемонов)."
+        ]
+    },
+    {
+        "id": "xy3-100",
+        "name": "Супер Захват",
+        "number": "100",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Брось монету. Если выпал орёл, возьми 1 из своих Покемона и все присоединённые к нему карты, себе в руку."
+        ]
+    },
+    {
+        "id": "xy3-101",
+        "name": "Добытчик Инструментов",
+        "number": "101",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Выбери до 2 карт Инструмента Покемона, присоединённых к твоим Покемонам и возьми себе в руку."
+        ]
+    },
+    {
+        "id": "xy3-102",
+        "name": "Тренерский Центр",
+        "number": "102",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Каждый Покемон Стадии 1 и 2 в игре (как твои, так и противника),получает +30 ОЖ."
+        ]
+    },
+    {
+        "id": "xy3-103",
+        "name": "Лиственная Энергия",
+        "number": "103",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Special",
+        "supertype": "Energy",
+        "text": [
+            "Эта карта может быть присоединена только к Покемонам {G}. Эта карта даёт Энергию {G}, только когда эта карта присоединена к Покемонам {G}.\\n\\nКогда ты присоединяешь эту карту из своей руки к 1 из своих Покемонов {G}, этот Покемон излечивает 30 пунктов урона.\\n\\n(Если эта карта присоединена к любой другой карте, но не к Покемону {G}, сбрось эту карту)."
+        ]
+    },
+    {
+        "id": "xy3-104",
+        "name": "Сильная Энергия",
+        "number": "104",
+        "rarity": "Uncommon",
+        "setCode": "xy3",
+        "subtype": "Special",
+        "supertype": "Energy",
+        "text": [
+            "Эта карта может быть присоединена только к Покемонам {F}. Эта карта даёт Энергию {F}, только когда эта карта присоединена к Покемонам {F}.\\n\\nАтаки Покемона к которому присоединена эта карта, наносят на 20 пунктов урона больше активному Покемону твоего противника (до применения слабости и устойчивости).\\n\\n(Если эта карта присоединена к любой другой карте, но не к Покемону {F}, сбрось эту карту)."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Гига-Сила",
+                "text": "Ты можешь нанести на 40 пунктов урона больше. В этом случае, этот Покемон наносит 20 пунктов урона самому себе."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Защитный Пресс",
+                "text": "В следующий ход противника любой урон, нанесённый атаками этому Покемону, снижается на 20 пунктов (до применения слабости и устойчивости)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "xy3-105",
+        "name": "Геракросс-EX",
+        "number": "105",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Гранатомолот",
+                "text": "Эта атака наносит 30 пунктов урона двум твоим запасным Покемонам. (Не применяй слабость и устойчивость к запасным Покемонам)."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Дрожащий Удар",
+                "text": "Твой противник в свой следующих ход не может играть картами Помощника, находящимися у него на руках."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-106",
+        "name": "Сейсмитоуд-EX",
+        "number": "106",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "60",
+                "name": "Винтовой Удар",
+                "text": "Ты можешь брать карты, пока у тебя не окажется 6 карт."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "100",
+                "name": "Прыжок Кувырком",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Стремительный Укол",
+                "text": "Устойчивость не влияет на урон от этой атаки."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-107",
+        "name": "Лукарио-EX",
+        "number": "107",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Нападение",
+            "text": "Когда ты перемещаешь этого Покемона из своей руки в запас, ты можешь переместить сколько угодно карт базовой Энергии, присоединённых к твоим Покемонам к этому Покемону. В этом случае, замени этого Покемона на своего активного Покемона.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Lightning"
+                ],
+                "damage": "80+",
+                "name": "Сверхзвуковая Струя",
+                "text": "Ты можешь сбросить одну Энергию, присоединённую к этому Покемону. В этом случае, эта атака нанесёт на 40 пунктов урона больше."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "xy3-108",
+        "name": "Драгонайт-EX",
+        "number": "108",
+        "rarity": "RareUltra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "xy3-109",
+        "name": "Специальный Репортер",
+        "number": "109",
+        "rarity": "RareUltra",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Бери карты, пока у тебя в руке не будет столько же карт, сколько и у противника."
+        ]
+    },
+    {
+        "id": "xy3-110",
+        "name": "Исследователь Ископаемых",
+        "number": "110",
+        "rarity": "RareUltra",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Найди в своей колоде до 2 карт Амауры или Тайранта, в любой комбинации, и положи себе в запас. После этого перетасуй колоду."
+        ]
+    },
+    {
+        "id": "xy3-111",
+        "name": "Коррина",
+        "number": "111",
+        "rarity": "RareUltra",
+        "setCode": "xy3",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Найди в своей колоде карту Покемона {F} и карту Предмета, открой их и возьми себе в руку. После этого перетасуй колоду."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "180-",
+                "name": "Большие Рога",
+                "text": "Эта атака наносит 180 пунктов урона минус 10 пунктов урона за каждую фишку урона у этого Покемона."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "HeracrossEX",
+        "hp": 220,
+        "id": "xy3-112",
+        "name": "M Геракросс-EX",
+        "number": "112",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Fighting"
+                ],
+                "damage": "140",
+                "name": "Возвышающийся Кулак",
+                "text": "Активный Покемон твоего противника теряет одну присоединённую к нему Энергию."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "LucarioEX",
+        "hp": 220,
+        "id": "xy3-113",
+        "name": "M Лукарио-EX",
+        "number": "113",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "xy3",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    }
+]
