@@ -7,22 +7,22 @@
                     "Grass"
                 ],
                 "damage": "",
-                "name": "Encontre um Amigo",
-                "text": "Procure por 1 Pokémon {G} no seu baralho, revele-o e coloque-o na sua mão. Em seguida, embaralhe o seu baralho."
+                "name": "Trouver un Ami",
+                "text": "Cherchez un Pokémon {G} dans votre deck, montrez-le, puis ajoutez-le à votre main. Mélangez ensuite votre deck."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
-        "id": "gum-1",
-        "name": "Bulbasaur",
+        "id": "det1-1",
+        "name": "Bulbizarre",
         "number": "1",
         "rarity": "Common",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -37,8 +37,8 @@
     },
     {
         "ability": {
-            "name": "Serviço de Mesa",
-            "text": "Uma vez durante a sua vez de jogar (antes de atacar), você pode curar 30 pontos de dano de 1 dos seus Pokémon.",
+            "name": "Service à Table",
+            "text": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez soigner 30 dégâts à l’un de vos Pokémon.",
             "type": "Ability"
         },
         "attacks": [
@@ -50,14 +50,14 @@
                     "Colorless"
                 ],
                 "damage": "70",
-                "name": "Socar e Correr",
-                "text": "Troque este Pokémon por 1 dos seus Pokémon no Banco."
+                "name": "Frapper et Partir en Courant",
+                "text": "Échangez ce Pokémon avec l’un de vos Pokémon de Banc."
             }
         ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Lombre",
         "hp": 140,
-        "id": "gum-2",
+        "id": "det1-2",
         "name": "Ludicolo",
         "number": "2",
         "rarity": "Rare",
@@ -67,7 +67,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
         "types": [
@@ -88,22 +88,22 @@
                     "Grass"
                 ],
                 "damage": "10",
-                "name": "Esporo Sonífero",
-                "text": "O Pokémon Ativo do seu oponente agora está Adormecido."
+                "name": "Spore Dodo",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 50,
-        "id": "gum-3",
-        "name": "Morelull",
+        "id": "det1-3",
+        "name": "Spododo",
         "number": "3",
         "rarity": "Common",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -124,22 +124,22 @@
                     "Colorless"
                 ],
                 "damage": "20",
-                "name": "Carga Indomável",
-                "text": "Este Pokémon causa 10 pontos de dano a si mesmo."
+                "name": "Attaque Imprudente",
+                "text": "Ce Pokémon s’inflige 10 dégâts."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
-        "id": "gum-4",
-        "name": "Charmander",
+        "id": "det1-4",
+        "name": "Salamèche",
         "number": "4",
         "rarity": "Common",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -162,7 +162,7 @@
                     "Colorless"
                 ],
                 "damage": "70",
-                "name": "Talho",
+                "name": "Tranche",
                 "text": ""
             },
             {
@@ -174,15 +174,15 @@
                     "Colorless"
                 ],
                 "damage": "180",
-                "name": "Investida Feroz",
-                "text": "Este Pokémon causa 50 pontos de dano a si mesmo."
+                "name": "Tacle Brutal",
+                "text": "Ce Pokémon s’inflige 50 dégâts."
             }
         ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Charmeleon",
         "hp": 180,
-        "id": "gum-5",
-        "name": "Charizard",
+        "id": "det1-5",
+        "name": "Dracaufeu",
         "number": "5",
         "rarity": "RareUltra",
         "resistances": [],
@@ -191,7 +191,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
         "types": [
@@ -206,8 +206,8 @@
     },
     {
         "ability": {
-            "name": "Segurança",
-            "text": "Enquanto este Pokémon for o seu Pokémon Ativo, todos os seus Pokémon receberão 30 pontos de dano a menos dos ataques do seu oponente (após a aplicação de Fraqueza e Resistência).",
+            "name": "Agent de Sécurité",
+            "text": "Tant que ce Pokémon est votre Pokémon Actif, tous vos Pokémon subissent 30 dégâts de moins provenant des attaques de votre adversaire (avant application de la Faiblesse et de la Résistance).",
             "type": "Ability"
         },
         "attacks": [
@@ -219,15 +219,15 @@
                     "Colorless"
                 ],
                 "damage": "90",
-                "name": "Presa Afiada",
+                "name": "Croc Aiguisé",
                 "text": ""
             }
         ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Growlithe",
         "hp": 120,
-        "id": "gum-6",
-        "name": "Arcanine",
+        "id": "det1-6",
+        "name": "Arcanin",
         "number": "6",
         "rarity": "Rare",
         "resistances": [],
@@ -236,7 +236,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
         "types": [
@@ -257,15 +257,15 @@
                     "Water"
                 ],
                 "damage": "10",
-                "name": "Pânico",
-                "text": "Este Pokémon agora está Confuso."
+                "name": "Panique",
+                "text": "Ce Pokémon est maintenant Confus."
             }
         ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "",
         "hp": 80,
-        "id": "gum-7",
-        "name": "Psyduck",
+        "id": "det1-7",
+        "name": "Psykokwak",
         "number": "7",
         "rarity": "Common",
         "resistances": [],
@@ -274,7 +274,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -295,22 +295,22 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Ficar Parado",
-                "text": "Cure 10 pontos de dano deste Pokémon."
+                "name": "Ne Bougez Pas",
+                "text": "Soignez 10 dégâts à ce Pokémon."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 30,
-        "id": "gum-8",
-        "name": "Magikarp",
+        "id": "det1-8",
+        "name": "Magicarpe",
         "number": "8",
         "rarity": "Common",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -325,8 +325,8 @@
     },
     {
         "ability": {
-            "name": "Fugiu-jitsu",
-            "text": "Se qualquer dano for causado a este Pokémon por ataques, jogue 1 moeda. Se sair cara, previna esse dano.",
+            "name": "Jutsu Évasion",
+            "text": "Si des dégâts sont infligés à ce Pokémon par des attaques, lancez une pièce. Si c’est face, évitez ces dégâts.",
             "type": "Ability"
         },
         "attacks": [
@@ -337,22 +337,22 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Estrelas Ninja Furiosas",
-                "text": "Este ataque causa 50 pontos de dano a 2 dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco)."
+                "name": "Shuriken Furieux",
+                "text": "Cette attaque inflige 50 dégâts à 2 des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)"
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "Frogadier",
         "hp": 140,
-        "id": "gum-9",
-        "name": "Greninja",
+        "id": "det1-9",
+        "name": "Amphinobi",
         "number": "9",
         "rarity": "RareUltra",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
         "types": [
@@ -373,8 +373,8 @@
                     "Lightning"
                 ],
                 "damage": "",
-                "name": "Explorador",
-                "text": "Seu oponente revela a própria mão."
+                "name": "Espionnage",
+                "text": "Votre adversaire dévoile sa main."
             },
             {
                 "convertedEnergyCost": 3,
@@ -384,15 +384,15 @@
                     "Colorless"
                 ],
                 "damage": "80",
-                "name": "Ataque Surpresa",
-                "text": "Jogue 1 moeda. Se sair coroa, este ataque não fará nada."
+                "name": "Attaque Surprise",
+                "text": "Lancez une pièce. Si c’est pile, cette attaque ne fait rien."
             }
         ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 90,
-        "id": "gum-10",
-        "name": "Detetive Pikachu",
+        "id": "det1-10",
+        "name": "Détective Pikachu",
         "number": "10",
         "rarity": "Rare",
         "resistances": [
@@ -405,7 +405,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -420,8 +420,8 @@
     },
     {
         "ability": {
-            "name": "Pantomima",
-            "text": "Quando você joga este Pokémon da sua mão para o seu Banco durante a sua vez de jogar, você pode trocar 1 das suas cartas de Prêmio viradas para baixo pela primeira carta do seu baralho.",
+            "name": "Pantomime",
+            "text": "Lorsque vous jouez ce Pokémon de votre main sur votre Banc pendant votre tour, vous pouvez échanger une de vos cartes Récompense (actuellement face cachée) avec la carte du dessus de votre deck.",
             "type": "Ability"
         },
         "attacks": [
@@ -432,22 +432,22 @@
                     "Colorless"
                 ],
                 "damage": "20x",
-                "name": "Malabarismo",
-                "text": "Jogue 4 moedas. Este ataque causa 20 pontos de dano para cada cara."
+                "name": "Jonglerie",
+                "text": "Lancez 4 pièces. Cette attaque inflige 20 dégâts pour chaque côté face."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 80,
-        "id": "gum-11",
-        "name": "Mr. Mime",
+        "id": "det1-11",
+        "name": "M. Mime",
         "number": "11",
         "rarity": "Rare",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -469,8 +469,8 @@
                     "Colorless"
                 ],
                 "damage": "30",
-                "name": "Tomada Psíquica",
-                "text": "Escolha 1 dos ataques do Pokémon Ativo do seu oponente. Aquele Pokémon não poderá usar aquele ataque durante a próxima vez de jogar do seu oponente."
+                "name": "Détournement Psy",
+                "text": "Choisissez l’une des attaques du Pokémon Actif de votre adversaire. Ce Pokémon ne peut pas utiliser cette attaque pendant le prochain tour de votre adversaire."
             },
             {
                 "convertedEnergyCost": 3,
@@ -480,14 +480,14 @@
                     "Colorless"
                 ],
                 "damage": "130",
-                "name": "Queimadura Destruidora",
-                "text": "Descarte 2 Energias {P} deste Pokémon."
+                "name": "Brûlure Brisante",
+                "text": "Défaussez 2 Énergies {P} de ce Pokémon."
             }
         ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 130,
-        "id": "gum-12",
+        "id": "det1-12",
         "name": "Mewtwo",
         "number": "12",
         "rarity": "RareUltra",
@@ -496,7 +496,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -517,8 +517,8 @@
                     "Fighting"
                 ],
                 "damage": "",
-                "name": "Guarda de Trânsito",
-                "text": "Olhe as 5 primeiras cartas do seu baralho e coloque-as de volta em qualquer ordem."
+                "name": "Diriger la Circulation",
+                "text": "Regardez les 5 cartes du dessus de votre deck et replacez-les dans l’ordre de votre choix."
             },
             {
                 "convertedEnergyCost": 2,
@@ -527,15 +527,15 @@
                     "Fighting"
                 ],
                 "damage": "80+",
-                "name": "Golpe Cruzado",
-                "text": "Jogue 1 moeda. Se sair cara, este ataque causará 60 pontos de dano a mais."
+                "name": "Coup-Croix",
+                "text": "Lancez une pièce. Si c’est face, cette attaque inflige 60 dégâts supplémentaires."
             }
         ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "Machoke",
         "hp": 160,
-        "id": "gum-13",
-        "name": "Machamp",
+        "id": "det1-13",
+        "name": "Mackogneur",
         "number": "13",
         "rarity": "Rare",
         "resistances": [],
@@ -543,7 +543,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
         "types": [
@@ -564,15 +564,15 @@
                     "Fairy"
                 ],
                 "damage": "",
-                "name": "Melodia Curativa",
-                "text": "Cure 10 pontos de dano de cada um dos seus Pokémon."
+                "name": "Mélodie Apaisante",
+                "text": "Soignez 10 dégâts à chacun de vos Pokémon."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
-        "id": "gum-14",
-        "name": "Jigglypuff",
+        "id": "det1-14",
+        "name": "Rondoudou",
         "number": "14",
         "rarity": "Common",
         "resistances": [
@@ -584,7 +584,7 @@
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -606,14 +606,14 @@
                     "Colorless"
                 ],
                 "damage": "10+",
-                "name": "Jogo Duro",
-                "text": "Jogue 1 moeda. Se sair cara, este ataque causará 30 pontos de dano a mais."
+                "name": "Câlinerie",
+                "text": "Lancez une pièce. Si c’est face, cette attaque inflige 30 dégâts supplémentaires."
             }
         ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 70,
-        "id": "gum-15",
+        "id": "det1-15",
         "name": "Snubbull",
         "number": "15",
         "rarity": "Common",
@@ -627,7 +627,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -649,15 +649,15 @@
                     "Colorless"
                 ],
                 "damage": "20x",
-                "name": "Lambida Contínua",
-                "text": "Jogue 1 moeda até sair coroa. Este ataque causa 20 pontos de dano para cada cara."
+                "name": "Langue Sans Fin",
+                "text": "Lancez une pièce jusqu’à ce que vous obteniez un côté pile. Cette attaque inflige 20 dégâts pour chaque côté face."
             }
         ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "",
         "hp": 100,
-        "id": "gum-16",
-        "name": "Lickitung",
+        "id": "det1-16",
+        "name": "Excelangue",
         "number": "16",
         "rarity": "Common",
         "resistances": [],
@@ -666,7 +666,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -687,22 +687,22 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Cópia Sem Limite",
-                "text": "Escolha 1 dos ataques dos Pokémon do seu oponente e use-o como este ataque. Se este Pokémon não tiver a Energia necessária para usar aquele ataque, este ataque não fará nada."
+                "name": "Copie Tout",
+                "text": "Choisissez l’une des attaques des Pokémon de votre adversaire et utilisez-la en tant que cette attaque. Si ce Pokémon n’a pas l’Énergie nécessaire pour utiliser cette attaque, cette attaque ne fait rien."
             }
         ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
-        "id": "gum-17",
-        "name": "Ditto",
+        "id": "det1-17",
+        "name": "Métamorph",
         "number": "17",
         "rarity": "RareUltra",
         "resistances": [],
         "retreatCost": [
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Basic",
         "supertype": "Pokémon",
         "types": [
@@ -726,15 +726,15 @@
                     "Colorless"
                 ],
                 "damage": "150",
-                "name": "Lançamento",
-                "text": "Seu oponente troca o próprio Pokémon Ativo por 1 dos Pokémon no Banco dele(a)."
+                "name": "Lancer",
+                "text": "Votre adversaire échange son Pokémon Actif avec l’un de ses Pokémon de Banc."
             }
         ],
         "convertedRetreatCost": 4,
         "evolvesFrom": "Vigoroth",
         "hp": 180,
-        "id": "gum-18",
-        "name": "Slaking",
+        "id": "det1-18",
+        "name": "Monaflèmit",
         "number": "18",
         "rarity": "Rare",
         "resistances": [],
@@ -744,7 +744,7 @@
             "Colorless",
             "Colorless"
         ],
-        "setCode": "gum",
+        "setCode": "det1",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
         "types": [
