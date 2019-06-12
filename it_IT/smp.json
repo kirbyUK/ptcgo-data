@@ -8157,6 +8157,59 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Esplorazione",
+                "text": "Il tuo avversario mostra le carte che ha in mano."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Attacco a Sorpresa",
+                "text": "Lancia una moneta. Se esce croce, questo attacco non ha effetto."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "smp-SM170",
+        "name": "Detective Pikachu",
+        "number": "SM170",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Fire"
                 ],
                 "damage": "30",
@@ -8919,7 +8972,7 @@
                     "Colorless"
                 ],
                 "damage": "20",
-                "name": "",
+                "name": "Morso",
                 "text": ""
             },
             {
@@ -8930,8 +8983,8 @@
                     "Colorless"
                 ],
                 "damage": "130",
-                "name": "",
-                "text": ""
+                "name": "Turbofuoco",
+                "text": "Scarta due Energie {R} assegnate a questo Pokémon."
             }
         ],
         "convertedRetreatCost": 2,
@@ -9006,6 +9059,66 @@
         "weaknesses": [
             {
                 "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Spiralpugno Squarciante",
+                "text": "Il Pokémon attivo del tuo avversario viene confuso."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Colpo Furioso",
+                "text": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 80 danni in più."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Combo Familiare GX",
+                "text": "Pesca cinque carte. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "smp-SM188",
+        "name": "Kangaskhan-GX",
+        "number": "SM188",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

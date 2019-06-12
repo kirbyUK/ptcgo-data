@@ -579,7 +579,7 @@
         "evolvesFrom": "Rockruff",
         "hp": 200,
         "id": "smp-SM14",
-        "name": "Lougaroc {GX}",
+        "name": "Lougaroc-GX",
         "number": "SM14",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -1817,7 +1817,7 @@
         "evolvesFrom": "Torracat",
         "hp": 250,
         "id": "smp-SM38",
-        "name": "Félinferno {GX}",
+        "name": "Félinferno-GX",
         "number": "SM38",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -7945,7 +7945,7 @@
         "evolvesFrom": "",
         "hp": 300,
         "id": "smp-SM166",
-        "name": "Magicarpe et Wailord {GX}",
+        "name": "Magicarpe et Wailord-GX",
         "number": "SM166",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -8010,7 +8010,7 @@
         "evolvesFrom": "",
         "hp": 270,
         "id": "smp-SM167",
-        "name": "Celebi et Florizarre {GX}",
+        "name": "Celebi et Florizarre-GX",
         "number": "SM167",
         "rarity": "Rare Holo gx",
         "resistances": [],
@@ -8062,7 +8062,7 @@
         "evolvesFrom": "",
         "hp": 240,
         "id": "smp-SM168",
-        "name": "Pikachu et Zekrom {GX}",
+        "name": "Pikachu et Zekrom-GX",
         "number": "SM168",
         "rarity": "Rare Holo gx",
         "resistances": [
@@ -8129,7 +8129,7 @@
         "evolvesFrom": "",
         "hp": 270,
         "id": "smp-SM169",
-        "name": "Évoli et Ronflex {GX}",
+        "name": "Évoli et Ronflex-GX",
         "number": "SM169",
         "rarity": "Rare Holo gx",
         "resistances": [],
@@ -8144,6 +8144,59 @@
         "supertype": "Pokémon",
         "types": [
             "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Espionnage",
+                "text": "Votre adversaire dévoile sa main."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Attaque Surprise",
+                "text": "Lancez une pièce. Si c’est pile, cette attaque ne fait rien."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "smp-SM170",
+        "name": "Détective Pikachu",
+        "number": "SM170",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
         ],
         "weaknesses": [
             {
@@ -8919,7 +8972,7 @@
                     "Colorless"
                 ],
                 "damage": "20",
-                "name": "",
+                "name": "Bite",
                 "text": ""
             },
             {
@@ -8930,8 +8983,8 @@
                     "Colorless"
                 ],
                 "damage": "130",
-                "name": "",
-                "text": ""
+                "name": "Fire Spin",
+                "text": "Discard 2 {R} Energy from this Pokémon."
             }
         ],
         "convertedRetreatCost": 2,
@@ -9006,6 +9059,66 @@
         "weaknesses": [
             {
                 "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Coup d’Poing en Demi Spirale",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Confus."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Frappe Enragée",
+                "text": "Si le Pokémon Actif de votre adversaire est Confus, cette attaque inflige 80 dégâts supplémentaires."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Combine Familiale GX",
+                "text": "Piochez 5 cartes. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "smp-SM188",
+        "name": "Kangourex-GX",
+        "number": "SM188",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

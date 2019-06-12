@@ -8157,6 +8157,59 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Explorador",
+                "text": "Seu oponente revela a própria mão."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Ataque Surpresa",
+                "text": "Jogue 1 moeda. Se sair coroa, este ataque não fará nada."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 90,
+        "id": "smp-SM170",
+        "name": "Detetive Pikachu",
+        "number": "SM170",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Fire"
                 ],
                 "damage": "30",
@@ -8919,7 +8972,7 @@
                     "Colorless"
                 ],
                 "damage": "20",
-                "name": "",
+                "name": "Bite",
                 "text": ""
             },
             {
@@ -8930,8 +8983,8 @@
                     "Colorless"
                 ],
                 "damage": "130",
-                "name": "",
-                "text": ""
+                "name": "Fire Spin",
+                "text": "Discard 2 {R} Energy from this Pokémon."
             }
         ],
         "convertedRetreatCost": 2,
@@ -9006,6 +9059,66 @@
         "weaknesses": [
             {
                 "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Soco Espiral Dividido",
+                "text": "O Pokémon Ativo do seu oponente agora está Confuso."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Golpe Raivoso",
+                "text": "Se o Pokémon Ativo do seu oponente estiver Confuso, este ataque causará 80 pontos de dano a mais."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Combo Familiar GX",
+                "text": "Compre 5 cartas (você não pode usar mais de 1 ataque GX por partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "smp-SM188",
+        "name": "Kangaskhan-GX",
+        "number": "SM188",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]
