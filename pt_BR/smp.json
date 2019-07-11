@@ -9124,6 +9124,59 @@
         ]
     },
     {
+        "ability": {
+            "name": "Carapaça Sólida",
+            "text": "Este Pokémon recebe 30 pontos de dano a menos de ataques (após a aplicação de Fraqueza e Resistência).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60x",
+                "name": "Borrifada de Foguete",
+                "text": "Embaralhe qualquer quantidade de Energia {W} dos seus Pokémon no seu baralho. Este ataque causa 60 pontos de dano para cada carta embaralhada no seu baralho desta forma."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Gêiser Gigante GX",
+                "text": "Ligue qualquer número de cartas de Energia {W} da sua mão aos seus Pokémon como desejar (você não pode usar mais de 1 ataque GX por partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 240,
+        "id": "smp-SM189",
+        "name": "Blastoise-GX",
+        "number": "SM189",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,

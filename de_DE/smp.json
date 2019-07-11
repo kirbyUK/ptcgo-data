@@ -9124,6 +9124,59 @@
         ]
     },
     {
+        "ability": {
+            "name": "Solider Panzer",
+            "text": "Diesem Pokémon werden durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60x",
+                "name": "Raketenplatscher",
+                "text": "Mische beliebig viele {W}-Energien von deinen Pokémon in dein Deck. Diese Attacke fügt 60 Schadenspunkte mal der Anzahl der auf diese Weise in dein Deck gemischten Karten zu."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Riesengeysir GX",
+                "text": "Lege beliebig viele {W}-Energiekarten aus deiner Hand beliebig an deine Pokémon an. (Du kannst pro Spiel nur 1 GX Attacke einsetzen.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 240,
+        "id": "smp-SM189",
+        "name": "Turtok-GX",
+        "number": "SM189",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,

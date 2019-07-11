@@ -9124,6 +9124,59 @@
         ]
     },
     {
+        "ability": {
+            "name": "Guscio Solido",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60x",
+                "name": "Razzo Spruzzo",
+                "text": "Rimischia nel tuo mazzo tutte le Energie {W} che vuoi assegnate ai tuoi Pokémon. Questo attacco infligge 60 danni per ogni carta che hai rimischiato in questo modo."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Geyser Gigante GX",
+                "text": "Assegna a piacimento ai tuoi Pokémon un numero qualsiasi di carte Energia {W} dalla tua mano. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 240,
+        "id": "smp-SM189",
+        "name": "Blastoise-GX",
+        "number": "SM189",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,

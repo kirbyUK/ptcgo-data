@@ -9124,6 +9124,59 @@
         ]
     },
     {
+        "ability": {
+            "name": "Caparazón Sólido",
+            "text": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "60x",
+                "name": "Salpicadura Vertiginosa",
+                "text": "Pon cualquier cantidad de Energías {W} de tus Pokémon en tu baraja y baraja todas las cartas. Este ataque hace 60 puntos de daño por cada carta que hayas puesto en tu baraja de esta manera."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Géiser Gigante GX",
+                "text": "Une cualquier cantidad de cartas de Energía {W} de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Wartortle",
+        "hp": 240,
+        "id": "smp-SM189",
+        "name": "Blastoise-GX",
+        "number": "SM189",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,
