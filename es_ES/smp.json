@@ -1119,7 +1119,7 @@
                     "Colorless"
                 ],
                 "damage": "80",
-                "name": "Rayo solar",
+                "name": "Rayo Solar",
                 "text": ""
             }
         ],
@@ -7894,7 +7894,7 @@
         "evolvesFrom": "",
         "hp": 130,
         "id": "smp-SM165",
-        "name": "Ultra Necrozma",
+        "name": "Ultra-Necrozma",
         "number": "SM165",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -9229,6 +9229,175 @@
         ]
     },
     {
+        "ability": {
+            "name": "Perfección",
+            "text": "Este Pokémon puede usar los ataques de cualquier Pokémon-GX o Pokémon-EX en tu Banca o en tu pila de descartes. (Sigues necesitando la Energía necesaria para usar cada ataque).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Dúo Milagroso GX",
+                "text": "Si este Pokémon tiene por lo menos 1 Energía adicional unida a él (además de las del coste de este ataque), cura todos los puntos de daño de todos tus Pokémon. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 270,
+        "id": "smp-SM191",
+        "name": "Mewtwo y Mew-GX",
+        "number": "SM191",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Puño de Acero",
+                "text": "Busca en tu baraja 1 carta de Energía {M} y únela a este Pokémon. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Impacto Pesado",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Muro Metálico Total GX",
+                "text": "Durante el resto de la partida, los ataques de tu rival hacen 30 puntos de daño menos a tus Pokémon {M} (después de aplicar Debilidad y Resistencia). Si este Pokémon tiene por lo menos 1 Energía adicional unida a él (además de las del coste de este ataque), descarta todas las Energías del Pokémon Activo de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 260,
+        "id": "smp-SM192",
+        "name": "Lucario y Melmetal-GX",
+        "number": "SM192",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ataque Lineal",
+                "text": "Este ataque hace 40 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "160+",
+                "name": "Cuchillada Catastrófica",
+                "text": "Si el Pokémon Activo de tu rival ya tiene algún contador de daño sobre él, este ataque hace 80 puntos de daño más."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Final GG GX",
+                "text": "Descarta 1 de los Pokémon de tu rival y todas las cartas unidas a él. Si este Pokémon tiene por lo menos 3 Energías {F} adicionales unidas a él (además de las del coste de este ataque), descarta 2 de los Pokémon de tu rival en vez de 1. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 270,
+        "id": "smp-SM193",
+        "name": "Garchomp y Giratina-GX",
+        "number": "SM193",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Dragon"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fairy",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,
@@ -10021,6 +10190,166 @@
         "weaknesses": [
             {
                 "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "140",
+                "name": "Lanzallamas",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "300",
+                "name": "Envite Ígneo GX",
+                "text": "(No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Charmeleon",
+        "hp": 250,
+        "id": "smp-SM211",
+        "name": "Charizard-GX",
+        "number": "SM211",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Furia Dragón",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "240",
+                "name": "Hiperrayo GX",
+                "text": "(No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Magikarp",
+        "hp": 230,
+        "id": "smp-SM212",
+        "name": "Gyarados-GX",
+        "number": "SM212",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Rayo",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Bola Chispa GX",
+                "text": "(No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Pikachu",
+        "hp": 210,
+        "id": "smp-SM213",
+        "name": "Raichu-GX",
+        "number": "SM213",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]
