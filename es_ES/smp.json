@@ -8233,8 +8233,8 @@
                     "Fire"
                 ],
                 "damage": "20x",
-                "name": "Fogón Vigoroso {GX}",
-                "text": "Este ataque hace 20 puntos de daño por cada carta de Energía {R} en tu pila de descartes. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Fogón Vigoroso GX",
+                "text": "Este ataque hace 20 puntos de daño por cada carta de Energía {R} en tu pila de descartes. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8286,8 +8286,8 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Ducha Curativa {GX}",
-                "text": "Cura todos los puntos de daño a todos tus Pokémon {W}. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Ducha Curativa GX",
+                "text": "Cura todos los puntos de daño a todos tus Pokémon {W}. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8343,8 +8343,8 @@
                     "Colorless"
                 ],
                 "damage": "110",
-                "name": "Fuga Súbita {GX}",
-                "text": "Evita todos los efectos de los ataques, incluido el daño, infligidos a este Pokémon durante el próximo turno de tu rival. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Fuga Súbita GX",
+                "text": "Evita todos los efectos de los ataques, incluido el daño, infligidos a este Pokémon durante el próximo turno de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 0,
@@ -8398,8 +8398,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Creador de Alegría {GX}",
-                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Creador de Alegría GX",
+                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8450,8 +8450,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Creador de Alegría {GX}",
-                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Creador de Alegría GX",
+                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8502,8 +8502,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Creador de Alegría {GX}",
-                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque {GX} en una partida)."
+                "name": "Creador de Alegría GX",
+                "text": "Pon 3 cartas de tu pila de descartes en tu mano. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -10200,6 +10200,61 @@
                 "convertedEnergyCost": 4,
                 "cost": [
                     "Fire",
+                    "Lightning",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "210",
+                "name": "Quemadura Trinidad",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Leyendas del Cielo GX",
+                "text": "Pon este Pokémon y todas las cartas unidas a él en tu baraja y barájalas todas. Si este Pokémon tiene por lo menos 1 Energía {R}, {W} y {L} adicionales unidas a él (además de las del coste de este ataque), este ataque hace 110 puntos de daño a 3 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 300,
+        "id": "smp-SM210",
+        "name": "Moltres, Zapdos y Articuno-GX",
+        "number": "SM210",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
                     "Fire",
                     "Colorless",
                     "Colorless"
@@ -10435,6 +10490,59 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Resolución de Problemas",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes descartar 1 Energía Especial de este Pokémon. Si lo haces, cúrale 80 puntos de daño.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Sobrecalentamiento Anómalo",
+                "text": "Este Pokémon pasa a estar Quemado."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Error Crítico GX",
+                "text": "Busca en tu baraja hasta 10 cartas y descártalas. Después, baraja las cartas de tu baraja. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon2",
+        "hp": 240,
+        "id": "smp-SM216",
+        "name": "Porygon-Z-GX",
+        "number": "SM216",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

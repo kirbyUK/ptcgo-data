@@ -8234,7 +8234,7 @@
                 ],
                 "damage": "20x",
                 "name": "Combustione Energetica-GX",
-                "text": "Questo attacco infligge 20 danni per ogni carta Energia {R} nella tua pila degli scarti. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Questo attacco infligge 20 danni per ogni carta Energia {R} nella tua pila degli scarti. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8287,7 +8287,7 @@
                 ],
                 "damage": "",
                 "name": "Pioggia Curativa-GX",
-                "text": "Cura tutti i tuoi Pokémon {W} da tutti i danni. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Cura tutti i tuoi Pokémon {W} da tutti i danni. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8343,8 +8343,8 @@
                     "Colorless"
                 ],
                 "damage": "110",
-                "name": "Corsa Lampo",
-                "text": "Previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon durante il prossimo turno del tuo avversario. Non puoi usare più di un attacco {GX} a partita."
+                "name": "Corsa Lampo GX",
+                "text": "Previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon durante il prossimo turno del tuo avversario. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 0,
@@ -8399,7 +8399,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia-GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8451,7 +8451,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia-GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8503,7 +8503,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia-GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8607,7 +8607,7 @@
                 ],
                 "damage": "",
                 "name": "Potere del Metallo GX",
-                "text": "Assegna un numero qualsiasi di carte Energia {M} dalla tua pila degli scarti a questo Pokémon. Non puoi usare più di un attacco {GX} a partita."
+                "text": "Assegna un numero qualsiasi di carte Energia {M} dalla tua pila degli scarti a questo Pokémon. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 4,
@@ -10200,6 +10200,61 @@
                 "convertedEnergyCost": 4,
                 "cost": [
                     "Fire",
+                    "Lightning",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "210",
+                "name": "Triade Ardente",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Leggende Celesti GX",
+                "text": "Rimischia questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo. Se questo Pokémon ha almeno un’Energia {R}, un’Energia {W} e un’Energia {L} extra assegnate, in aggiunta a quelle del costo di questo attacco, questo attacco infligge 110 danni a tre dei Pokémon del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 300,
+        "id": "smp-SM210",
+        "name": "Moltres, Zapdos e Articuno-GX",
+        "number": "SM210",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
                     "Fire",
                     "Colorless",
                     "Colorless"
@@ -10435,6 +10490,59 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Risoluzione dei Problemi",
+            "text": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une Énergie spéciale de ce Pokémon. Dans ce cas, soignez 80 dégâts à ce Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Surriscaldamento Anomalo",
+                "text": "Ce Pokémon est maintenant Brûlé."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Errore Critico GX",
+                "text": "Cherchez jusqu’à 10 cartes dans votre deck et défaussez-les. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon2",
+        "hp": 240,
+        "id": "smp-SM216",
+        "name": "Porygon-Z-GX",
+        "number": "SM216",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

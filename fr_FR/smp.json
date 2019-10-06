@@ -8234,7 +8234,7 @@
                 ],
                 "damage": "20x",
                 "name": "Puissance Brûlante GX",
-                "text": "Cette attaque inflige 20 dégâts pour chaque carte Énergie {R} dans votre pile de défausse. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Cette attaque inflige 20 dégâts pour chaque carte Énergie {R} dans votre pile de défausse. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 2,
@@ -8287,7 +8287,7 @@
                 ],
                 "damage": "",
                 "name": "Pluie Curative GX",
-                "text": "Soignez tous les dégâts de vos Pokémon {W}. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Soignez tous les dégâts de vos Pokémon {W}. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 2,
@@ -8344,7 +8344,7 @@
                 ],
                 "damage": "110",
                 "name": "Course Rapide GX",
-                "text": "Évitez tous les effets d’attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Évitez tous les effets d’attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 0,
@@ -8399,7 +8399,7 @@
                 ],
                 "damage": "",
                 "name": "Créateur de Joie GX",
-                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 1,
@@ -8451,7 +8451,7 @@
                 ],
                 "damage": "",
                 "name": "Créateur de Joie GX",
-                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 1,
@@ -8503,7 +8503,7 @@
                 ],
                 "damage": "",
                 "name": "Créateur de Joie GX",
-                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque {GX} par partie.)"
+                "text": "Placez 3 cartes de votre pile de défausse dans votre main. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
         "convertedRetreatCost": 1,
@@ -10200,6 +10200,61 @@
                 "convertedEnergyCost": 4,
                 "cost": [
                     "Fire",
+                    "Lightning",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "210",
+                "name": "Triple Brûlure",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Légendes Célestes GX",
+                "text": "Mélangez ce Pokémon et toutes les cartes qui lui sont attachées avec votre deck. Si au moins une Énergie {R}, {W} et {L} supplémentaire sont attachées à ce Pokémon (en plus du coût de cette attaque), cette attaque inflige 110 dégâts à 3 des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 300,
+        "id": "smp-SM210",
+        "name": "Sulfura, Électhor et Artikodin-GX",
+        "number": "SM210",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
                     "Fire",
                     "Colorless",
                     "Colorless"
@@ -10435,6 +10490,59 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Résolution de Problèmes",
+            "text": "Une seule fois pendant votre tour (avant votre attaque), vous pouvez défausser une Énergie spéciale de ce Pokémon. Dans ce cas, soignez 80 dégâts à ce Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Surchauffe Anormale",
+                "text": "Ce Pokémon est maintenant Brûlé."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Erreur Critique GX",
+                "text": "Cherchez jusqu’à 10 cartes dans votre deck et défaussez-les. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon2",
+        "hp": 240,
+        "id": "smp-SM216",
+        "name": "Porygon-Z-GX",
+        "number": "SM216",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

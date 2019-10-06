@@ -8287,7 +8287,7 @@
                 ],
                 "damage": "",
                 "name": "Heilender Schauer-GX",
-                "text": "Heile allen Schaden bei jedem deiner {W}-Pokémon. (Du kannst pro Spiel nur 1 {GX}-Attacke einsetzen.)"
+                "text": "Heile allen Schaden bei jedem deiner {W}-Pokémon. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
         "convertedRetreatCost": 2,
@@ -10200,6 +10200,61 @@
                 "convertedEnergyCost": 4,
                 "cost": [
                     "Fire",
+                    "Lightning",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "210",
+                "name": "Dreiheitsbrand",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Legenden der Lüfte GX",
+                "text": "Mische dieses Pokémon und alle an es angelegten Karten in dein Deck. Wenn an dieses Pokémon mindestens 1 extra {R}-, {W}- und {L}-Energie angelegt ist (zusätzlich zu den Kosten dieser Attacke), fügt diese Attacke 3 Pokémon deines Gegners 110 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 300,
+        "id": "smp-SM210",
+        "name": "Lavados & Zapdos & Arktos-GX",
+        "number": "SM210",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
                     "Fire",
                     "Colorless",
                     "Colorless"
@@ -10435,6 +10490,59 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Fehlerbehebung",
+            "text": "Einmal während deines Zuges (bevor du angreifst) kannst du 1 Spezial-Energie von diesem Pokémon auf deinen Ablagestapel legen. Wenn du das machst, heile 80 Schadenspunkte bei ihm.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Ungewöhnliche Überhitzung",
+                "text": "Dieses Pokémon ist jetzt verbrannt."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Kritischer Fehler GX",
+                "text": "Durchsuche dein Deck nach bis zu 10 Karten und lege sie auf deinen Ablagestapel. Mische anschließend dein Deck. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon2",
+        "hp": 240,
+        "id": "smp-SM216",
+        "name": "Porygon-Z-GX",
+        "number": "SM216",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]

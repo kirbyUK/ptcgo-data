@@ -8234,7 +8234,7 @@
                 ],
                 "damage": "20x",
                 "name": "Queimador Poderoso GX",
-                "text": "Este ataque causa 20 pontos de dano para cada carta de Energia {R} na sua pilha de descarte (você não pode usar mais de 1 ataque {GX} por partida)."
+                "text": "Este ataque causa 20 pontos de dano para cada carta de Energia {R} na sua pilha de descarte (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8286,8 +8286,8 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Chuva de Cura-{GX}",
-                "text": "Cure todo o dano de todos os seus Pokémon {W} (você não pode usar mais de 1 ataque {GX} por partida)."
+                "name": "Chuva de Cura-GX",
+                "text": "Cure todo o dano de todos os seus Pokémon {W} (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 2,
@@ -8344,7 +8344,7 @@
                 ],
                 "damage": "110",
                 "name": "Corrida Veloz GX",
-                "text": "Prevenirá todos os efeitos de ataques, incluindo dano, causados a este Pokémon durante a próxima vez de jogar do seu oponente (você não pode usar mais de 1 ataque {GX} por partida)."
+                "text": "Prevenirá todos os efeitos de ataques, incluindo dano, causados a este Pokémon durante a próxima vez de jogar do seu oponente (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 0,
@@ -8398,8 +8398,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-{GX}",
-                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque {GX} por partida)."
+                "name": "Motivo de Alegria-GX",
+                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8450,8 +8450,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-{GX}",
-                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque {GX} por partida)."
+                "name": "Motivo de Alegria-GX",
+                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8502,8 +8502,8 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-{GX}",
-                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque {GX} por partida)."
+                "name": "Motivo de Alegria-GX",
+                "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8607,7 +8607,7 @@
                 ],
                 "damage": "",
                 "name": "Força Férrea GX",
-                "text": "Ligue qualquer número de cartas de Energia {M} da sua pilha de descarte a este Pokémon (você não pode usar mais de 1 ataque {GX} por partida)."
+                "text": "Ligue qualquer número de cartas de Energia {M} da sua pilha de descarte a este Pokémon (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
         "convertedRetreatCost": 4,
@@ -10200,6 +10200,61 @@
                 "convertedEnergyCost": 4,
                 "cost": [
                     "Fire",
+                    "Lightning",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "210",
+                "name": "Queimadura Tríptica",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Lendas do Céu GX",
+                "text": "Embaralhe este Pokémon e todas as cartas ligadas a ele no seu baralho. Se este Pokémon tiver pelo menos 1 Energia {R}, {W} e {L} adicional ligada a ele (além do custo deste ataque), este ataque causará 110 pontos de dano a 3 dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco). (Você não pode usar mais de 1 ataque GX por partida.)"
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 300,
+        "id": "smp-SM210",
+        "name": "Moltres, Zapdos e Articuno-GX",
+        "number": "SM210",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
                     "Fire",
                     "Colorless",
                     "Colorless"
@@ -10435,6 +10490,59 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Detecção de Defeitos",
+            "text": "Uma vez durante a sua vez de jogar (antes de atacar), você pode descartar 1 Energia Especial deste Pokémon. Se fizer isto, cure 80 pontos de dano dele.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Superaquecimento Anormal",
+                "text": "Este Pokémon agora está Queimado."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Erro Crítico GX",
+                "text": "Procure por até 10 cartas no seu baralho e descarte-as. Em seguida, embaralhe o seu baralho (você não pode usar mais de 1 ataque GX por partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Porygon2",
+        "hp": 240,
+        "id": "smp-SM216",
+        "name": "Porygon-Z-GX",
+        "number": "SM216",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]
