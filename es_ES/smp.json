@@ -10975,6 +10975,248 @@
         ]
     },
     {
+        "ability": {
+            "name": "Rugido Decisivo",
+            "text": "Una vez durante tu turno (antes de tu ataque), puedes poner 2 contadores de daño en este Pokémon. Si lo haces, busca en tu baraja hasta 2 cartas de Energía {R} y únelas a este Pokémon. Después, baraja las cartas de tu baraja.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "30+",
+                "name": "Bola Ascuas Incesante",
+                "text": "Descarta todas las Energías {R} de este Pokémon. Este ataque hace 50 puntos de daño más por cada carta que hayas descartado de esta manera."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Charmeleon",
+        "hp": 150,
+        "id": "smp-SM226",
+        "name": "Charizard",
+        "number": "SM226",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Ataque Rápido",
+                "text": "Lanza 1 moneda. Si sale cara, este ataque hace 10 puntos de daño más."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Rayo",
+                "text": "Descarta todas las Energías de este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "smp-SM227",
+        "name": "Pikachu",
+        "number": "SM227",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Metal",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "130",
+                "name": "Incursión Psíquica",
+                "text": "Este Pokémon no puede atacar durante tu próximo turno."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "smp-SM228",
+        "name": "Armored Mewtwo",
+        "number": "SM228",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Liana Radiante",
+            "text": "Una vez durante tu turno, si este Pokémon es tu Pokémon Activo, cuando le unas 1 carta de Energía {G} de tu mano, puedes cambiar 1 de los Pokémon en Banca de tu rival por su Pokémon Activo.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Descarga Forestal",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Planta Solar GX",
+                "text": "Este ataque hace 50 puntos de daño a cada uno de los Pokémon de tu rival. Si este Pokémon tiene por lo menos 2 Energías adicionales unidas a él (además de las del coste de este ataque), cura todos los puntos de daño a todos tus Pokémon. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 270,
+        "id": "smp-SM229",
+        "name": "Venusaur y Snivy-GX",
+        "number": "SM229",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Llamarada Brillante",
+                "text": "Puedes buscar en tu baraja hasta 3 cartas y ponerlas en tu mano. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Pilar de Llamas Carmesís GX",
+                "text": "Une 5 cartas de Energía Básica de tu pila de descartes a tus Pokémon de la manera que desees. Si este Pokémon tiene por lo menos 1 Energía adicional unida a él (además de las del coste de este ataque), el Pokémon Activo de tu rival pasa a estar Confundido y Quemado. (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 270,
+        "id": "smp-SM230",
+        "name": "Charizard y Braixen-GX",
+        "number": "SM230",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "id": "smp-SM231",
         "name": "Festival de Campeones",
         "number": "SM231",
