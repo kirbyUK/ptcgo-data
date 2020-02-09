@@ -108,5 +108,443 @@
                 "value": "×2"
             }
         ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Dia de Pagamento",
+                "text": "Compre um card."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Garra Cortadora",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-4",
+        "name": "Meowth V",
+        "number": "4",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Corrida do Ouro G-Max",
+                "text": "Compre 3 cartas."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "MeowthV",
+        "hp": 300,
+        "id": "promo_swsh-5",
+        "name": "Meowth VMAX",
+        "number": "5",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ritmo Voltaico",
+            "text": "Uma vez durante o seu turno, você poderá procurar por até 2 cartas de Energia {G} no seu baralho e ligá-las a 1 dos seus Pokémon. Em seguida, embaralhe o seu baralho.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "140",
+                "name": "Martelada",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Thwackey",
+        "hp": 170,
+        "id": "promo_swsh-6",
+        "name": "Rillaboom",
+        "number": "6",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Dança de Gelo",
+            "text": "Quantas vezes desejar durante o seu turno, você poderá ligar 1 carta de Energia {W} da sua mão a 1 dos seus Pokémon {W} no Banco.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Raio Aurora",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Snom",
+        "hp": 90,
+        "id": "promo_swsh-7",
+        "name": "Frosmoth",
+        "number": "7",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "",
+            "text": "Os ataques dos seus Pokémon {M} causam 20 pontos de dano a mais ao Pokémon Ativo do seu oponente (antes de aplicar Fraqueza e Resistência).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Garra de Metal",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianMeowth",
+        "hp": 120,
+        "id": "promo_swsh-8",
+        "name": "Perrserker de Galar",
+        "number": "8",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Quebrar o Galho",
+            "text": "Você deve descartar 1 carta da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 2 cartas.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Socorro de Energia",
+                "text": "Ligue 1 carta de Energia básica da sua pilha de descarte a 1 dos seus Pokémon no Banco."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Minccino",
+        "hp": 90,
+        "id": "promo_swsh-9",
+        "name": "Cinccino",
+        "number": "9",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Canção",
+                "text": "O Pokémon Ativo do seu oponente agora está Adormecido."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "promo_swsh-10",
+        "name": "Gossifleur",
+        "number": "10",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Espiral de Defesa",
+                "text": "Jogue 1 moeda. Se sair cara, previna todo o dano causado a este Pokémon por ataques durante o próximo turno do seu oponente."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Cabeçada",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-11",
+        "name": "Wooloo",
+        "number": "11",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Trovoada de Choques",
+                "text": "Jogue 1 moeda. Se sair cara, o Pokémon Ativo do seu oponente será Paralisado."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "promo_swsh-12",
+        "name": "Morpeko",
+        "number": "12",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Pulso da Cura",
+                "text": "Cure 30 pontos de dano de 1 dos seus Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Baque",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "promo_swsh-13",
+        "name": "Ponyta de Galar",
+        "number": "13",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
     }
 ]

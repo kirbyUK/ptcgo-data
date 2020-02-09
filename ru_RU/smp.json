@@ -895,7 +895,7 @@
         "evolvesFrom": "Mudbray",
         "hp": 140,
         "id": "smp-SM20",
-        "name": "Mudsdale",
+        "name": "Мадсдэйл",
         "number": "SM20",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -3640,7 +3640,7 @@
         "evolvesFrom": "Salandit",
         "hp": 110,
         "id": "smp-SM73",
-        "name": "Salazzle",
+        "name": "Салаззл",
         "number": "SM73",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -5690,7 +5690,7 @@
                     "Lightning"
                 ],
                 "damage": "",
-                "name": "Оглушительный Дождь-GX",
+                "name": "Оглушительный Дождь GX",
                 "text": "Эта атака наносит 100 пунктов урона каждому из Покемонов твоего противника, к которому присоединена любая Энергия. (Не применяй слабость и устойчивость к запасным Покемонам). (Нельзя использовать больше 1 атаки GX в игре)."
             }
         ],
@@ -7380,7 +7380,7 @@
         "evolvesFrom": "",
         "hp": 60,
         "id": "smp-SM154",
-        "name": "Salandit",
+        "name": "Саландит",
         "number": "SM154",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -11427,6 +11427,61 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Шипованный Щит",
+            "text": "Если этот Покемон является твоим активным Покемоном и если он получил урон при атаке противника (даже в том случае, если он выбит из игры), атакующий Покемон получает 3 фишки урона.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Морозное Дыхание",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Шипованный Шторм GX",
+                "text": "Эта атака наносит 100 пунктов урона каждому из Покемонов твоего противника, на котором уже есть фишки урона. (Не применяй слабость и устойчивость к запасным Покемонам). (Нельзя использовать больше 1 атаки GX в игре)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AlolanSandshrew",
+        "hp": 200,
+        "id": "smp-SM236",
+        "name": "Alolan Sandslash-GX",
+        "number": "SM236",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ]

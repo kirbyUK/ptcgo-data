@@ -6544,7 +6544,7 @@
                     "Colorless"
                 ],
                 "damage": "180",
-                "name": "Bermellón-GX",
+                "name": "Bermellón GX",
                 "text": "Puedes unir hasta 5 cartas de Energía {R} de tu mano a tus Pokémon de la manera que desees. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -6605,7 +6605,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Furia Fulgor-GX",
+                "name": "Furia Fulgor GX",
                 "text": "El daño de este ataque no se ve afectado por ningún efecto en el Pokémon Activo de tu rival. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -6667,7 +6667,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Jet de Fuego-GX",
+                "name": "Jet de Fuego GX",
                 "text": "Este ataque hace 120 puntos de daño a 1 de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -6773,7 +6773,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Estrella Dragón-GX",
+                "name": "Estrella Dragón GX",
                 "text": "El Pokémon Activo de tu rival pasa a estar Paralizado y Quemado. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -7426,7 +7426,7 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Vorágine-GX",
+                "name": "Vorágine GX",
                 "text": "Este ataque hace 40 puntos de daño a cada uno de los Pokémon de tu rival. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -7486,7 +7486,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Portadragones-GX",
+                "name": "Portadragones GX",
                 "text": "Pon 3 Pokémon {N} de tu pila de descartes en tu Banca. (No puedes usar más de 1 ataque GX en una partida)."
             }
         ],
@@ -11427,6 +11427,61 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Barrera Espinosa",
+            "text": "Si este Pokémon es tu Pokémon Activo y resulta dañado por un ataque de tu rival (incluso si este Pokémon queda Fuera de Combate), pon 3 contadores de daño en el Pokémon Atacante.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Vaho Gélido",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tormenta Espinosa GX",
+                "text": "Este ataque hace 100 puntos de daño a cada uno de los Pokémon de tu rival que tenga algún contador de daño sobre él. (No apliques Debilidad y Resistencia a los Pokémon en Banca). (No puedes usar más de 1 ataque GX en una partida)."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AlolanSandshrew",
+        "hp": 200,
+        "id": "smp-SM236",
+        "name": "Sandslash de Alola-GX",
+        "number": "SM236",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ]

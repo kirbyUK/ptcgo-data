@@ -5014,7 +5014,7 @@
                     "Psychic"
                 ],
                 "damage": "180",
-                "name": "Éclipse Lunaire-GX",
+                "name": "Éclipse Lunaire GX",
                 "text": "Vous pouvez utiliser cette attaque seulement s’il vous reste plus de cartes Récompense que votre adversaire. Évitez tous les effets d’attaques, y compris les dégâts, infligés à ce Pokémon pendant le prochain tour de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -5081,7 +5081,7 @@
                     "Metal"
                 ],
                 "damage": "250",
-                "name": "Éclipse Solaire-GX",
+                "name": "Éclipse Solaire GX",
                 "text": "Vous pouvez utiliser cette attaque seulement s’il vous reste plus de cartes Récompense que votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -5966,7 +5966,7 @@
                     "Psychic"
                 ],
                 "damage": "",
-                "name": "Lumière Apocalyptique-GX",
+                "name": "Lumière Apocalyptique GX",
                 "text": "Vous ne pouvez utiliser cette attaque que s’il reste un total de 6 cartes Récompense ou moins aux deux joueurs. Placez 6 marqueurs de dégâts sur chacun des Pokémon de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -6544,7 +6544,7 @@
                     "Colorless"
                 ],
                 "damage": "180",
-                "name": "Vermillon-GX",
+                "name": "Vermillon GX",
                 "text": "Vous pouvez attacher jusqu’à 5 cartes Énergie {R} de votre main à vos Pokémon, de la manière que vous voulez. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -6605,7 +6605,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Éclair Saccageur-GX",
+                "name": "Éclair Saccageur GX",
                 "text": "Les dégâts de cette attaque ne sont affectés par aucun effet en action sur le Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -6667,7 +6667,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Jet de Flamme-GX",
+                "name": "Jet de Flamme GX",
                 "text": "Cette attaque inflige 120 dégâts à l’un des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -6773,7 +6773,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Nova Dragon-GX",
+                "name": "Nova Dragon GX",
                 "text": "Le Pokémon Actif de votre adversaire est maintenant Brûlé et Paralysé. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -7037,7 +7037,7 @@
                     "Grass"
                 ],
                 "damage": "",
-                "name": "Efflorescence-GX",
+                "name": "Efflorescence GX",
                 "text": "Pour chacun de vos Pokémon de Banc de base, cherchez dans votre deck une carte Évolution de ce Pokémon et placez-la sur ce Pokémon pour le faire évoluer. Mélangez ensuite votre deck. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -7092,7 +7092,7 @@
                     "Colorless"
                 ],
                 "damage": "50x",
-                "name": "Lance Polaire-GX",
+                "name": "Lance Polaire GX",
                 "text": "Cette attaque inflige 50 dégâts pour chaque marqueur de dégâts placé sur le Pokémon Actif de votre adversaire. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -7426,7 +7426,7 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Maelström-GX",
+                "name": "Maelström GX",
                 "text": "Cette attaque inflige 40 dégâts à chacun des Pokémon de votre adversaire. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -7486,7 +7486,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Dracoporteur-GX",
+                "name": "Dracoporteur GX",
                 "text": "Placez 3 Pokémon {N} de votre pile de défausse sur votre Banc. (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
             }
         ],
@@ -11427,6 +11427,61 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Pico-Défense",
+            "text": "Si ce Pokémon est votre Pokémon Actif et qu'il subit les dégâts d'une attaque de votre adversaire (même si ce Pokémon est mis K.O.), placez 3 marqueurs de dégâts sur le Pokémon Attaquant.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Souffle Glacé",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tempête Piquante GX",
+                "text": "Cette attaque inflige 100 dégâts à chacun des Pokémon de votre adversaire ayant au moins un marqueur de dégâts. (N’appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.) (Vous ne pouvez utiliser qu’une attaque GX par partie.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AlolanSandshrew",
+        "hp": 200,
+        "id": "smp-SM236",
+        "name": "Sablaireau d’Alola-GX",
+        "number": "SM236",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ]

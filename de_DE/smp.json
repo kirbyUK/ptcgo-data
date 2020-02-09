@@ -6544,7 +6544,7 @@
                     "Colorless"
                 ],
                 "damage": "180",
-                "name": "Zinnober-GX",
+                "name": "Zinnober GX",
                 "text": "Du kannst bis zu 5 {R}-Energiekarten aus deiner Hand beliebig an deine Pokémon anlegen. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
@@ -6667,7 +6667,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Flammenstrahl-GX",
+                "name": "Flammenstrahl GX",
                 "text": "Diese Attacke fügt 1 Pokémon deines Gegners 120 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
@@ -6773,7 +6773,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Drachen Nova-GX",
+                "name": "Drachen Nova GX",
                 "text": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt und paralysiert. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
@@ -7426,7 +7426,7 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Mahlstrom-GX",
+                "name": "Mahlstrom GX",
                 "text": "Diese Attacke fügt jedem Pokémon deines Gegners 40 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
@@ -7486,7 +7486,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Drachenträger-GX",
+                "name": "Drachenträger GX",
                 "text": "Lege 3 {N}-Pokémon aus deinem Ablagestapel auf deine Bank. (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
             }
         ],
@@ -11427,6 +11427,61 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Schutzstacheln",
+            "text": "Wenn dieses Pokémon dein Aktives Pokémon ist und durch einen gegnerischen Angriff Schaden erhält (auch wenn dieses Pokémon dadurch kampfunfähig wird), lege 3 Schadensmarken auf das Angreifende Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Eisesodem",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stachel-Offensive GX",
+                "text": "Diese Attacke fügt jedem Pokémon deines Gegners, auf dem mindestens 1 Schadensmarke liegt, 100 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.) (Du kannst pro Spiel nur 1 GX-Attacke einsetzen.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AlolanSandshrew",
+        "hp": 200,
+        "id": "smp-SM236",
+        "name": "Alola-Sandamer-GX",
+        "number": "SM236",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ]

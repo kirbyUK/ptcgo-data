@@ -6544,7 +6544,7 @@
                     "Colorless"
                 ],
                 "damage": "180",
-                "name": "Vermelhão-GX",
+                "name": "Vermelhão GX",
                 "text": "Você pode ligar até 5 cartas de Energia {R} da sua mão aos seus Pokémon como desejar (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -6667,7 +6667,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Jato de Chamas-GX",
+                "name": "Jato de Chamas GX",
                 "text": "Este ataque causa 120 pontos de dano a 1 dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco). (Você não pode usar mais de 1 ataque GX por partida.)"
             }
         ],
@@ -6773,7 +6773,7 @@
                     "Colorless"
                 ],
                 "damage": "200",
-                "name": "Supernova do Dragão-GX",
+                "name": "Supernova do Dragão GX",
                 "text": "O Pokémon Ativo do seu oponente agora está Paralisado e Queimado (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -7426,7 +7426,7 @@
                     "Water"
                 ],
                 "damage": "",
-                "name": "Turbilhão-GX",
+                "name": "Turbilhão GX",
                 "text": "Este ataque causa 40 pontos de dano a cada um dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco). (Você não pode usar mais de 1 ataque GX por partida.)"
             }
         ],
@@ -7486,7 +7486,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Dragoportal-GX",
+                "name": "Dragoportal GX",
                 "text": "Coloque 3 Pokémon {N} da sua pilha de descarte no seu Banco (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -8398,7 +8398,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-GX",
+                "name": "Motivo de Alegria GX",
                 "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -8450,7 +8450,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-GX",
+                "name": "Motivo de Alegria GX",
                 "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -8502,7 +8502,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-GX",
+                "name": "Motivo de Alegria GX",
                 "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -11315,7 +11315,7 @@
                     "Colorless"
                 ],
                 "damage": "",
-                "name": "Motivo de Alegria-GX",
+                "name": "Motivo de Alegria GX",
                 "text": "Coloque 3 cartas da sua pilha de descarte na sua mão (você não pode usar mais de 1 ataque GX por partida)."
             }
         ],
@@ -11427,6 +11427,61 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Escudo Espinhoso",
+            "text": "Se este Pokémon for seu Pokémon Ativo e ele for danificado pelo ataque de um oponente (mesmo se esse Pokémon for Nocauteado), coloque 3 contadores de danos no Pokémon Atacante.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Respiração de Gelo",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tempestade Espinhosa GX",
+                "text": "Este ataque causa 100 pontos de dano a cada um dos Pokémon do seu oponente que tiver algum contador de dano nele (não aplique Fraqueza e Resistência aos Pokémon no Banco). (Você não pode usar mais de 1 ataque GX por partida.)"
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "AlolanSandshrew",
+        "hp": 200,
+        "id": "smp-SM236",
+        "name": "Sandslash de Alola-GX",
+        "number": "SM236",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
                 "value": "×2"
             }
         ]
