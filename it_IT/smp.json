@@ -8399,7 +8399,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8451,7 +8451,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -8503,7 +8503,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -11316,7 +11316,7 @@
                 ],
                 "damage": "",
                 "name": "Portatore di Gioia GX",
-                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile a quelle che hai in mano. Non puoi usare più di un attacco GX a partita."
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
             }
         ],
         "convertedRetreatCost": 1,
@@ -11482,6 +11482,367 @@
         "weaknesses": [
             {
                 "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "",
+                "name": "Curessenza",
+                "text": "Cura uno dei tuoi Pokémon in panchina da tutti i danni."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Fendifoglia",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Eevee",
+        "hp": 110,
+        "id": "smp-SM237",
+        "name": "Leafeon",
+        "number": "SM237",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Mantelneve",
+                "text": "Lancia una moneta. Se esce testa, previeni tutti gli effetti degli attacchi, inclusi i danni, inflitti a questo Pokémon durante il prossimo turno del tuo avversario."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Bufera Ipnotica",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato. Questo attacco infligge 20 danni a ciascun Pokémon nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Eevee",
+        "hp": 110,
+        "id": "smp-SM238",
+        "name": "Glaceon",
+        "number": "SM238",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Corazza Dura",
+            "text": "Se questo Pokémon ha tutti i PS, i danni inflitti a questo Pokémon da un attacco del tuo avversario sono ridotti di 50, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "160",
+                "name": "Sfasciaterra",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Età della Pietra GX",
+                "text": "Prendi un numero qualsiasi di Pokémon che si evolvono da Fossile Sconosciuto dalla tua pila degli scarti e mettili nella tua panchina. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Tirtouga",
+        "hp": 250,
+        "id": "smp-SM239",
+        "name": "Carracosta-GX",
+        "number": "SM239",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Club delle Menti",
+                "text": "Questo attacco infligge 30 danni in più per ogni Pokémon {P} nella tua panchina."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Distribuzione Incrociata GX",
+                "text": "Distribuisci a piacimento 10 segnalini danno sui Pokémon del tuo avversario. Se questo Pokémon ha almeno tre Energie extra assegnate, in aggiunta a quelle del costo di questo attacco, invece distribuiscine 20. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 260,
+        "id": "smp-SM240",
+        "name": "Espeon e Deoxys-GX",
+        "number": "SM240",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Lancia Oscura",
+                "text": "Questo attacco infligge 60 danni a uno dei Pokémon-GX o dei Pokémon-EX nella panchina del tuo avversario. Ricorda che non puoi applicare debolezza e resistenza ai Pokémon in panchina."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Oscurità Lunare GX",
+                "text": "Il tuo avversario non può giocare le carte Allenatore che ha in mano durante il suo prossimo turno. Se questo Pokémon ha almeno cinque Energie {D} extra assegnate, in aggiunta a quelle del costo di questo attacco, il Pokémon attivo del tuo avversario viene messo KO. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 270,
+        "id": "smp-SM241",
+        "name": "Umbreon e Darkrai-GX",
+        "number": "SM241",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Psychic",
+                "value": "-20"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ascensione DNA",
+            "text": "Una sola volta durante il tuo turno, prima di attaccare, se hai in mano una carta che si evolve da Eevee, puoi mettercela sopra per farlo evolvere. Prima dell’evoluzione, cura questo Pokémon da tutti i danni. Non puoi usare questa abilità durante il tuo primo turno o durante il turno in cui questo Pokémon è stato messo in gioco.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Scatto Caricato",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Portatore di Gioia GX",
+                "text": "Prendi tre carte dalla tua pila degli scarti e aggiungile alle carte che hai in mano. Non puoi usare più di un attacco GX a partita."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 160,
+        "id": "smp-SM242",
+        "name": "Eevee-GX",
+        "number": "SM242",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Martello",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Fighting",
+                    "Metal",
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Bomba Regi",
+                "text": "Scarta la prima carta del mazzo del tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 150,
+        "id": "smp-SM243",
+        "name": "Regigigas",
+        "number": "SM243",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "smp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]
