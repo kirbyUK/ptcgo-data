@@ -1316,15 +1316,6 @@
     {
         "attacks": [
             {
-                "convertedEnergyCost": 1,
-                "cost": [
-                    "Colorless"
-                ],
-                "damage": "10",
-                "name": "Tackle",
-                "text": ""
-            },
-            {
                 "convertedEnergyCost": 2,
                 "cost": [
                     "Fire",
@@ -1332,6 +1323,15 @@
                 ],
                 "damage": "20",
                 "name": "Flare",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Tackle",
                 "text": ""
             }
         ],
@@ -2418,8 +2418,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Shady Dealings",
+            "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
             "type": "Ability"
         },
         "attacks": [
@@ -2506,8 +2506,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Shady Dealings",
+            "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck.",
             "type": "Ability"
         },
         "attacks": [
@@ -3527,7 +3527,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3548,8 +3548,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Pastel Veil",
+            "text": "Your Pokémon recover from all Special Conditions and can't be affected by any Special Conditions.",
             "type": "Ability"
         },
         "attacks": [
@@ -3574,7 +3574,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3615,7 +3615,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3666,7 +3666,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3714,7 +3714,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3767,7 +3767,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3820,7 +3820,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3871,7 +3871,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3914,7 +3914,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3965,7 +3965,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4013,7 +4013,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4846,8 +4846,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Sand Sac",
+            "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
             "type": "Ability"
         },
         "attacks": [
@@ -5149,8 +5149,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Headbutt Tantrum",
+            "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may put 1 damage counter on 1 of your opponent’s Pokémon.",
             "type": "Ability"
         },
         "attacks": [
@@ -5239,8 +5239,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Untamed Shout",
+            "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 3 damage counters on 1 of your opponent’s Pokémon.",
             "type": "Ability"
         },
         "attacks": [
@@ -5475,8 +5475,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "More Poison",
+            "text": "Put 2 more damage counters on your opponent’s Poisoned Pokémon during Pokémon Checkup.",
             "type": "Ability"
         },
         "attacks": [
@@ -5631,7 +5631,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5652,7 +5652,7 @@
     },
     {
         "ability": {
-            "name": "",
+            "name": "Steely Spirit",
             "text": "Your {M} Pokémon's attacks do 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
             "type": "Ability"
         },
@@ -5679,7 +5679,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5731,7 +5731,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5772,7 +5772,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5825,7 +5825,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5873,7 +5873,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5925,7 +5925,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5976,7 +5976,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6029,7 +6029,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6072,7 +6072,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6127,7 +6127,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6178,7 +6178,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6200,8 +6200,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Dauntless Shield",
+            "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
             "type": "Ability"
         },
         "attacks": [
@@ -6227,7 +6227,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6426,7 +6426,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6479,7 +6479,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6735,7 +6735,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6786,7 +6786,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6970,7 +6970,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7262,7 +7262,7 @@
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Discard your hand and draw 7 cards."
         ]
     },
     {
@@ -7592,7 +7592,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7642,7 +7642,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7787,7 +7787,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7809,8 +7809,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Dauntless Shield",
+            "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
             "type": "Ability"
         },
         "attacks": [
@@ -7836,7 +7836,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7942,7 +7942,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7994,7 +7994,7 @@
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Discard your hand and draw 7 cards."
         ]
     },
     {
@@ -8210,7 +8210,7 @@
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Discard your hand and draw 7 cards."
         ]
     },
     {
@@ -8254,7 +8254,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -8276,8 +8276,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Dauntless Shield",
+            "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
             "type": "Ability"
         },
         "attacks": [
@@ -8303,7 +8303,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [

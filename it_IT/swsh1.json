@@ -1316,15 +1316,6 @@
     {
         "attacks": [
             {
-                "convertedEnergyCost": 1,
-                "cost": [
-                    "Colorless"
-                ],
-                "damage": "10",
-                "name": "Azione",
-                "text": ""
-            },
-            {
                 "convertedEnergyCost": 2,
                 "cost": [
                     "Fire",
@@ -1332,6 +1323,15 @@
                 ],
                 "damage": "20",
                 "name": "Fiammata",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Azione",
                 "text": ""
             }
         ],
@@ -2418,8 +2418,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Trama Sospetta",
+            "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi cercare nel tuo mazzo fino a due carte Allenatore, mostrarle e aggiungerle a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
             "type": "Ability"
         },
         "attacks": [
@@ -2506,8 +2506,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Trama Sospetta",
+            "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi cercare nel tuo mazzo fino a due carte Allenatore, mostrarle e aggiungerle a quelle che hai in mano. Poi rimischia le carte del tuo mazzo.",
             "type": "Ability"
         },
         "attacks": [
@@ -3527,7 +3527,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3548,8 +3548,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Pastelvelo",
+            "text": "I tuoi Pokémon guariscono da tutte le condizioni speciali e non possono esserne influenzati.",
             "type": "Ability"
         },
         "attacks": [
@@ -3574,7 +3574,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3615,7 +3615,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3666,7 +3666,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3714,7 +3714,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3767,7 +3767,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3820,7 +3820,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3871,7 +3871,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3914,7 +3914,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -3965,7 +3965,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4013,7 +4013,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -4846,8 +4846,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Sacca Silicea",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
             "type": "Ability"
         },
         "attacks": [
@@ -5149,8 +5149,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Bottintesta Collerico",
+            "text": "Quando giochi questo Pokémon dalla tua mano e lo metti in panchina durante il tuo turno, puoi mettere un segnalino danno su uno dei Pokémon del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -5239,8 +5239,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Squarciagola",
+            "text": "Quando giochi questo Pokémon dalla tua mano per far evolvere uno dei tuoi Pokémon durante il tuo turno, puoi mettere tre segnalini danno su uno dei Pokémon del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -5475,8 +5475,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Più Veleno",
+            "text": "Metti altri due segnalini danno sui Pokémon avvelenati del tuo avversario durante il controllo Pokémon.",
             "type": "Ability"
         },
         "attacks": [
@@ -5631,7 +5631,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5652,7 +5652,7 @@
     },
     {
         "ability": {
-            "name": "",
+            "name": "Spiritoferreo",
             "text": "Gli attacchi dei tuoi Pokémon {M} infliggono 20 danni in più al Pokémon attivo del tuo avversario, prima di aver applicato debolezza e resistenza.",
             "type": "Ability"
         },
@@ -5679,7 +5679,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5731,7 +5731,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5772,7 +5772,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5825,7 +5825,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5873,7 +5873,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5925,7 +5925,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -5976,7 +5976,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6029,7 +6029,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6072,7 +6072,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6127,7 +6127,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6178,7 +6178,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6200,8 +6200,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Scudo Saldo",
+            "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-VMAX del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -6227,7 +6227,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6426,7 +6426,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6479,7 +6479,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6735,7 +6735,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6786,7 +6786,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -6970,7 +6970,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7255,14 +7255,14 @@
     },
     {
         "id": "swsh1-178",
-        "name": "Ricerca Accademica (Prof.ssa Flora)",
+        "name": "Ricerca Accademica",
         "number": "178",
         "rarity": "Rare Holo",
         "setCode": "swsh1",
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Scarta le carte che hai in mano e pesca sette carte."
         ]
     },
     {
@@ -7592,7 +7592,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7642,7 +7642,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7787,7 +7787,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7809,8 +7809,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Scudo Saldo",
+            "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-VMAX del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -7836,7 +7836,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7942,7 +7942,7 @@
         "resistances": [
             {
                 "type": "Fighting",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -7987,14 +7987,14 @@
     },
     {
         "id": "swsh1-201",
-        "name": "Ricerca Accademica (Prof.ssa Flora)",
+        "name": "Ricerca Accademica",
         "number": "201",
         "rarity": "Rare Ultra",
         "setCode": "swsh1",
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Scarta le carte che hai in mano e pesca sette carte."
         ]
     },
     {
@@ -8203,14 +8203,14 @@
     },
     {
         "id": "swsh1-209",
-        "name": "Ricerca Accademica (Prof.ssa Flora)",
+        "name": "Ricerca Accademica",
         "number": "209",
         "rarity": "Rare Secret",
         "setCode": "swsh1",
         "subtype": "Supporter",
         "supertype": "Trainer",
         "text": [
-            ""
+            "Scarta le carte che hai in mano e pesca sette carte."
         ]
     },
     {
@@ -8254,7 +8254,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
@@ -8276,8 +8276,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Scudo Saldo",
+            "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-VMAX del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -8303,7 +8303,7 @@
         "resistances": [
             {
                 "type": "Grass",
-                "value": "-20"
+                "value": "-30"
             }
         ],
         "retreatCost": [
