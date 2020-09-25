@@ -1,0 +1,2873 @@
+[
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Bomba di Polline",
+                "text": "Il Pokémon attivo del tuo avversario viene addormentato e avvelenato."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Tifone Solare",
+                "text": "Durante il tuo prossimo turno, questo Pokémon non può usare Tifone Solare."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "cp-1",
+        "name": "Venusaur-V",
+        "number": "1",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cerca Famiglia",
+                "text": "Cerca nel tuo mazzo un Pokémon Base e mettilo nella tua panchina. Poi rimischia le carte del tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-2",
+        "name": "Weedle",
+        "number": "2",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Coleomorso",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Weedle",
+        "hp": 80,
+        "id": "cp-3",
+        "name": "Kakuna",
+        "number": "3",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "80",
+                "name": "Velenpuntura",
+                "text": "Il Pokémon attivo del tuo avversario viene avvelenato."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Kakuna",
+        "hp": 140,
+        "id": "cp-4",
+        "name": "Beedrill",
+        "number": "4",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Intesa Vincente",
+            "text": "Quando giochi questo Pokémon dalla tua mano e lo metti in panchina durante il tuo turno, puoi prendere una carta Aiuto dalla tua pila degli scarti e aggiungerla alle carte che hai in mano.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Sospensione",
+                "text": "Puoi rimischiare questo Pokémon e tutte le carte a esso assegnate nel tuo mazzo."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "cp-5",
+        "name": "Eldegoss-V",
+        "number": "5",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Rosicchiamento",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Scottata",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-6",
+        "name": "Vulpix",
+        "number": "6",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Pescalesto",
+                "text": "Pesca una carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Fuoco Continuo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-7",
+        "name": "Victini",
+        "number": "7",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Megafiammata",
+                "text": "Assegna a uno dei tuoi Pokémon in panchina fino a due carte Energia {R} dalla tua pila degli scarti."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Fuocoincursione",
+                "text": "Questo Pokémon infligge anche 30 danni a se stesso."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "cp-8",
+        "name": "Incineroar-V",
+        "number": "8",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Morso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Fuoco Continuo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-9",
+        "name": "Sizzlipede",
+        "number": "9",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Fiamme Ustionanti",
+                "text": "Il Pokémon attivo del tuo avversario viene bruciato."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "140",
+                "name": "Arrampicalore",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Sizzlipede",
+        "hp": 130,
+        "id": "cp-10",
+        "name": "Centiskorch",
+        "number": "10",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Morso",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-11",
+        "name": "Carvanha",
+        "number": "11",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "50",
+                "name": "Acquagetto",
+                "text": "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Carvanha",
+        "hp": 110,
+        "id": "cp-12",
+        "name": "Sharpedo",
+        "number": "12",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Pesca Alta",
+                "text": "Assegna a questo Pokémon fino a tre carte Energia {W} dalla tua pila degli scarti."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "120x",
+                "name": "Onde Oceaniche",
+                "text": "Lancia tre volte una moneta. Questo attacco infligge 120 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 280,
+        "id": "cp-13",
+        "name": "Wailord-V",
+        "number": "13",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guscio Solido",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Morso Potente",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-14",
+        "name": "Drednaw-V",
+        "number": "14",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guscio Solido",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "160+",
+                "name": "Gigabottintesta",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 80 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "DrednawV",
+        "hp": 320,
+        "id": "cp-15",
+        "name": "Drednaw-VMAX",
+        "number": "15",
+        "rarity": "RareHoloVMAX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Magicolpo",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Pulsazioni Amplificate",
+                "text": "Se questo Pokémon è stato curato durante questo turno, questo attacco infligge 80 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-16",
+        "name": "Gardevoir-V",
+        "number": "16",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Dynacura",
+                "text": "Cura questo Pokémon da 50 danni."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GardevoirV",
+        "hp": 320,
+        "id": "cp-17",
+        "name": "Gardevoir-VMAX",
+        "number": "17",
+        "rarity": "RareHoloVMAX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "10",
+                "name": "Fuggi Fuggi",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Magicolpo",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-18",
+        "name": "Hatenna",
+        "number": "18",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "20",
+                "name": "Battuta",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Superpsico",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Hatenna",
+        "hp": 90,
+        "id": "cp-19",
+        "name": "Hattrem",
+        "number": "19",
+        "rarity": "Uncommon",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Sensore di Pericolo",
+            "text": "Se questo Pokémon è in posizione attiva e viene danneggiato da un attacco di un Pokémon del tuo avversario, anche se viene messo KO,il Pokémon attaccante viene confuso.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Aspiravita",
+                "text": "Cura questo Pokémon da 30 danni."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Hattrem",
+        "hp": 150,
+        "id": "cp-20",
+        "name": "Hatterene",
+        "number": "20",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Aura Assillante",
+            "text": "Fintanto che questo Pokémon è in posizione attiva, ogni volta che il tuo avversario assegna a uno dei suoi Pokémon una carta Energia dalla sua mano, metti tre segnalini danno su quel Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Missile Vacuo",
+                "text": "Metti tre segnalini danno sui Pokémon nella panchina del tuo avversario nel modo che preferisci."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "cp-21",
+        "name": "Cursola di Galar-V",
+        "number": "21",
+        "rarity": "RareHoloV",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Praline Dolci",
+                "text": "Cura ciascuno dei tuoi Pokémon in panchina da 30 danni."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Dolcesplash",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare se è un Pokémon Base."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 170,
+        "id": "cp-22",
+        "name": "Alcremie-V",
+        "number": "22",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Ornamento",
+                "text": "Cerca nel tuo mazzo una carta Energia {P} per ogni Pokémon nella tua panchina e assegnala a quel Pokémon. Poi rimischia le carte del tuo mazzo."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "60x",
+                "name": "Gigafrusta",
+                "text": "Scarta tutte le Energie che vuoi dai tuoi Pokémon. Questo attacco infligge 60 danni per ogni carta che hai scartato in questo modo."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "AlcremieV",
+        "hp": 310,
+        "id": "cp-23",
+        "name": "Alcremie-VMAX",
+        "number": "23",
+        "rarity": "RareHoloVMAX",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Colpo Basso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Pugnosecco",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 40 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-24",
+        "name": "Machop",
+        "number": "24",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "30",
+                "name": "Colpo Basso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Legnata",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 70 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Machop",
+        "hp": 110,
+        "id": "cp-25",
+        "name": "Machoke",
+        "number": "25",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Vendetta Bellimbusto",
+                "text": "Questo attacco infligge 20 danni per ogni Pokémon {F} nella tua pila degli scarti."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Pugno Dinamite",
+                "text": "Questo Pokémon infligge anche 50 danni a se stesso."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Machoke",
+        "hp": 170,
+        "id": "cp-26",
+        "name": "Machamp",
+        "number": "26",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "40",
+                "name": "Forzasfera",
+                "text": "Questo attacco infligge anche 20 danni a uno dei Pokémon nella panchina del tuo avversario. Non applicare debolezza e resistenza ai Pokémon in panchina."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Batosta Devastante",
+                "text": "Durante il tuo prossimo turno, questo Pokémon non può usare Batosta Devastante."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-27",
+        "name": "Lucario-V",
+        "number": "27",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Morso",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Forzacolpo",
+                "text": "Scarta un’Energia {F} da questo Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "cp-28",
+        "name": "Zygarde",
+        "number": "28",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Tassa",
+                "text": "Pesca una carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Morso",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-29",
+        "name": "Rockruff",
+        "number": "29",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Sassata",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Lacerattacco",
+                "text": "Durante il tuo prossimo turno, questo Pokémon non può usare Lacerattacco."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Rockruff",
+        "hp": 120,
+        "id": "cp-30",
+        "name": "Lycanroc",
+        "number": "30",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Carica",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-31",
+        "name": "Rolycoly",
+        "number": "31",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Ben Stretto",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare se è un Pokémon Base."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Pressa Acrobatica",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 100 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-32",
+        "name": "Grapploct-V",
+        "number": "32",
+        "rarity": "RareHoloV",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Carica",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Schioccacoda",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-33",
+        "name": "Ekans",
+        "number": "33",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Zannaffilata",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Schioccacoda",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Ekans",
+        "hp": 120,
+        "id": "cp-34",
+        "name": "Arbok",
+        "number": "34",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Missilspillo",
+                "text": "Lancia quattro volte una moneta. Questo attacco infligge 10 danni ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-35",
+        "name": "Zigzagoon di Galar",
+        "number": "35",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Sdoppiatore",
+                "text": "Questo Pokémon infligge anche 20 danni a se stesso."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianZigzagoon",
+        "hp": 100,
+        "id": "cp-36",
+        "name": "Linoone di Galar",
+        "number": "36",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Leader Scellerato",
+            "text": "Una sola volta durante il tuo turno, puoi far scartare al tuo avversario delle carte che ha in mano fino a lasciarlo con quattro carte in mano.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Impatto Nocche",
+                "text": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianLinoone",
+        "hp": 170,
+        "id": "cp-37",
+        "name": "Obstagoon di Galar",
+        "number": "37",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Darkness"
+                ],
+                "damage": "70",
+                "name": "Oscurotaglio",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 100,
+        "id": "cp-38",
+        "name": "Absol",
+        "number": "38",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "10",
+                "name": "Scavazanne",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Bruciapelo",
+                "text": "Lancia una moneta. Se esce testa, il Pokémon attivo del tuo avversario viene paralizzato."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-39",
+        "name": "Purrloin",
+        "number": "39",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Scioltezza",
+            "text": "Questo Pokémon non può venire paralizzato.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Artigli Laceranti",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Purrloin",
+        "hp": 100,
+        "id": "cp-40",
+        "name": "Liepard",
+        "number": "40",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Fuggi Fuggi",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Carica",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-41",
+        "name": "Scraggy",
+        "number": "41",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "30",
+                "name": "Trappola",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90+",
+                "name": "Brutta Rissa",
+                "text": "Se hai giocato Ginepro dalla tua mano durante questo turno, questo attacco infligge 90 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Scraggy",
+        "hp": 120,
+        "id": "cp-42",
+        "name": "Scrafty",
+        "number": "42",
+        "rarity": "Rare Holo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Velenoshock",
+                "text": "Se il Pokémon attivo del tuo avversario è avvelenato, questo attacco infligge 50 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-43",
+        "name": "Trubbish",
+        "number": "43",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "10",
+                "name": "Azione",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20+",
+                "name": "Attacco alle Spalle",
+                "text": "Se il Pokémon attivo del tuo avversario è confuso, questo attacco infligge 50 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "cp-44",
+        "name": "Inkay",
+        "number": "44",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Ondamistero",
+                "text": "Il Pokémon attivo del tuo avversario viene confuso."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "80+",
+                "name": "Beccata Casuale",
+                "text": "Lancia due volte una moneta. Questo attacco infligge 40 danni in più ogni volta che esce testa."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Inkay",
+        "hp": 120,
+        "id": "cp-45",
+        "name": "Malamar",
+        "number": "45",
+        "rarity": "Uncommon",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Furtarello",
+                "text": "Pesca una carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Codasberla",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "cp-46",
+        "name": "Nickit",
+        "number": "46",
+        "rarity": "Common",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Patina Dura",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Pugnolashnikov",
+                "text": "Questo attacco infligge 40 danni in più per ogni Energia {M} assegnata a questo Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "cp-47",
+        "name": "Duraludon-V",
+        "number": "47",
+        "rarity": "RareHoloV",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "20",
+                "name": "Beccata",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 50,
+        "id": "cp-48",
+        "name": "Swablu",
+        "number": "48",
+        "rarity": "Common",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Amuleto Miracoloso",
+            "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-V e dei Pokémon-GX del tuo avversario.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Immersione Rapida",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Swablu",
+        "hp": 110,
+        "id": "cp-49",
+        "name": "Altaria",
+        "number": "49",
+        "rarity": "Rare Holo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "cp-50",
+        "name": "Beet",
+        "number": "50",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Assegna a uno dei tuoi Pokémon in panchina una carta Energia base dalla tua mano."
+        ]
+    },
+    {
+        "id": "cp-51",
+        "name": "Recupero Totale",
+        "number": "51",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Rimuovi tutte le Condizioni Speciali dal tuo Pokémon Attivo."
+        ]
+    },
+    {
+        "id": "cp-52",
+        "name": "Mega Ball",
+        "number": "52",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Guarda le prime sette carte del tuo mazzo. Puoi mostrare un Pokémon presente tra esse e aggiungerlo alle carte che hai in mano. Poi rimischia le altre carte nel tuo mazzo."
+        ]
+    },
+    {
+        "id": "cp-53",
+        "name": "Hop",
+        "number": "53",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Pesca tre carte."
+        ]
+    },
+    {
+        "id": "cp-54",
+        "name": "Iperpozione",
+        "number": "54",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cura uno dei tuoi Pokémon che ha almeno due Energie assegnate da 120 danni. Se hai curato dei danni in questo modo, scarta due Energie da quel Pokémon."
+        ]
+    },
+    {
+        "id": "cp-55",
+        "name": "Kabu",
+        "number": "55",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca quattro carte. Se il tuo Pokémon attivo è il tuo unico Pokémon in gioco, invece pescane otto."
+        ]
+    },
+    {
+        "id": "cp-56",
+        "name": "Mary",
+        "number": "56",
+        "rarity": "Rare Holo",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Ciascun giocatore rimischia le carte che ha in mano e le mette in fondo al proprio mazzo. Se almeno un giocatore ha messo delle carte in fondo al proprio mazzo in questo modo, tu peschi cinque carte e il tuo avversario ne pesca quattro."
+        ]
+    },
+    {
+        "id": "cp-57",
+        "name": "Yarrow",
+        "number": "57",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Scarta fino a due carte che hai in mano e pesca due carte per ogni carta che hai scartato in questo modo."
+        ]
+    },
+    {
+        "id": "cp-58",
+        "name": "Ginepro",
+        "number": "58",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Cerca nel tuo mazzo una carta Energia e un Pokémon Darkness, mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ]
+    },
+    {
+        "id": "cp-59",
+        "name": "Poké Ball",
+        "number": "59",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Lancia una moneta. Se esce testa, cerca nel tuo mazzo un Pokémon, mostralo al tuo avversario e aggiungilo alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ]
+    },
+    {
+        "id": "cp-60",
+        "name": "Addetta del Centro Pokémon",
+        "number": "60",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Cura uno dei tuoi Pokémon da 60 danni. Quel Pokémon guarisce da tutte le condizioni speciali."
+        ]
+    },
+    {
+        "id": "cp-61",
+        "name": "Pozione",
+        "number": "61",
+        "rarity": "Common",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cura uno dei tuoi Pokémon da 30 danni."
+        ]
+    },
+    {
+        "id": "cp-62",
+        "name": "Ricerca Accademica",
+        "number": "62",
+        "rarity": "Rare Holo",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Scarta le carte che hai in mano e pesca sette carte."
+        ]
+    },
+    {
+        "id": "cp-63",
+        "name": "Bici Rotom",
+        "number": "63",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Pesca fino ad avere sei carte in mano. Il tuo turno finisce."
+        ]
+    },
+    {
+        "id": "cp-64",
+        "name": "Smart Rotom",
+        "number": "64",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Guarda le prime cinque carte del tuo mazzo, scegline una e rimischia le altre carte nel tuo mazzo. Poi metti la carta che hai scelto in cima al tuo mazzo."
+        ]
+    },
+    {
+        "id": "cp-65",
+        "name": "Sonia",
+        "number": "65",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Cerca nel tuo mazzo fino a due Pokémon Base o due carte Energia base, mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ]
+    },
+    {
+        "id": "cp-66",
+        "name": "Cibo in Scatola Sospetto",
+        "number": "66",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cura uno dei tuoi Pokémon che ha almeno un’Energia Psychic assegnata da 80 danni. Se hai curato dei danni in questo modo, scarta un’Energia Psychic da quel Pokémon."
+        ]
+    },
+    {
+        "id": "cp-67",
+        "name": "Recluta del Team Yell",
+        "number": "67",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Prendi un’Energia assegnata a uno dei Pokémon del tuo avversario e aggiungila alle carte che ha in mano."
+        ]
+    },
+    {
+        "id": "cp-68",
+        "name": "Stadio di Turffield",
+        "number": "68",
+        "rarity": "Uncommon",
+        "setCode": "cp",
+        "subtype": "Stadium",
+        "supertype": "Trainer",
+        "text": [
+            "Una sola volta durante il turno di ciascun giocatore, quel giocatore può cercare nel suo mazzo un Pokémon Evoluzione Grass, mostrarlo e aggiungerlo alle carte che ha in mano. Poi quel giocatore rimischia le carte del suo mazzo."
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guscio Solido",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Morso Potente",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può ritirarsi."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-69",
+        "name": "Drednaw-V",
+        "number": "69",
+        "rarity": "Rare Ultra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Magicolpo",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Pulsazioni Amplificate",
+                "text": "Se questo Pokémon è stato curato durante questo turno, questo attacco infligge 80 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-70",
+        "name": "Gardevoir-V",
+        "number": "70",
+        "rarity": "Rare Ultra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Aura Assillante",
+            "text": "Fintanto che questo Pokémon è in posizione attiva, ogni volta che il tuo avversario assegna a uno dei suoi Pokémon una carta Energia dalla sua mano, metti tre segnalini danno su quel Pokémon.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Missile Vacuo",
+                "text": "Metti tre segnalini danno sui Pokémon nella panchina del tuo avversario nel modo che preferisci."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "cp-71",
+        "name": "Cursola di Galar-V",
+        "number": "71",
+        "rarity": "Rare Ultra",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "20",
+                "name": "Ben Stretto",
+                "text": "Durante il prossimo turno del tuo avversario, il Pokémon difensore non può attaccare se è un Pokémon Base."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Pressa Acrobatica",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 100 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "cp-72",
+        "name": "Grapploct-V",
+        "number": "72",
+        "rarity": "Rare Ultra",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "cp-73",
+        "name": "Hop",
+        "number": "73",
+        "rarity": "Rare Ultra",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Pesca tre carte."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Lacerartiglio",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "300",
+                "name": "Gigavampa",
+                "text": "Scarta due Energie da questo Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "CharizardV",
+        "hp": 330,
+        "id": "cp-74",
+        "name": "Charizard-VMAX",
+        "number": "74",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Guscio Solido",
+            "text": "Questo Pokémon subisce 30 danni in meno dagli attacchi, dopo aver applicato debolezza e resistenza.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "160+",
+                "name": "Gigabottintesta",
+                "text": "Lancia una moneta. Se esce testa, questo attacco infligge 80 danni in più."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "DrednawV",
+        "hp": 320,
+        "id": "cp-75",
+        "name": "Drednaw-VMAX",
+        "number": "75",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Dynacura",
+                "text": "Cura questo Pokémon da 50 danni."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GardevoirV",
+        "hp": 320,
+        "id": "cp-76",
+        "name": "Gardevoir-VMAX",
+        "number": "76",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "cp-77",
+        "name": "Kabu",
+        "number": "77",
+        "rarity": "Rare Secret",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Rimischia le carte che hai in mano nel tuo mazzo. Poi pesca quattro carte. Se il tuo Pokémon attivo è il tuo unico Pokémon in gioco, invece pescane otto."
+        ]
+    },
+    {
+        "id": "cp-78",
+        "name": "Ginepro",
+        "number": "78",
+        "rarity": "Rare Secret",
+        "setCode": "cp",
+        "subtype": "Supporter",
+        "supertype": "Trainer",
+        "text": [
+            "Cerca nel tuo mazzo una carta Energia e un Pokémon Darkness, mostrali e aggiungili alle carte che hai in mano. Poi rimischia le carte del tuo mazzo."
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Lacerartiglio",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Turbofuoco",
+                "text": "Scarta due Energie da questo Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "cp-79",
+        "name": "Charizard-V",
+        "number": "79",
+        "rarity": "Rare Secret",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "cp",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "id": "cp-80",
+        "name": "Cibo in Scatola Sospetto",
+        "number": "80",
+        "rarity": "Rare Secret",
+        "setCode": "cp",
+        "subtype": "Item",
+        "supertype": "Trainer",
+        "text": [
+            "Cura uno dei tuoi Pokémon che ha almeno un’Energia Psychic assegnata da 80 danni. Se hai curato dei danni in questo modo, scarta un’Energia Psychic da quel Pokémon."
+        ]
+    }
+]
