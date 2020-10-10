@@ -2096,6 +2096,436 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Flauschsegen",
+                "text": "Durchsuche dein Deck nach bis zu 3 {G}-Energiekarten und lege sie beliebig an die Pokémon auf deiner Bank an. Mische anschließend dein Deck."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Blattwerk",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Gossifleur",
+        "hp": 80,
+        "id": "promo_swsh-46",
+        "name": "Cottomi",
+        "number": "46",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Klammerbiss",
+                "text": "Diese Attacke fügt für jedes {C} in den Rückzugskosten des Aktiven Pokémon deines Gegners 30 Schadenspunkte mehr zu."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Fesselbiss",
+                "text": "Während des nächsten Zuges deines Gegners kann sich das Verteidigende Pokémon nicht zurückziehen."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Chewtle",
+        "hp": 130,
+        "id": "promo_swsh-47",
+        "name": "Kamalm",
+        "number": "47",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Hundertfußflammen",
+                "text": "Lege für jede an dieses Pokémon angelegte {R}-Energie die oberste Karte vom Deck deines Gegners auf seinen Ablagestapel."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Sengende Flammen",
+                "text": "Das Aktive Pokémon deines Gegners ist jetzt verbrannt."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Sizzlipede",
+        "hp": 130,
+        "id": "promo_swsh-48",
+        "name": "Infernopod",
+        "number": "48",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Weiche Wolle",
+            "text": "Diesem Pokémon werden durch Attacken 30 Schadenspunkte weniger zugefügt (nachdem Schwäche und Resistenz verrechnet wurden).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Rachestoß",
+                "text": "Diese Attacke fügt für jede der von deinem Gegner genommenen Preiskarten 30 Schadenspunkte mehr zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-49",
+        "name": "Zwollock-V",
+        "number": "49",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Klauenschlitzer",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Feuerwirbel",
+                "text": "Lege 2 Energien von diesem Pokémon auf deinen Ablagestapel."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-50",
+        "name": "Glurak-V",
+        "number": "50",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "70",
+                "name": "Aquawäsche",
+                "text": "Du kannst deinem Gegner 2 an sein Aktives Pokémon angelegte Energien auf seine Hand geben."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-51",
+        "name": "Lapras",
+        "number": "51",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Lebensstreuer",
+            "text": "Beliebig oft während deines Zuges kannst du 1 Schadensmarke von 1 deiner {P}-Pokémon auf 1 anderes deiner {P}-Pokémon verschieben.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Hypnoschuss",
+                "text": "Das Aktive Pokémon deines Gegners schläft jetzt."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Haunter",
+        "hp": 110,
+        "id": "promo_swsh-52",
+        "name": "Gengar",
+        "number": "52",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Macho-Vergeltung",
+                "text": "Diese Attacke fügt für jedes {F}-Pokémon in deinem Ablagestapel 20 Schadenspunkte zu."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Dynamitstoß",
+                "text": "Dieses Pokémon fügt auch sich selbst 50 Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Machoke",
+        "hp": 170,
+        "id": "promo_swsh-53",
+        "name": "Machomei",
+        "number": "53",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Teergenerator",
+            "text": "Einmal während deines Zuges kannst du 1 {R}-Energiekarte, 1 {F}-Energiekarte oder von beiden 1 aus deinem Ablagestapel beliebig an deine Pokémon anlegen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Lodernde Lawine",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Carkol",
+        "hp": 160,
+        "id": "promo_swsh-54",
+        "name": "Montecarbo",
+        "number": "54",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Lightning"
                 ],
                 "damage": "30",

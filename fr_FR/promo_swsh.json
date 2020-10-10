@@ -2096,6 +2096,436 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Bénédiction Douillette",
+                "text": "Cherchez dans votre deck jusqu’à 3 cartes Énergie {G}, puis attachez-les à vos Pokémon de Banc comme il vous plaît. Mélangez ensuite votre deck."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Feuillage",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Gossifleur",
+        "hp": 80,
+        "id": "promo_swsh-46",
+        "name": "Blancoton",
+        "number": "46",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Étau Mordant",
+                "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque {C} dans le Coût de Retraite du Pokémon Actif de votre adversaire."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Croque Fort",
+                "text": "Pendant le prochain tour de votre adversaire, le Pokémon Défenseur ne peut pas battre en retraite."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Chewtle",
+        "hp": 130,
+        "id": "promo_swsh-47",
+        "name": "Torgamord",
+        "number": "47",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Flammes Mille-Pattes",
+                "text": "Pour chaque Énergie {R} attachée à ce Pokémon, défaussez la carte du dessus du deck de votre adversaire."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Flammes Calcinantes",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Brûlé."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Sizzlipede",
+        "hp": 130,
+        "id": "promo_swsh-48",
+        "name": "Scolocendre",
+        "number": "48",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Laine Douce",
+            "text": "Ce Pokémon subit 30 dégâts de moins provenant des attaques (après application de la Faiblesse et de la Résistance).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Explo-Vengeance",
+                "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque carte Récompense que votre adversaire a récupérée."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-49",
+        "name": "Moumouflon-V",
+        "number": "49",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Tranch'Griffe",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Danse Flammes",
+                "text": "Défaussez 2 Énergies de ce Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-50",
+        "name": "Dracaufeu-V",
+        "number": "50",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "70",
+                "name": "Aqua-Lavage",
+                "text": "Vous pouvez ajouter à la main de votre adversaire jusqu’à 2 Énergies attachées à son Pokémon Actif."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-51",
+        "name": "Lokhlass",
+        "number": "51",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Chamboule Vie",
+            "text": "Autant de fois que vous le voulez pendant votre tour, vous pouvez déplacer un marqueur de dégâts de l’un de vos Pokémon {P} vers un autre de vos Pokémon {P}.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Hypnoblast",
+                "text": "Le Pokémon Actif de votre adversaire est maintenant Endormi."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Haunter",
+        "hp": 110,
+        "id": "promo_swsh-52",
+        "name": "Ectoplasma",
+        "number": "52",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Revanche Macho",
+                "text": "Cette attaque inflige 20 dégâts pour chaque Pokémon {F} dans votre pile de défausse."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Poing Dynamite",
+                "text": "Ce Pokémon s’inflige aussi 50 dégâts."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Machoke",
+        "hp": 170,
+        "id": "promo_swsh-53",
+        "name": "Mackogneur",
+        "number": "53",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Générateur de Poix",
+            "text": "Une fois pendant votre tour, vous pouvez attacher une carte Énergie {R}, une carte Énergie {F}, ou une de chaque de votre pile de défausse à vos Pokémon comme il vous plaît.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Avalanche Ardente",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Carkol",
+        "hp": 160,
+        "id": "promo_swsh-54",
+        "name": "Monthracite",
+        "number": "54",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Lightning"
                 ],
                 "damage": "30",

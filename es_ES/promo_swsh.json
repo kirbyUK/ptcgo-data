@@ -2096,6 +2096,436 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Bendición Sedosa",
+                "text": "Busca en tu baraja hasta 3 cartas de Energía {G} y únelas a tus Pokémon en Banca de la manera que desees. Después, baraja las cartas de tu baraja."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Follaje",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Gossifleur",
+        "hp": 80,
+        "id": "promo_swsh-46",
+        "name": "Eldegoss",
+        "number": "46",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Mordisco Atornillador",
+                "text": "Este ataque hace 30 puntos de daño más por cada {C} en el Coste de Retirada del Pokémon Activo de tu rival."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Presa Maxilar",
+                "text": "Durante el próximo turno de tu rival, el Pokémon Defensor no puede retirarse."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Chewtle",
+        "hp": 130,
+        "id": "promo_swsh-47",
+        "name": "Drednaw",
+        "number": "47",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fire"
+                ],
+                "damage": "",
+                "name": "Llamas de Cien Pies",
+                "text": "Por cada Energía {R} unida a este Pokémon, descarta la primera carta de la baraja de tu rival."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Llama Abrasadora",
+                "text": "El Pokémon Activo de tu rival pasa a estar Quemado."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Sizzlipede",
+        "hp": 130,
+        "id": "promo_swsh-48",
+        "name": "Centiskorch",
+        "number": "48",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Lana Suave",
+            "text": "Los ataques hacen 30 puntos de daño menos a este Pokémon (después de aplicar Debilidad y Resistencia).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Estallido Venganza",
+                "text": "Este ataque hace 30 puntos de daño más por cada carta de Premio que haya cogido tu rival."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-49",
+        "name": "Dubwool V",
+        "number": "49",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80",
+                "name": "Cuchillada Garra",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "220",
+                "name": "Giro Fuego",
+                "text": "Descarta 2 Energías de este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-50",
+        "name": "Charizard V",
+        "number": "50",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "70",
+                "name": "Limpieza Acuática",
+                "text": "Puedes poner 2 Energías unidas al Pokémon Activo de tu rival en su mano."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-51",
+        "name": "Lapras",
+        "number": "51",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Sacudida Vital",
+            "text": "Todas las veces que quieras durante tu turno, puedes mover 1 contador de daño de 1 de tus Pokémon {P} a otro de tus Pokémon {P}.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Hipnorrayo",
+                "text": "El Pokémon Activo de tu rival pasa a estar Dormido."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Haunter",
+        "hp": 110,
+        "id": "promo_swsh-52",
+        "name": "Gengar",
+        "number": "52",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Machovenganza",
+                "text": "Este ataque hace 20 puntos de daño por cada Pokémon {F} en tu pila de descartes."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Puño Dinamita",
+                "text": "Este Pokémon también se hace 50 puntos de daño a sí mismo."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Machoke",
+        "hp": 170,
+        "id": "promo_swsh-53",
+        "name": "Machamp",
+        "number": "53",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Generador Alquitrán",
+            "text": "Una vez durante tu turno, puedes unir 1 carta de Energía {R}, 1 carta de Energía {F} o 1 de cada una de tu pila de descartes a tus Pokémon de la manera que desees.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Avalancha Flamígera",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Carkol",
+        "hp": 160,
+        "id": "promo_swsh-54",
+        "name": "Coalossal",
+        "number": "54",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Lightning"
                 ],
                 "damage": "30",
