@@ -1977,7 +1977,7 @@
         "evolvesFrom": "",
         "hp": 210,
         "id": "promo_swsh-43",
-        "name": "Sirfetch'd de Galar V",
+        "name": "Sirfetch’d de Galar V",
         "number": "43",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -2676,6 +2676,148 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Decoración",
+                "text": "Une cualquier cantidad de cartas de Energía Básica de tu mano a tus Pokémon de la manera que desees."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Beso Drenaje",
+                "text": "Cura 30 puntos de daño a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Milcery",
+        "hp": 110,
+        "id": "promo_swsh-58",
+        "name": "Alcremie",
+        "number": "58",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Grito Salvaje",
+            "text": "Cuando juegas este Pokémon de tu mano para hacer evolucionar a 1 de tus Pokémon durante tu turno, puedes poner 3 contadores de daño en 1 de los Pokémon de tu rival.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Obstrucción",
+                "text": "Durante el próximo turno de tu rival, evita todo el daño infligido a este Pokémon por ataques de Pokémon Básicos."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianLinoone",
+        "hp": 160,
+        "id": "promo_swsh-59",
+        "name": "Obstagoon de Galar",
+        "number": "59",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Afilador de Metales",
+                "text": "Une 1 carta de Energía {M} de tu pila de descartes a 1 de tus Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Rayo de Luz Poderoso",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-60",
+        "name": "Duraludon",
+        "number": "60",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Lightning"
                 ],
                 "damage": "30",
@@ -2809,6 +2951,372 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Instinto de Combate",
+            "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y poner 1 de ellas en tu mano. Descarta el resto de las cartas.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "100+",
+                "name": "Ascuas Regias",
+                "text": "Este ataque hace 50 puntos de daño más por cada carta de Lionel en tu pila de descartes."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Charmeleon",
+        "hp": 170,
+        "id": "promo_swsh-66",
+        "name": "Charizard",
+        "number": "66",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "120",
+                "name": "Terremoto",
+                "text": "Este ataque también hace 20 puntos de daño a cada uno de tus Pokémon en Banca. (No apliques Debilidad y Resistencia a los Pokémon en Banca)."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Impacto Pesado",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Phanpy",
+        "hp": 150,
+        "id": "promo_swsh-67",
+        "name": "Donphan",
+        "number": "67",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Glotonear",
+            "text": "Una vez durante tu turno, si este Pokémon está en el Puesto Activo, puedes robar cartas hasta que tengas 7 cartas en tu mano. Si usas esta habilidad, tu turno termina.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Golpe Cuerpo",
+                "text": "Lanza 1 moneda. Si sale cara, el Pokémon Activo de tu rival pasa a estar Paralizado."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-68",
+        "name": "Snorlax",
+        "number": "68",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Tornado",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "250",
+                "name": "Presión Eólica",
+                "text": "Si tu rival tiene 5 o menos cartas en su mano, este ataque no hace nada."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-69",
+        "name": "Lugia",
+        "number": "69",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Al Límite",
+                "text": "Lanza 1 moneda. Si sale cruz, este ataque no hace nada."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-70",
+        "name": "Grookey",
+        "number": "70",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Yo Primero",
+                "text": "Roba 1 carta."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Carbón Activado",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-71",
+        "name": "Scorbunny",
+        "number": "71",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "",
+            "text": "",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Hidrobomba",
+                "text": "Este ataque hace 20 puntos de daño más por cada Energía {W} unida a este Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Eevee",
+        "hp": 110,
+        "id": "promo_swsh-72",
+        "name": "Vaporeon",
+        "number": "72",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Gruñido",
+                "text": "Durante el próximo turno de tu rival, los ataques del Pokémon Defensor hacen 20 puntos de daño menos (antes de aplicar Debilidad y Resistencia)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Golpe de Lluvia",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-73",
+        "name": "Sobble",
+        "number": "73",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
                 "value": "×2"
             }
         ]

@@ -2676,6 +2676,148 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Verzierung",
+                "text": "Lege beliebig viele Basis-Energiekarten aus deiner Hand beliebig an deine Pokémon an."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Diebeskuss",
+                "text": "Heile 30 Schadenspunkte bei diesem Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Milcery",
+        "hp": 110,
+        "id": "promo_swsh-58",
+        "name": "Pokusan",
+        "number": "58",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Ungezähmter Schrei",
+            "text": "Wenn du dieses Pokémon während deines Zuges aus deiner Hand spielst, um 1 deiner Pokémon zu entwickeln, kannst du 3 Schadensmarken auf 1 Pokémon deines Gegners legen.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Abblocker",
+                "text": "Verhindere während des nächsten Zuges deines Gegners allen Schaden, der diesem Pokémon durch Attacken von Basis-Pokémon zugefügt wird."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianLinoone",
+        "hp": 160,
+        "id": "promo_swsh-59",
+        "name": "Galar-Barrikadax",
+        "number": "59",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Metallschleifer",
+                "text": "Lege 1 {M}-Energiekarte aus deinem Ablagestapel an 1 deiner Pokémon an."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "110",
+                "name": "Power-Strahl",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-60",
+        "name": "Duraludon",
+        "number": "60",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Lightning"
                 ],
                 "damage": "30",
@@ -2809,6 +2951,372 @@
         "weaknesses": [
             {
                 "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Kampfsinn",
+            "text": "Einmal während deines Zuges kannst du dir die obersten 3 Karten deines Decks anschauen und 1 davon auf deine Hand nehmen. Lege die anderen Karten auf deinen Ablagestapel.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "100+",
+                "name": "Königsflamme",
+                "text": "Diese Attacke fügt für jede Delion-Karte in deinem Ablagestapel 50 Schadenspunkte mehr zu."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "Charmeleon",
+        "hp": 170,
+        "id": "promo_swsh-66",
+        "name": "Glurak",
+        "number": "66",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "120",
+                "name": "Erdbeben",
+                "text": "Diese Attacke fügt auch jedem Pokémon auf deiner Bank 20 Schadenspunkte zu. (Wende Schwäche und Resistenz bei Pokémon auf der Bank nicht an.)"
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fighting",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Schwerer Einschlag",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "Phanpy",
+        "hp": 150,
+        "id": "promo_swsh-67",
+        "name": "Donphan",
+        "number": "67",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Schlemmen",
+            "text": "Einmal während deines Zuges, wenn dieses Pokémon in der Aktiven Position ist, kannst du so lange Karten ziehen, bis du 7 Karten auf deiner Hand hast. Wenn du diese Fähigkeit einsetzt, endet dein Zug.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "100",
+                "name": "Bodyslam",
+                "text": "Wirf 1 Münze. Bei Kopf ist das Aktive Pokémon deines Gegners jetzt paralysiert."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-68",
+        "name": "Relaxo",
+        "number": "68",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Windstoß",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "250",
+                "name": "Winddruck",
+                "text": "Wenn dein Gegner 5 oder weniger Karten auf seiner Hand hat, hat diese Attacke keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 130,
+        "id": "promo_swsh-69",
+        "name": "Lugia",
+        "number": "69",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "30",
+                "name": "Alles oder nichts",
+                "text": "Wirf 1 Münze. Bei Zahl hat diese Attacke keine Auswirkungen."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-70",
+        "name": "Chimpep",
+        "number": "70",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Egotrip",
+                "text": "Ziehe 1 Karte."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "20",
+                "name": "Glühende Kohlen",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-71",
+        "name": "Hopplo",
+        "number": "71",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "",
+            "text": "",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60+",
+                "name": "Hydropumpe",
+                "text": "Diese Attacke fügt für jede an dieses Pokémon angelegte {W}-Energie 20 Schadenspunkte mehr zu."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "Eevee",
+        "hp": 110,
+        "id": "promo_swsh-72",
+        "name": "Aquana",
+        "number": "72",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Heuler",
+                "text": "Während des nächsten Zuges deines Gegners fügen die Attacken des Verteidigenden Pokémon 20 Schadenspunkte weniger zu (bevor Schwäche und Resistenz verrechnet werden)."
+            },
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Regenplatscher",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-73",
+        "name": "Memmeon",
+        "number": "73",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
                 "value": "×2"
             }
         ]
