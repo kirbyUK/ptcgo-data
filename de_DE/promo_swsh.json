@@ -2602,7 +2602,7 @@
         "evolvesFrom": "",
         "hp": 170,
         "id": "promo_swsh-56",
-        "name": "Morpeko V",
+        "name": "Morpeko-V",
         "number": "56",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -3234,8 +3234,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Wasservorhang",
+            "text": "Solange sich dieses Pokémon auf deiner Bank befindet, verhindere allen Schaden, der diesem Pokémon durch Attacken (deine und die deines Gegners) zugefügt wird.",
             "type": "Ability"
         },
         "attacks": [
@@ -3317,6 +3317,201 @@
         "weaknesses": [
             {
                 "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Kühnes Schwert",
+            "text": "Einmal während deines Zuges kannst du dir die obersten 3 Karten deines Decks anschauen und beliebig viele {M}-Energiekarten, die du dort findest, an dieses Pokémon anlegen. Nimm die anderen Karten auf deine Hand. Wenn du diese Fähigkeit einsetzt, endet dein Zug.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "230",
+                "name": "Couragierte Klinge",
+                "text": "Während deines nächsten Zuges kann dieses Pokémon nicht angreifen."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-76",
+        "name": "Zacian V",
+        "number": "76",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Wackerer Schild",
+            "text": "Verhindere allen Schaden, der diesem Pokémon durch Attacken von Pokémon-VMAX deines Gegners zugefügt wird.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Überfalltackle",
+                "text": "Lege 1 Spezial-Energie vom Aktiven Pokémon deines Gegners auf seinen Ablagestapel."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-77",
+        "name": "Zamazenta V",
+        "number": "77",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Beharken",
+                "text": "Du kannst dieses Pokémon gegen 1 Pokémon auf deiner Bank austauschen."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Geheimnisvolle Welle",
+                "text": "Diese Attacke fügt für jede an das Aktive Pokémon deines Gegners angelegte Energie 30 Schadenspunkte mehr zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-78",
+        "name": "Maritellit-V",
+        "number": "78",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Zen-Löffel",
+                "text": "Lege 3 Schadensmarken beliebig auf die Pokémon deines Gegners."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30x",
+                "name": "Gedankenherrscher",
+                "text": "Diese Attacke fügt für jede Karte auf der Hand deines Gegners 30 Schadenspunkte zu."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-83",
+        "name": "Simsala-V",
+        "number": "83",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
                 "value": "×2"
             }
         ]

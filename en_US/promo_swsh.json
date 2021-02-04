@@ -3234,8 +3234,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Watery Shroud",
+            "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent’s).",
             "type": "Ability"
         },
         "attacks": [
@@ -3317,6 +3317,201 @@
         "weaknesses": [
             {
                 "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Intrepid Sword",
+            "text": "Once during your turn, you may look at the top 3 cards of your deck and attach any number of {M} Energy cards you find there to this Pokémon. Put the other cards into your hand. If you use this Ability, your turn ends.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "230",
+                "name": "Brave Blade",
+                "text": "During your next turn, this Pokémon can't attack."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-76",
+        "name": "Zacian V",
+        "number": "76",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Dauntless Shield",
+            "text": "Prevent all damage done to this Pokémon by attacks from your opponent’s Pokémon VMAX.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Assault Tackle",
+                "text": "Discard a Special Energy from your opponent's Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-77",
+        "name": "Zamazenta V",
+        "number": "77",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Strafe",
+                "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Mysterious Wave",
+                "text": "This attack does 30 more damage for each Energy attached to your opponent’s Active Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-78",
+        "name": "Orbeetle V",
+        "number": "78",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Zen Spoon",
+                "text": "Put 3 damage counters on your opponent’s Pokémon in any way you like."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30x",
+                "name": "Mind Ruler",
+                "text": "This attack does 30 damage for each card in your opponent’s hand."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-83",
+        "name": "Alakazam V",
+        "number": "83",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
                 "value": "×2"
             }
         ]

@@ -2602,7 +2602,7 @@
         "evolvesFrom": "",
         "hp": 170,
         "id": "promo_swsh-56",
-        "name": "Morpeko V",
+        "name": "Morpeko-V",
         "number": "56",
         "rarity": "Rare Promo",
         "resistances": [],
@@ -3234,8 +3234,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Velo Acqueo",
+            "text": "Fintanto che questo Pokémon è nella tua panchina, previeni tutti i danni inflitti a questo Pokémon da qualsiasi attacco, sia tuo che del tuo avversario.",
             "type": "Ability"
         },
         "attacks": [
@@ -3317,6 +3317,201 @@
         "weaknesses": [
             {
                 "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Spada Indomita",
+            "text": "Una sola volta durante il tuo turno, puoi guardare le prime tre carte del tuo mazzo e assegnare un numero qualsiasi di carte Energia {M} presenti tra esse a questo Pokémon. Aggiungi le altre carte a quelle che hai in mano. Se usi questa abilità, il tuo turno finisce.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "230",
+                "name": "Baldalama",
+                "text": "Durante il tuo prossimo turno, questo Pokémon non può attaccare."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-76",
+        "name": "Zacian V",
+        "number": "76",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Scudo Saldo",
+            "text": "Previeni tutti i danni inflitti a questo Pokémon dagli attacchi dei Pokémon-VMAX del tuo avversario.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Azione d’Assalto",
+                "text": "Scarta un’Energia speciale dal Pokémon attivo del tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-77",
+        "name": "Zamazenta V",
+        "number": "77",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Mitragliare",
+                "text": "Puoi scambiare questo Pokémon con uno della tua panchina."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Onda Enigmatica",
+                "text": "Questo attacco infligge 30 danni in più per ogni Energia assegnata al Pokémon attivo del tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-78",
+        "name": "Orbeetle-V",
+        "number": "78",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Cucchiaio Zen",
+                "text": "Metti tre segnalini danno sui Pokémon del tuo avversario nel modo che preferisci."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30x",
+                "name": "Signore della Mente",
+                "text": "Questo attacco infligge 30 danni per ogni carta nella mano del tuo avversario."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-83",
+        "name": "Alakazam-V",
+        "number": "83",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
                 "value": "×2"
             }
         ]

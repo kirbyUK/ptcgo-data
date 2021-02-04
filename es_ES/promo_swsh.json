@@ -3234,8 +3234,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Manto Acuoso",
+            "text": "Mientras este Pokémon esté en tu Banca, evita todo el daño infligido a este Pokémon por ataques (tanto tuyos como de tu rival).",
             "type": "Ability"
         },
         "attacks": [
@@ -3317,6 +3317,201 @@
         "weaknesses": [
             {
                 "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Espada Indómita",
+            "text": "Una vez durante tu turno, puedes mirar las 3 primeras cartas de tu baraja y unir cualquier cantidad de cartas de Energía {M} que encuentres entre ellas a este Pokémon. Pon el resto de las cartas en tu mano. Si usas esta habilidad, tu turno termina.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "230",
+                "name": "Cuchilla Osada",
+                "text": "Durante tu próximo turno, este Pokémon no puede atacar."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-76",
+        "name": "Zacian V",
+        "number": "76",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Escudo Recio",
+            "text": "Evita todo el daño infligido a este Pokémon por ataques de los Pokémon VMAX de tu rival.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Placaje Asalto",
+                "text": "Descarta 1 Energía Especial del Pokémon Activo de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-77",
+        "name": "Zamazenta V",
+        "number": "77",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Pasada de Ataque",
+                "text": "Puedes cambiar este Pokémon por 1 de tus Pokémon en Banca."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Onda Misteriosa",
+                "text": "Este ataque hace 30 puntos de daño más por cada Energía unida al Pokémon Activo de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-78",
+        "name": "Orbeetle V",
+        "number": "78",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Cuchara Zen",
+                "text": "Pon 3 contadores de daño en los Pokémon de tu rival de la manera que desees."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30x",
+                "name": "Jefe Mental",
+                "text": "Este ataque hace 30 puntos de daño por cada carta en la mano de tu rival."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-83",
+        "name": "Alakazam V",
+        "number": "83",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
                 "value": "×2"
             }
         ]

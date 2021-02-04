@@ -3234,8 +3234,8 @@
     },
     {
         "ability": {
-            "name": "",
-            "text": "",
+            "name": "Voile Aquatique",
+            "text": "Tant que ce Pokémon est sur votre Banc, évitez tous les dégâts infligés à ce Pokémon par des attaques (les vôtres et celles de votre adversaire).",
             "type": "Ability"
         },
         "attacks": [
@@ -3317,6 +3317,201 @@
         "weaknesses": [
             {
                 "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Lame Indomptable",
+            "text": "Une fois pendant votre tour, vous pouvez regarder les 3 cartes du dessus de votre deck, puis attacher à ce Pokémon le nombre voulu de cartes Énergie {M} que vous y trouvez. Ajoutez les autres cartes à votre main. Si vous utilisez ce talent, votre tour se termine.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Metal"
+                ],
+                "damage": "230",
+                "name": "Lame Vaillante",
+                "text": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-76",
+        "name": "Zacian-V",
+        "number": "76",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Égide Inflexible",
+            "text": "Évitez tous les dégâts infligés à ce Pokémon par les attaques des Pokémon-VMAX de votre adversaire.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Metal",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Tacle Assaillant",
+                "text": "Défaussez une Énergie spéciale du Pokémon Actif de votre adversaire."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-77",
+        "name": "Zamazenta-V",
+        "number": "77",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Bombarder",
+                "text": "Vous pouvez échanger ce Pokémon contre l’un de vos Pokémon de Banc."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50+",
+                "name": "Onde Mystérieuse",
+                "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-78",
+        "name": "Astronelle-V",
+        "number": "78",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Cuillère Zen",
+                "text": "Placez 3 marqueurs de dégâts sur les Pokémon de votre adversaire comme il vous plaît."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30x",
+                "name": "Contrôle Mental",
+                "text": "Cette attaque inflige 30 dégâts pour chaque carte dans la main de votre adversaire."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-83",
+        "name": "Alakazam-V",
+        "number": "83",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
                 "value": "×2"
             }
         ]
