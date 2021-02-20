@@ -599,7 +599,7 @@
     },
     {
         "ability": {
-            "name": "",
+            "name": "[Ability] Corredor Campal",
             "text": "Se um Estádio estiver em jogo, este Pokémon não terá custo de Recuo.",
             "type": "Ability"
         },
@@ -2820,6 +2820,53 @@
                 "cost": [
                     "Lightning"
                 ],
+                "damage": "",
+                "name": "Carga",
+                "text": "Procure por até 2 cartas de Energia {L} no seu baralho e ligue-as a este Pokémon. Em seguida, embaralhe o seu baralho."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "200",
+                "name": "Relâmpago",
+                "text": "Descarte todas as Energias deste Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-61",
+        "name": "Pikachu V",
+        "number": "61",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
                 "damage": "30",
                 "name": "Bola Pikachu",
                 "text": ""
@@ -3466,6 +3513,172 @@
         ]
     },
     {
+        "ability": {
+            "name": "Balança Esqueleto",
+            "text": "Uma vez durante o seu turno, você poderá trocar 1 das cartas de Prêmio viradas para baixo do seu oponente pela carta de cima do baralho dele(a) (as cartas continuam viradas para baixo).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Festa Maluca",
+                "text": "Este ataque causa 20 pontos de dano para cada Pokémon na sua pilha de descarte que tiver o ataque Festa Maluca."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "GalarianMrMime",
+        "hp": 120,
+        "id": "promo_swsh-79",
+        "name": "Mr. Rime de Galar",
+        "number": "79",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Festa Maluca",
+                "text": "Este ataque causa 20 pontos de dano para cada Pokémon na sua pilha de descarte que tiver o ataque Festa Maluca."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "promo_swsh-80",
+        "name": "Dedenne",
+        "number": "80",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Intervalo do Chá",
+            "text": "Você deve descartar 1 Pokémon que tiver o ataque Festa Maluca da sua mão para usar esta Habilidade. Uma vez durante o seu turno, você poderá comprar 2 cartas.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Festa Maluca",
+                "text": "Este ataque causa 20 pontos de dano para cada Pokémon na sua pilha de descarte que tiver o ataque Festa Maluca."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Sinistea",
+        "hp": 60,
+        "id": "promo_swsh-81",
+        "name": "Polteageist",
+        "number": "81",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 1",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "20x",
+                "name": "Festa Maluca",
+                "text": "Este ataque causa 20 pontos de dano para cada Pokémon na sua pilha de descarte que tiver o ataque Festa Maluca."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 40,
+        "id": "promo_swsh-82",
+        "name": "Bunnelby",
+        "number": "82",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
         "attacks": [
             {
                 "convertedEnergyCost": 1,
@@ -3512,6 +3725,285 @@
         "weaknesses": [
             {
                 "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Combinação Feliz",
+            "text": "Quando você jogar este Pokémon da sua mão para o seu Banco durante o seu turno, você poderá colocar 1 carta de Apoiador da sua pilha de descarte na sua mão.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Voo Flutuante",
+                "text": "Você pode embaralhar este Pokémon e todas as cartas ligadas a ele no seu baralho."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 180,
+        "id": "promo_swsh-84",
+        "name": "Eldegoss V",
+        "number": "84",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "",
+                "name": "Eletrificar",
+                "text": "Procure por até 2 cartas de Energia {L} no seu baralho e ligue-as aos seus Pokémon no Banco como desejar. Em seguida, embaralhe o seu baralho."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Tempestade Relampejante",
+                "text": "Este ataque causa 30 pontos de dano a mais para cada Energia {L} ligada a todos os seus Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 200,
+        "id": "promo_swsh-85",
+        "name": "Boltund V",
+        "number": "85",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Captura de Bico",
+                "text": "Procure por até 2 cartas no seu baralho e coloque-as na sua mão. Em seguida, embaralhe o seu baralho."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Cusparada",
+                "text": "Descarte todas as Energias deste Pokémon. Este ataque causa 160 pontos de dano a 1 dos Pokémon do seu oponente (não aplique Fraqueza e Resistência aos Pokémon no Banco)."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 200,
+        "id": "promo_swsh-86",
+        "name": "Cramorant V",
+        "number": "86",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Ternura G-Max",
+                "text": "Durante o próximo turno do seu oponente, se o Pokémon Defensor tentar atacar, seu oponente jogará 1 moeda. Se sair coroa, aquele ataque não acontecerá."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "EeveeV",
+        "hp": 300,
+        "id": "promo_swsh-87",
+        "name": "Eevee VMAX",
+        "number": "87",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "VMAX",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "50",
+                "name": "Dreno Folha",
+                "text": "Cure 30 pontos de dano deste Pokémon."
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "190",
+                "name": "Faca de Dois Gumes",
+                "text": "Este Pokémon também causa 30 pontos de dano a si mesmo."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-100",
+        "name": "Venusaur V",
+        "number": "100",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "30",
+                "name": "Revólver d’Água",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water"
+                ],
+                "damage": "200",
+                "name": "Canhão Torrencial",
+                "text": "Durante o seu próximo turno, este Pokémon não poderá usar Canhão Torrencial."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 220,
+        "id": "promo_swsh-101",
+        "name": "Blastoise V",
+        "number": "101",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
                 "value": "×2"
             }
         ]
