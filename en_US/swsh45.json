@@ -1,14 +1,21 @@
-[{
-        "attacks": [{
+[
+    {
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Grass"],
+                "cost": [
+                    "Grass"
+                ],
                 "damage": "10",
                 "name": "Tackle",
                 "text": ""
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "30",
                 "name": "Wing Attack",
                 "text": ""
@@ -22,27 +29,39 @@
         "number": "1",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Grass"],
+                "cost": [
+                    "Grass"
+                ],
                 "damage": "30",
                 "name": "Bug Bite",
                 "text": ""
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "120",
                 "name": "Nosedive",
                 "text": "This Pokémon also does 30 damage to itself."
@@ -60,11 +79,15 @@
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -72,13 +95,19 @@
             "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Energy card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Grass", "Colorless", "Colorless"],
-            "damage": "40",
-            "name": "Leaf Step",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Grass",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Leaf Step",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 70,
@@ -87,24 +116,35 @@
         "number": "3",
         "rarity": "Rare",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Grass", "Grass"],
-            "damage": "50",
-            "name": "Pierce",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Grass"
+                ],
+                "damage": "50",
+                "name": "Pierce",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 70,
@@ -113,27 +153,40 @@
         "number": "4",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Attach Leaves",
                 "text": "Attach up to 2 {G} Energy cards from your discard pile to your Benched Pokémon in any way you like."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "30",
                 "name": "Gust",
                 "text": ""
@@ -147,15 +200,21 @@
         "number": "5",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -163,13 +222,19 @@
             "text": "If you played Bird Keeper from your hand during this turn, ignore all Energy in this Pokémon's attack costs.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Colorless", "Colorless", "Colorless"],
-            "damage": "",
-            "name": "Wind Shard",
-            "text": "This attack does 60 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Wind Shard",
+                "text": "This attack does 60 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 50,
@@ -178,24 +243,34 @@
         "number": "6",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Grass"],
-            "damage": "40",
-            "name": "Razor Leaf",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "40",
+                "name": "Razor Leaf",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "Rowlet",
         "hp": 80,
@@ -204,15 +279,21 @@
         "number": "7",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -220,13 +301,18 @@
             "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Pokémon V and Pokémon-GX.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Grass", "Colorless"],
-            "damage": "90",
-            "name": "Splitting Arrow",
-            "text": "This attack also does 20 damage to 2 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "90",
+                "name": "Splitting Arrow",
+                "text": "This attack also does 20 damage to 2 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "Dartrix",
         "hp": 140,
@@ -235,27 +321,41 @@
         "number": "8",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Grass"],
+                "cost": [
+                    "Grass"
+                ],
                 "damage": "30+",
                 "name": "Anchor Anger",
                 "text": "If any of your {G} Pokémon were Knocked Out by damage from an opponent’s attack during their last turn, this attack does 90 more damage."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Grass", "Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "200",
                 "name": "Giga Hammer",
                 "text": "During your next turn, this Pokémon can’t use Giga Hammer."
@@ -269,27 +369,41 @@
         "number": "9",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Grass"],
+                "cost": [
+                    "Grass"
+                ],
                 "damage": "",
                 "name": "Swinging Chain",
                 "text": "This attack does 30 damage to 1 of your opponent’s Pokémon for each {G} Energy attached to this Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Grass", "Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "240",
                 "name": "Max Anchor",
                 "text": "During your next turn, this Pokémon can’t use Max Anchor."
@@ -303,24 +417,36 @@
         "number": "10",
         "rarity": "RareHoloVMAX",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Colorless"],
-            "damage": "10x",
-            "name": "Fury Swipes",
-            "text": "Flip 3 coins. This attack does 10 damage for each heads."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10x",
+                "name": "Fury Swipes",
+                "text": "Flip 3 coins. This attack does 10 damage for each heads."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
@@ -329,15 +455,21 @@
         "number": "11",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -345,13 +477,17 @@
             "text": "If you have a Stadium in play, this Pokémon has no Retreat Cost.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Grass"],
-            "damage": "20",
-            "name": "Branch Poke",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Grass"
+                ],
+                "damage": "20",
+                "name": "Branch Poke",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "Grookey",
         "hp": 90,
@@ -360,15 +496,22 @@
         "number": "12",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -376,13 +519,20 @@
             "text": "Once during your turn, you may search your deck for up to 2 {G} Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 4,
-            "cost": ["Grass", "Grass", "Grass", "Colorless"],
-            "damage": "140",
-            "name": "Hammer In",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
+                "damage": "140",
+                "name": "Hammer In",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Thwackey",
         "hp": 170,
@@ -391,24 +541,36 @@
         "number": "13",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Colorless"],
-            "damage": "10",
-            "name": "Leafage",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "10",
+                "name": "Leafage",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
@@ -417,27 +579,38 @@
         "number": "14",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Enriching Seeds",
                 "text": "Heal all damage from 1 of your Benched Pokémon."
             },
             {
                 "convertedEnergyCost": 1,
-                "cost": ["Grass"],
+                "cost": [
+                    "Grass"
+                ],
                 "damage": "50",
                 "name": "Surprise Attack",
                 "text": "Flip a coin. If tails, this attack does nothing."
@@ -451,27 +624,41 @@
         "number": "15",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 2,
-                "cost": ["Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "30",
                 "name": "Suctioning Vines",
                 "text": "Heal 30 damage from this Pokémon."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Grass", "Grass", "Colorless"],
+                "cost": [
+                    "Grass",
+                    "Grass",
+                    "Colorless"
+                ],
                 "damage": "110",
                 "name": "Jungle Blast",
                 "text": ""
@@ -485,24 +672,37 @@
         "number": "16",
         "rarity": "Rare",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Grass"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Grass"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Darkness", "Fire", "Lightning"],
-            "damage": "270",
-            "name": "Amazing Blaze",
-            "text": "This Pokémon also does 60 damage to itself."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Fire",
+                    "Lightning"
+                ],
+                "damage": "270",
+                "name": "Amazing Blaze",
+                "text": "This Pokémon also does 60 damage to itself."
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "",
         "hp": 120,
@@ -511,15 +711,23 @@
         "number": "17",
         "rarity": "Amazing",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Fire"],
-        "weaknesses": [{
-            "type": "Water",
-            "value": "×2"
-        }]
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -527,13 +735,19 @@
             "text": "If a Stadium is in play, this Pokémon has no Retreat Cost.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Fire", "Fire", "Colorless"],
-            "damage": "140",
-            "name": "Crimson Legs",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "140",
+                "name": "Crimson Legs",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 210,
@@ -542,27 +756,42 @@
         "number": "18",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Fire"],
-        "weaknesses": [{
-            "type": "Water",
-            "value": "×2"
-        }]
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 2,
-                "cost": ["Fire", "Colorless"],
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
                 "damage": "30+",
                 "name": "Counter",
                 "text": "If this Pokémon was damaged by an attack during your opponent’s last turn, this attack does that much more damage."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Fire", "Fire", "Colorless"],
+                "cost": [
+                    "Fire",
+                    "Fire",
+                    "Colorless"
+                ],
                 "damage": "170",
                 "name": "Max Pyro Ball",
                 "text": "Your opponent’s Active Pokémon is now Burned."
@@ -576,24 +805,35 @@
         "number": "19",
         "rarity": "RareHoloVMAX",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Fire"],
-        "weaknesses": [{
-            "type": "Water",
-            "value": "×2"
-        }]
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Water"],
-            "damage": "10",
-            "name": "Water Gun",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "10",
+                "name": "Water Gun",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 0,
         "evolvesFrom": "",
         "hp": 40,
@@ -606,20 +846,31 @@
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 4,
-            "cost": ["Lightning", "Metal", "Water", "Colorless"],
-            "damage": "",
-            "name": "Amazing Surge",
-            "text": "This attack does 80 damage to each of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Lightning",
+                    "Metal",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Amazing Surge",
+                "text": "This attack does 80 damage to each of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "",
         "hp": 120,
@@ -628,24 +879,36 @@
         "number": "21",
         "rarity": "Amazing",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Water"],
-            "damage": "20",
-            "name": "Rain Splash",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "20",
+                "name": "Rain Splash",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 70,
@@ -654,24 +917,34 @@
         "number": "22",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Water"],
-            "damage": "50",
-            "name": "Surf",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "50",
+                "name": "Surf",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "Buizel",
         "hp": 110,
@@ -680,15 +953,21 @@
         "number": "23",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -696,13 +975,18 @@
             "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pokémon you find there, and put it into your hand. Shuffle the other cards back into your deck.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Water", "Colorless"],
-            "damage": "30",
-            "name": "Wave Splash",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Wave Splash",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 70,
@@ -711,27 +995,42 @@
         "number": "24",
         "rarity": "Rare",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 2,
-                "cost": ["Water", "Colorless"],
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "damage": "50",
                 "name": "Hammer In",
                 "text": ""
             },
             {
                 "convertedEnergyCost": 4,
-                "cost": ["Water", "Water", "Water", "Colorless"],
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
                 "damage": "120x",
                 "name": "Dynamite Steam",
                 "text": "Flip 2 coins. This attack does 120 damage for each heads."
@@ -745,27 +1044,41 @@
         "number": "25",
         "rarity": "Rare",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Water"],
+                "cost": [
+                    "Water"
+                ],
                 "damage": "10",
                 "name": "Tackle",
                 "text": ""
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Water", "Colorless"],
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
                 "damage": "30",
                 "name": "Bite",
                 "text": ""
@@ -779,15 +1092,22 @@
         "number": "26",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -795,13 +1115,19 @@
             "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Water", "Water", "Colorless"],
-            "damage": "130",
-            "name": "Skull Bash",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Skull Bash",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Chewtle",
         "hp": 140,
@@ -810,24 +1136,37 @@
         "number": "27",
         "rarity": "Rare",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Water", "Water"],
-            "damage": "",
-            "name": "Spit-Out Shot",
-            "text": "This attack does 50 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Spit-Out Shot",
+                "text": "This attack does 50 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 90,
@@ -836,24 +1175,34 @@
         "number": "28",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Water"],
-            "damage": "",
-            "name": "Call for Family",
-            "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Water"
+                ],
+                "damage": "",
+                "name": "Call for Family",
+                "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 50,
@@ -862,15 +1211,22 @@
         "number": "29",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Metal",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -878,13 +1234,18 @@
             "text": "As often as you like during your turn, you may attach a {W} Energy card from your hand to 1 of your Benched {W} Pokémon.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Water", "Colorless"],
-            "damage": "30",
-            "name": "Aurora Beam",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Water",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Aurora Beam",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "Snom",
         "hp": 90,
@@ -893,24 +1254,35 @@
         "number": "30",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Water"],
-        "weaknesses": [{
-            "type": "Metal",
-            "value": "×2"
-        }]
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Lightning"],
-            "damage": "10+",
-            "name": "Under Pressure",
-            "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 50 more damage."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "10+",
+                "name": "Under Pressure",
+                "text": "If your opponent has 3 or fewer Prize cards remaining, this attack does 50 more damage."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
@@ -919,15 +1291,21 @@
         "number": "31",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -935,13 +1313,17 @@
             "text": "Once during your turn, if you drew this Pokémon from your deck at the beginning of your turn and your Bench isn't full, before you put it into your hand, you may put it onto your Bench.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Lightning"],
-            "damage": "30",
-            "name": "Zap Kick",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Lightning"
+                ],
+                "damage": "30",
+                "name": "Zap Kick",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "Shinx",
         "hp": 90,
@@ -950,27 +1332,39 @@
         "number": "32",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Lightning"],
+                "cost": [
+                    "Lightning"
+                ],
                 "damage": "60+",
                 "name": "Raid",
                 "text": "If this Pokémon evolved from Luxio during this turn, this attack does 100 more damage."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Lightning", "Colorless"],
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
                 "damage": "120",
                 "name": "Head Bolt",
                 "text": ""
@@ -984,15 +1378,21 @@
         "number": "33",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 2",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -1000,13 +1400,18 @@
             "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 Item cards that have the word \"Rotom\" in their name, reveal them, and put them into your hand. Then, shuffle your deck.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Lightning", "Colorless"],
-            "damage": "30",
-            "name": "Thunder Shock",
-            "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Thunder Shock",
+                "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 80,
@@ -1015,27 +1420,39 @@
         "number": "34",
         "rarity": "Uncommon",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Famished",
                 "text": "Draw a card."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Lightning", "Colorless"],
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
                 "damage": "40",
                 "name": "Thunder Shock",
                 "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
@@ -1049,27 +1466,39 @@
         "number": "35",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Famished",
                 "text": "Draw a card."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Lightning", "Colorless"],
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
                 "damage": "40",
                 "name": "Thunder Shock",
                 "text": "Flip a coin. If heads, your opponent’s Active Pokémon is now Paralyzed."
@@ -1083,27 +1512,40 @@
         "number": "36",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "20",
                 "name": "Spark",
                 "text": "This attack also does 20 damage to 1 of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Lightning", "Lightning", "Colorless"],
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
                 "damage": "150",
                 "name": "Electro Wheel",
                 "text": "Discard an Energy from this Pokémon. If you do, switch it with 1 of your Benched Pokémon."
@@ -1117,24 +1559,37 @@
         "number": "37",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Lightning", "Lightning", "Colorless"],
-            "damage": "180",
-            "name": "Max Discharge",
-            "text": "This attack also does 20 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Lightning",
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "180",
+                "name": "Max Discharge",
+                "text": "This attack also does 20 damage to each of your opponent’s Benched Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "MorpekoV",
         "hp": 300,
@@ -1143,15 +1598,21 @@
         "number": "38",
         "rarity": "RareHoloVMAX",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Lightning"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -1159,13 +1620,19 @@
             "text": "Once during your turn, you may heal 20 damage from your Active Pokémon.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Psychic", "Colorless", "Colorless"],
-            "damage": "10+",
-            "name": "Psychic",
-            "text": "This attack does 60 more damage for each Energy attached to your opponent’s Active Pokémon."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "10+",
+                "name": "Psychic",
+                "text": "This attack does 60 more damage for each Energy attached to your opponent’s Active Pokémon."
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 180,
@@ -1173,28 +1640,41 @@
         "name": "Indeedee V",
         "number": "39",
         "rarity": "RareHoloV",
-        "resistances": [{
-            "type": "Fighting",
-            "value": "-30"
-        }],
-        "retreatCost": ["Colorless", "Colorless"],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Psychic"],
-        "weaknesses": [{
-            "type": "Darkness",
-            "value": "×2"
-        }]
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Fighting"],
-            "damage": "10+",
-            "name": "Land’s Pulse",
-            "text": "If a Stadium is in play, this attack does 10 more damage."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10+",
+                "name": "Land’s Pulse",
+                "text": "If a Stadium is in play, this attack does 10 more damage."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
@@ -1203,24 +1683,34 @@
         "number": "40",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Fighting"],
-        "weaknesses": [{
-            "type": "Grass",
-            "value": "×2"
-        }]
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Darkness"],
-            "damage": "",
-            "name": "Ascension",
-            "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Ascension",
+                "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 60,
@@ -1229,15 +1719,21 @@
         "number": "41",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -1245,13 +1741,17 @@
             "text": "As long as this Pokémon is in the Active Spot, your opponent’s Pokémon in play have no Abilities, except for Neutralizing Gas.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Darkness"],
-            "damage": "",
-            "name": "Severe Poison",
-            "text": "Your opponent’s Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Severe Poison",
+                "text": "Your opponent’s Active Pokémon is now Poisoned. Put 4 damage counters instead of 1 on that Pokémon during Pokémon Checkup."
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "Koffing",
         "hp": 130,
@@ -1260,27 +1760,41 @@
         "number": "42",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Darkness"],
+                "cost": [
+                    "Darkness"
+                ],
                 "damage": "10",
                 "name": "Hang Down",
                 "text": ""
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Darkness", "Colorless"],
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
                 "damage": "20",
                 "name": "Sting",
                 "text": ""
@@ -1294,15 +1808,21 @@
         "number": "43",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -1310,13 +1830,18 @@
             "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 2,
-            "cost": ["Darkness", "Colorless"],
-            "damage": "70",
-            "name": "Venomous Fang",
-            "text": "Your opponent’s Active Pokémon is now Poisoned."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Venomous Fang",
+                "text": "Your opponent’s Active Pokémon is now Poisoned."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 180,
@@ -1325,27 +1850,41 @@
         "number": "44",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 2,
-                "cost": ["Darkness", "Colorless"],
+                "cost": [
+                    "Darkness",
+                    "Colorless"
+                ],
                 "damage": "70",
                 "name": "Stealth Poison",
                 "text": "Your opponent’s Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Darkness", "Darkness", "Colorless"],
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless"
+                ],
                 "damage": "180",
                 "name": "Max Cutter",
                 "text": ""
@@ -1359,24 +1898,38 @@
         "number": "45",
         "rarity": "RareHoloVMAX",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 5,
-            "cost": ["Darkness", "Fire", "Psychic", "Colorless", "Colorless"],
-            "damage": "",
-            "name": "Amazing Destruction",
-            "text": "Your opponent’s Active Pokémon is Knocked Out."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 5,
+                "cost": [
+                    "Darkness",
+                    "Fire",
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Amazing Destruction",
+                "text": "Your opponent’s Active Pokémon is Knocked Out."
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 110,
@@ -1384,28 +1937,41 @@
         "name": "Yveltal",
         "number": "46",
         "rarity": "Amazing",
-        "resistances": [{
-            "type": "Fighting",
-            "value": "-30"
-        }],
-        "retreatCost": ["Colorless", "Colorless"],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Darkness"],
-            "damage": "",
-            "name": "Instigate",
-            "text": "Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Darkness"
+                ],
+                "damage": "",
+                "name": "Instigate",
+                "text": "Your opponent shuffles their hand and puts it on the bottom of their deck. If they put any cards on the bottom of their deck in this way, they draw 3 cards."
+            }
+        ],
         "convertedRetreatCost": 1,
         "evolvesFrom": "",
         "hp": 70,
@@ -1414,27 +1980,40 @@
         "number": "47",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Grass",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Call for Goons",
                 "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Darkness", "Colorless", "Colorless"],
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "80",
                 "name": "Corner",
                 "text": "During your opponent’s next turn, the Defending Pokémon can’t retreat."
@@ -1448,24 +2027,36 @@
         "number": "48",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Stage 1",
         "supertype": "Pokémon",
-        "types": ["Darkness"],
-        "weaknesses": [{
-            "type": "Grass",
-            "value": "×2"
-        }]
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Metal", "Colorless", "Colorless"],
-            "damage": "60",
-            "name": "Strength",
-            "text": ""
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Metal",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Strength",
+                "text": ""
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "",
         "hp": 100,
@@ -1473,19 +2064,29 @@
         "name": "Cufant",
         "number": "49",
         "rarity": "Common",
-        "resistances": [{
-            "type": "Grass",
-            "value": "-30"
-        }],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "resistances": [
+            {
+                "type": "Grass",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Metal"],
-        "weaknesses": [{
-            "type": "Fire",
-            "value": "×2"
-        }]
+        "types": [
+            "Metal"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fire",
+                "value": "×2"
+            }
+        ]
     },
     {
         "ability": {
@@ -1493,13 +2094,17 @@
             "text": "Once during your turn, you may choose a Basic Pokémon V from your discard pile and switch it with this Pokémon. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
             "type": "Ability"
         },
-        "attacks": [{
-            "convertedEnergyCost": 1,
-            "cost": ["Colorless"],
-            "damage": "",
-            "name": "Stick On",
-            "text": "Attach a basic Energy card from your discard pile to this Pokémon."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Stick On",
+                "text": "Attach a basic Energy card from your discard pile to this Pokémon."
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "",
         "hp": 170,
@@ -1508,24 +2113,37 @@
         "number": "50",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Colorless", "Colorless", "Colorless"],
-            "damage": "",
-            "name": "Max Transform",
-            "text": "Choose 1 of your opponent’s Active Pokémon’s attacks and use it as this attack."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Max Transform",
+                "text": "Choose 1 of your opponent’s Active Pokémon’s attacks and use it as this attack."
+            }
+        ],
         "convertedRetreatCost": 3,
         "evolvesFrom": "DittoV",
         "hp": 320,
@@ -1534,27 +2152,41 @@
         "number": "51",
         "rarity": "RareHoloVMAX",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Signs of Evolution",
                 "text": "Search your deck for a card that evolves from Eevee, reveal it, and put it into your hand. Then, shuffle your deck."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Colorless", "Colorless"],
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "30",
                 "name": "Wild Kick",
                 "text": "Flip a coin. If tails, this attack does nothing."
@@ -1568,27 +2200,41 @@
         "number": "52",
         "rarity": "Common",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 2,
-                "cost": ["Colorless", "Colorless"],
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "40",
                 "name": "Crunch",
                 "text": "Discard an Energy from your opponent’s Active Pokémon."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Colorless", "Colorless", "Colorless"],
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "180",
                 "name": "Stumbling Press",
                 "text": "Flip a coin. If tails, this attack does nothing."
@@ -1602,27 +2248,41 @@
         "number": "53",
         "rarity": "RareHoloV",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Beak Catch",
                 "text": "Search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Colorless", "Colorless", "Colorless"],
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Spit Shot",
                 "text": "Discard all Energy from this Pokémon. This attack does 160 damage to 1 of your opponent’s Pokémon. (Don’t apply Weakness and Resistance for Benched Pokémon.)"
@@ -1635,28 +2295,42 @@
         "name": "Cramorant V",
         "number": "54",
         "rarity": "RareHoloV",
-        "resistances": [{
-            "type": "Fighting",
-            "value": "-30"
-        }],
-        "retreatCost": ["Colorless"],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
-            "convertedEnergyCost": 3,
-            "cost": ["Colorless", "Colorless", "Colorless"],
-            "damage": "80x",
-            "name": "Max Jet",
-            "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
-        }],
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "80x",
+                "name": "Max Jet",
+                "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+            }
+        ],
         "convertedRetreatCost": 2,
         "evolvesFrom": "CramorantV",
         "hp": 320,
@@ -1664,31 +2338,46 @@
         "name": "Cramorant VMAX",
         "number": "55",
         "rarity": "RareHoloVMAX",
-        "resistances": [{
-            "type": "Fighting",
-            "value": "-30"
-        }],
-        "retreatCost": ["Colorless", "Colorless"],
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Lightning",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Helping Hand",
                 "text": "Search your deck for a basic Energy card and attach it to 1 of your Benched Pokémon. Then, shuffle your deck."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Colorless", "Colorless"],
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "20+",
                 "name": "Psychic",
                 "text": "This attack does 20 more damage for each Energy attached to your opponent’s Active Pokémon."
@@ -1702,15 +2391,21 @@
         "number": "56",
         "rarity": "Rare Holo",
         "resistances": [],
-        "retreatCost": ["Colorless"],
+        "retreatCost": [
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Colorless"],
-        "weaknesses": [{
-            "type": "Fighting",
-            "value": "×2"
-        }]
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
     },
     {
         "id": "swsh45-57",
@@ -1756,7 +2451,9 @@
         "setCode": "swsh45",
         "subtype": "Supporter",
         "supertype": "Trainer",
-        "text": ["Discard your hand and draw 7 cards."]
+        "text": [
+            "Discard your hand and draw 7 cards."
+        ]
     },
     {
         "id": "swsh45-61",
@@ -1766,7 +2463,9 @@
         "setCode": "swsh45",
         "subtype": "Pokémon Tool",
         "supertype": "Trainer",
-        "text": ["The Zamazenta V this card is attached to gets +70 HP."]
+        "text": [
+            "The Zamazenta V this card is attached to gets +70 HP."
+        ]
     },
     {
         "id": "swsh45-62",
@@ -1788,19 +2487,28 @@
         "setCode": "swsh45",
         "subtype": "Item",
         "supertype": "Trainer",
-        "text": ["Heal 50 damage from both Active Pokémon."]
+        "text": [
+            "Heal 50 damage from both Active Pokémon."
+        ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Psychic"],
+                "cost": [
+                    "Psychic"
+                ],
                 "damage": "",
                 "name": "Sugary Sprinkles",
                 "text": "Heal 30 damage from each of your Benched Pokémon."
             },
             {
                 "convertedEnergyCost": 3,
-                "cost": ["Psychic", "Colorless", "Colorless"],
+                "cost": [
+                    "Psychic",
+                    "Colorless",
+                    "Colorless"
+                ],
                 "damage": "100",
                 "name": "Sweet Splash",
                 "text": "If the Defending Pokémon is a Basic Pokémon, it can’t attack during your opponent’s next turn."
@@ -1814,15 +2522,22 @@
         "number": "64",
         "rarity": "Rare Ultra",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "Basic",
         "supertype": "Pokémon",
-        "types": ["Psychic"],
-        "weaknesses": [{
-            "type": "Metal",
-            "value": "×2"
-        }]
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
     },
     {
         "id": "swsh45-65",
@@ -1921,16 +2636,22 @@
         ]
     },
     {
-        "attacks": [{
+        "attacks": [
+            {
                 "convertedEnergyCost": 1,
-                "cost": ["Colorless"],
+                "cost": [
+                    "Colorless"
+                ],
                 "damage": "",
                 "name": "Adornment",
                 "text": "For each of your Benched Pokémon, search your deck for a {P} Energy card and attach it to that Pokémon. Then, shuffle your deck."
             },
             {
                 "convertedEnergyCost": 2,
-                "cost": ["Psychic", "Psychic"],
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
                 "damage": "60x",
                 "name": "G-Max Whisk",
                 "text": "Discard any amount of Energy from your Pokémon. This attack does 60 damage for each card you discarded in this way."
@@ -1944,14 +2665,22 @@
         "number": "73",
         "rarity": "Rare Secret",
         "resistances": [],
-        "retreatCost": ["Colorless", "Colorless", "Colorless"],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
         "setCode": "swsh45",
         "subtype": "VMAX",
         "supertype": "Pokémon",
-        "types": ["Psychic"],
-        "weaknesses": [{
-            "type": "Metal",
-            "value": "×2"
-        }]
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
     }
 ]
