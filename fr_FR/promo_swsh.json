@@ -4674,6 +4674,101 @@
             {
                 "convertedEnergyCost": 1,
                 "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Flammes Rampantes",
+                "text": "Attachez jusqu’à 3 cartes Énergie {R} de votre pile de défausse à vos Pokémon comme il vous plaît."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Fire"
+                ],
+                "damage": "30x",
+                "name": "Explosion d’Énergie",
+                "text": "Cette attaque inflige 30 dégâts pour chaque Énergie attachée aux deux Pokémon Actifs."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 190,
+        "id": "promo_swsh-104",
+        "name": "Victini-V",
+        "number": "104",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "30",
+                "name": "Coup Magique",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Psychic",
+                    "Psychic",
+                    "Colorless"
+                ],
+                "damage": "120+",
+                "name": "Pulsation Grandissante",
+                "text": "Si ce Pokémon a été soigné pendant ce tour, cette attaque inflige 80 dégâts supplémentaires."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-105",
+        "name": "Gardevoir-V",
+        "number": "105",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Metal",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
                     "Fighting"
                 ],
                 "damage": "30",
@@ -4763,6 +4858,520 @@
         "weaknesses": [
             {
                 "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Regard de l'Empereur",
+            "text": "Tant que ce Pokémon est sur le Poste Actif, les Pokémon de base en jeu de votre adversaire n'ont pas de talent, à l'exception des Pokémon ayant un encadré Règle(les Pokémon-V, Pokémon-GX, etc. ont des encadrés Règle).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Water",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "130",
+                "name": "Coupe Tourbillonnante",
+                "text": "Déplacez une Énergie de ce Pokémon vers l'un de vos Pokémon de Banc."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-108",
+        "name": "Pingoléon-V",
+        "number": "108",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "60",
+                "name": "Lapidalanche",
+                "text": "Défaussez les 2 cartes du dessus du deck de votre adversaire."
+            },
+            {
+                "convertedEnergyCost": 4,
+                "cost": [
+                    "Darkness",
+                    "Darkness",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "240",
+                "name": "Écrasement Poing Final",
+                "text": "Défaussez les 4 cartes du dessus de votre deck."
+            }
+        ],
+        "convertedRetreatCost": 3,
+        "evolvesFrom": "",
+        "hp": 230,
+        "id": "promo_swsh-109",
+        "name": "Tyranocif-V",
+        "number": "109",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Darkness"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Corne Balance",
+                "text": "Placez des marqueurs de dégâts sur l'un des Pokémon de votre adversaire jusqu'à ce qu'il ne lui reste que 100 PV."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "60+",
+                "name": "Psyko",
+                "text": "Cette attaque inflige 30 dégâts supplémentaires pour chaque Énergie attachée au Pokémon Actif de votre adversaire."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 210,
+        "id": "promo_swsh-111",
+        "name": "Galopa de Galar-V",
+        "number": "111",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Puissance In Extremis",
+            "text": "Les attaques de ce Pokémon infligent 30 dégâts supplémentaires au Pokémon Actif de votre adversaire pour chaque carte Récompense que votre adversaire a récupérée (avant application de la Faiblesse et de la Résistance).",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fire",
+                    "Colorless"
+                ],
+                "damage": "150",
+                "name": "Tir Boule de Feu",
+                "text": "Pendant votre prochain tour, ce Pokémon ne peut pas attaquer."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Raboot",
+        "hp": 170,
+        "id": "promo_swsh-112",
+        "name": "Pyrobut",
+        "number": "112",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Fire"
+        ],
+        "weaknesses": [
+            {
+                "type": "Water",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Tir Rapide",
+            "text": "Une fois pendant votre tour, vous pouvez placer 2 marqueurs de dégâts sur l'un des Pokémon de votre adversaire.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "70",
+                "name": "Cascade",
+                "text": ""
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "Drizzile",
+        "hp": 150,
+        "id": "promo_swsh-113",
+        "name": "Lézargus",
+        "number": "113",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Stage 2",
+        "supertype": "Pokémon",
+        "types": [
+            "Water"
+        ],
+        "weaknesses": [
+            {
+                "type": "Lightning",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Psychic"
+                ],
+                "damage": "",
+                "name": "Lueur Lunule",
+                "text": "Cherchez dans votre deck une carte Énergie {P}, puis attachez-la à l'un de vos Pokémon. Si vous jouez en second et que c'est votre premier tour, cherchez jusqu'à 3 cartes Énergie {P} à la place, puis attachez-les à l'un de vos Pokémon. Mélangez ensuite votre deck."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Psychic",
+                    "Psychic"
+                ],
+                "damage": "30+",
+                "name": "Laser à Photons",
+                "text": "Si vous avez au moins 5 Énergies en jeu, cette attaque inflige 90 dégâts supplémentaires."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 120,
+        "id": "promo_swsh-114",
+        "name": "Cresselia",
+        "number": "114",
+        "rarity": "Rare Promo",
+        "resistances": [
+            {
+                "type": "Fighting",
+                "value": "-30"
+            }
+        ],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Psychic"
+        ],
+        "weaknesses": [
+            {
+                "type": "Darkness",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "ability": {
+            "name": "Entraînement au Lancer",
+            "text": "Les attaques de vos Pokémon Mille Poings infligent 30 dégâts supplémentaires aux Pokémon-V de Banc et Pokémon-GX de Banc de votre adversaire (avant application de la Faiblesse et de la Résistance). Vous ne pouvez utiliser qu'un talent Entraînement au Lancer à la fois.",
+            "type": "Ability"
+        },
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "",
+                "name": "Dégommage",
+                "text": "Cette attaque inflige 20 dégâts à l'un des Pokémon de votre adversaire. (N'appliquez ni la Faiblesse ni la Résistance aux Pokémon de Banc.)"
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 110,
+        "id": "promo_swsh-115",
+        "name": "Quartermac",
+        "number": "115",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Psychic",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Glouton",
+                "text": "Piochez une carte."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Lightning",
+                    "Colorless"
+                ],
+                "damage": "40",
+                "name": "Éclair",
+                "text": "Lancez une pièce. Si c’est face, le Pokémon Actif de votre adversaire est maintenant Paralysé."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 80,
+        "id": "promo_swsh-116",
+        "name": "Morpeko",
+        "number": "116",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Lightning"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Fighting"
+                ],
+                "damage": "10",
+                "name": "Ruée",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Fighting",
+                    "Colorless"
+                ],
+                "damage": "30x",
+                "name": "Vengeur",
+                "text": "Cette attaque inflige 30 dégâts pour chaque marqueur de dégâts sur ce Pokémon."
+            }
+        ],
+        "convertedRetreatCost": 2,
+        "evolvesFrom": "",
+        "hp": 70,
+        "id": "promo_swsh-117",
+        "name": "Phanpy",
+        "number": "117",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Fighting"
+        ],
+        "weaknesses": [
+            {
+                "type": "Grass",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 1,
+                "cost": [
+                    "Colorless"
+                ],
+                "damage": "",
+                "name": "Signes d’Évolution",
+                "text": "Cherchez dans votre deck une carte Évolution d’Évoli, montrez-la, puis ajoutez-la à votre main. Mélangez ensuite votre deck."
+            },
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Coup Déchaîné",
+                "text": "Lancez une pièce. Si c’est pile, cette attaque ne fait rien."
+            }
+        ],
+        "convertedRetreatCost": 1,
+        "evolvesFrom": "",
+        "hp": 60,
+        "id": "promo_swsh-118",
+        "name": "Évoli",
+        "number": "118",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
+                "value": "×2"
+            }
+        ]
+    },
+    {
+        "attacks": [
+            {
+                "convertedEnergyCost": 2,
+                "cost": [
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "30",
+                "name": "Grande Claque",
+                "text": ""
+            },
+            {
+                "convertedEnergyCost": 3,
+                "cost": [
+                    "Colorless",
+                    "Colorless",
+                    "Colorless"
+                ],
+                "damage": "120",
+                "name": "Charge Poing Final",
+                "text": "Ce Pokémon s'inflige aussi 30 dégâts."
+            }
+        ],
+        "convertedRetreatCost": 4,
+        "evolvesFrom": "",
+        "hp": 140,
+        "id": "promo_swsh-119",
+        "name": "Ronflex",
+        "number": "119",
+        "rarity": "Rare Promo",
+        "resistances": [],
+        "retreatCost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+        ],
+        "setCode": "promo_swsh",
+        "subtype": "Basic",
+        "supertype": "Pokémon",
+        "types": [
+            "Colorless"
+        ],
+        "weaknesses": [
+            {
+                "type": "Fighting",
                 "value": "×2"
             }
         ]
